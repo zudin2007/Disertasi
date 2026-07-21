@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "halalscreener": {
+      "command": "npx",
+      "args": ["-y", "halalscreener-mcp"],
+      "env": { "HALALSCREENER_API_KEY": "hs_live_your_key" }
+    }
+  }
+}
