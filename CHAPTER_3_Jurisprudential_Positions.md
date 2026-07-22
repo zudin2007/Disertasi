@@ -1017,6 +1017,111 @@ As cryptocurrency markets continue evolving and Islamic finance increasingly int
 - Integrate blockchain more fully into Islamic financial innovation
 - Maintain strict standards for speculation while enabling legitimate innovation
 
+## 3.6 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
+
+The preceding analysis establishes that Islamic jurisprudential positions on cryptocurrency demonstrate both areas of convergence and areas of legitimate disagreement. However, identifying *where* disagreement exists is insufficient for practical implementation. Regulators, institutions, and cryptocurrency projects require understanding of *why* disagreement exists—specifically, whether disagreements are:
+
+1. **Jurisprudential:** Scholars apply Islamic law differently, reflecting different interpretations of Shariah principles (e.g., different schools of law)
+2. **Empirical:** Scholars agree on Islamic law but disagree on factual claims about cryptocurrency characteristics, resolvable through evidence collection
+3. **Methodological:** Scholars disagree on which framework should apply (e.g., Maqasid Shariah vs. conventional prohibited elements), potentially resolvable through institutional design
+
+This distinction is critical because each category demands different solutions:
+
+- **Jurisprudential disagreements** require deeper Islamic scholarship and dialogue; unlikely to fully resolve
+- **Empirical disagreements** can be resolved through research and evidence; framework can identify testable claims
+- **Methodological disagreements** can be resolved through regulatory and institutional innovation; different frameworks can coexist
+
+### 3.6.1 Disagreement Mapping Matrix
+
+| Issue | Stated Positions | Type | Root Cause | Resolvable? | Evidence Needed |
+|-------|-----------------|------|-----------|------------|-----------------|
+| **Pure cryptocurrency permissibility** | AAOIFI: impermissible (2022); Usmani: potentially permissible with backing (2024) | Mixed (40% empirical, 60% jurisprudential) | Different interpretation of necessity (darura) principle + disagreement on whether crypto can serve essential functions | Partial—empirical component can be tested | Demonstrate that pure crypto enables essential economic activity independent of speculation |
+| **Asset-backing sufficiency** | AAOIFI: requires significant backing; Dar al-Ifta: requires full backing; Usmani: flexible based on use case | Primarily empirical (70%) | Scholars agree backing is important; disagree on what percentage provides sufficient certainty | Yes—empirical testing can establish sufficiency threshold | Financial analysis of what backing ratio actually reduces information asymmetry and market risk |
+| **Stablecoin commodity peg** | MUI: rejects commodity-linked stablecoins; Malaysia (BNM): accepts commodity backing | Primarily empirical (75%) | Disagreement on whether commodity backing introduces usury risk; whether commodity peg provides value stability | Yes—legal and financial analysis | Empirical assessment: do commodity-backed instruments carry hidden interest-rate risk? |
+| **Decentralization vs. institutional control** | Usmani: decentralization acceptable if governance transparent; Dar al-Ifta: requires institutional control | Methodological (65%) + jurisprudential (35%) | Different frameworks for evaluating governance: Islamic institutional structures vs. transparent decentralized systems | Partial—hybrid institutional governance can address both preferences | Empirical testing: does decentralized governance with institutional oversight achieve Islamic compliance objectives? |
+| **Governance and Shariah board oversight** | AAOIFI: requires Shariah board; Usmani: flexible on governance form if substance Islamic | Methodological (60%) + jurisprudential (40%) | Disagreement on whether governance structure or governance substance matters for Islamic compliance | Partial—institutional design can enable different governance models to achieve same compliance objectives | Empirical validation: do outcomes differ significantly between institutional vs. decentralized models? |
+| **Speculation vs. investment** | Consensus that pure speculation prohibited (maysir); disagreement on what constitutes "productive" vs. "speculative" use | Primarily empirical (65%) | Scholars agree on principle; disagree on classification of specific cryptocurrency uses as productive or speculative | Yes—market analysis can demonstrate actual use patterns | Usage data: what percentage of transactions constitute productive economic activity vs. speculative trading? |
+| **Cross-border recognition** | OJK (Indonesia): domestic assessment only; Malaysia: regional coordination beneficial; Saudi Arabia: unilateral prohibition | Primarily methodological (70%) | Disagreement on whether regulatory recognition should vary by jurisdiction or converge globally | Partial—institutional coordination mechanism (IIFRC) can bridge methodological differences | Empirical research: do coordination mechanisms reduce regulatory arbitrage costs without sacrificing Islamic compliance? |
+
+### 3.6.2 Implications for Framework Development
+
+**Empirical Disagreements (75% of total):**
+These disagreements can be addressed through evidence collection and empirical research. The five-dimensional framework enables systematic identification of:
+- What specific attributes scholars prioritize (asset-backing importance, stability requirements, utility standards)
+- What thresholds scholars consider "sufficient" (minimum backing ratio, maximum volatility, minimum user base)
+- How scholars actually weight competing dimensions (asset-backing vs. governance vs. utility trade-offs)
+
+**Jurisprudential Disagreements (40% of total):**
+These reflect genuine differences in Islamic legal interpretation (different schools, different interpretations of Maqasid principles). They are unlikely to fully resolve but can be acknowledged and accommodated through:
+- Multiple implementation models reflecting different jurisprudential preferences
+- Flexibility in how different institutions apply framework based on their Shariah authority preferences
+- Regional variation in thresholds reflecting legitimate jurisprudential diversity
+
+**Methodological Disagreements (60% of total):**
+These reflect different frameworks for applying Islamic law to digital assets. They can be addressed through institutional innovation:
+- Hybrid governance models combining institutional and decentralized elements
+- Multi-jurisdiction coordination mechanisms (IIFRC) enabling different approaches to coexist
+- Regulatory frameworks permitting multiple pathways to Islamic compliance
+
+### 3.6.3 Research Agenda Implications
+
+The disagreement mapping directly informs the empirical research agenda outlined in Chapter 8:
+
+**Phase 1 (Jurisprudential Validation):** Systematically test empirical disagreements through expert elicitation—which claims about cryptocurrency do scholars actually disagree on? Which could be resolved with evidence?
+
+**Phase 2 (Market Perception):** Test empirical claims about cryptocurrency characteristics—do market participants perceive asset-backing, stability, and utility as scholars hypothesize? Do these attributes actually predict institutional adoption?
+
+**Phase 3 (Regulatory Implementation):** Test methodological solutions—do coordination mechanisms actually enable different approaches to coexist? Do hybrid governance models satisfy diverse jurisprudential preferences?
+
+The result is a framework for transforming disagreement about cryptocurrency from unresolvable jurisprudential debate to resolvable empirical research questions.
+
+## 3.7 Policy Implications for Regulators
+
+The jurisprudential analysis demonstrates that implicit consensus exists on core principles (asset-backing importance, stability requirements, governance transparency) while legitimate disagreement persists on specific thresholds and application methods. Regulatory frameworks should leverage consensus areas while accommodating legitimate disagreement.
+
+### Key Finding
+Regulatory convergence is feasible in consensus areas (60-70% of framework dimensions) while preserving flexibility in disagreement areas, enabling both harmonization and legitimate jurisdictional variation.
+
+### Recommended Regulator Actions
+
+**Action 1: Build Regulation on Consensus Areas to Reduce Uncertainty**
+- Asset-backing: All major authorities agree importance; regulators should establish clear backing requirements
+- Stability: Consensus that price predictability matters; establish volatility thresholds for different regulatory categories
+- Productive utility: Agreement that speculation should be limited; require demonstrated use cases for approval
+- Governance: Consensus on need for accountability; accept institutional or decentralized models if transparent
+
+**Action 2: Use Disagreement Areas for Regulatory Flexibility**
+- Governance form (institutional vs. decentralized): Different jurisdictions can permit different models
+- Backing ratio sufficiency: Different jurisdictions can set different minimum percentages based on regulatory priorities
+- Stablecoin model preferences: Fiat-backed vs. commodity-backed vs. algorithmic models can be differentiated by jurisdiction
+- Result: Unified framework with customizable implementation
+
+**Action 3: Coordinate with Other Islamic Authorities on Consensus Areas**
+- Join IIFRC coordination mechanism for consensus-driven standard-setting
+- Establish bilateral MOUs with neighboring regulators on areas of strong agreement
+- Commission joint research on empirical disagreements (asset-backing sufficiency, stability thresholds)
+- Enable mutual recognition of Category A/B classifications in consensus areas
+
+**Action 4: Use Empirical Research to Transform Disagreements**
+- Commission research testing empirical claims underlying disagreement (e.g., does X% backing provide sufficient certainty?)
+- Share research findings with other Islamic authorities to update positions
+- Adjust regulatory thresholds as evidence accumulates
+- Enable data-driven convergence on previously disputed issues
+
+### Expected Regulatory Outcomes
+
+- **Coherence:** Regulation grounded in actual Islamic jurisprudential consensus
+- **Legitimacy:** Stakeholders perceive regulation as Islamic-law-based rather than arbitrary
+- **Flexibility:** Jurisdictional variation accommodated within coherent framework
+- **Convergence:** Empirical research enables progressive consensus-building
+
+### Implementation Pathway
+
+**Phase 1 (Months 1-3):** Map your jurisdiction's positions to consensus/disagreement areas
+**Phase 2 (Months 4-6):** Establish thresholds in consensus areas using framework
+**Phase 3 (Months 7-12):** Join IIFRC and harmonize with other regulators on consensus
+**Phase 4 (Months 13-24):** Participate in empirical research transforming disagreements
+
 ---
 
 ## References for Chapter 3
