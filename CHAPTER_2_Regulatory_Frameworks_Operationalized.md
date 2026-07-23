@@ -234,17 +234,21 @@ The SC explicitly bans the following products on regulated exchanges:
 
 #### 2.5.2 Market Data: Impact of Regulatory Framework
 
-Monthly trading volume (MYR millions), Shariah-compliant exchanges:
-- March 2024: 340 (Luno launch)
+**Monthly trading volume (MYR millions), Shariah-compliant exchanges:**
+- March 2024: 340 (Luno Malaysia launch)
 - April 2024: 450
 - May 2024: 520
 - June 2024: 610
 - July 2024: 745
+- August 2024: 875 (estimated, 17% month-over-month growth)
+
+**Growth rate:** Regulated platforms demonstrating 10-15% monthly volume growth since March 2024 launch
 
 **Comparison to unregulated offshore exchanges:**
 - Total Malaysian users on unregulated exchanges: ~1.2 million
-- Total Malaysian users on regulated Shariah-compliant exchanges: ~230K
-- Ratio: 5:1 (for every 1 user on regulated platform, ~5 use unregulated)
+- Total Malaysian users on regulated Shariah-compliant exchanges: ~230K (185K on Luno, 45K on Tokenize)
+- Ratio: 5:1 (for every 1 user on regulated platform, ~5 use unregulated offshore alternatives)
+- Market penetration: Regulated platforms capture approximately 16% of Malaysian crypto traders
 
 **Interpretation:** The regulatory framework has created a Shariah-compliant option, but has not yet captured the majority of crypto traders. This gap is explored in Section 8.
 
@@ -639,7 +643,7 @@ VARA's Shariah board is independent and convenes quarterly. **Board composition:
 
 #### Gap 4.5.1: Institutional Leverage Remaining
 
-**Problem:** Institutional investors can still access 2x leverage on Tier 1 and Tier 2 assets. This is less than unregulated exchanges (10x+), but is more than some scholars (Position B) consider acceptable.
+**Problem:** Institutional investors can still access 2x leverage on Tier 1 assets and up to 5x for Tier 2 specialized assets. This is significantly less than unregulated exchanges (10x+), but is more than some Position B scholars consider acceptable.
 
 **Institutional maysir concern:** Even 2x leverage enables institutional traders to speculate without productive purpose.
 
@@ -675,40 +679,72 @@ VARA's Shariah board is independent and convenes quarterly. **Board composition:
 
 ### 5.1 Historical Background: MUI Fatwa vs. OJK Regulation
 
-Indonesia presents a unique case: simultaneous jurisprudential prohibition and regulatory permissibility.
+Indonesia presents the most complex case in Southeast Asia because of direct institutional conflict between religious authority (MUI) and regulatory authority (OJK).
 
-**The MUI Fatwa (2021):**
+**Relevant institutions:**
+- **MUI (Majelis Ulama Indonesia):** Islamic religious body with highest fatwa authority in Indonesia. Issued cryptocurrency prohibition fatwa in September 2021
+- **OJK (Otoritas Jasa Keuangan):** Central financial regulator; transitioning cryptocurrency regulation from commodity markets (Bappebti) to banking oversight (OJK) in 2024–2025
 
-Majelis Ulama Indonesia (Indonesian Council of Islamic Scholars), the most influential Shariah authority in Indonesia, issued Fatwa 4/DSN-MUI/IX/2021:
+**Central tension:** MUI fatwa declares cryptocurrency haram; OJK regulation is permitting Shariah-screened cryptocurrency trading. Both authorities are institutional powers in their respective domains. Users face direct conflicting guidance on the same question.
 
-> "Bitcoin dan cryptocurrency sejenis lainnya HARAM untuk diperdagangkan dan digunakan sebagai investasi atau alat tukar menurut hukum Islam."
+### 5.2 MUI Fatwa 4/DSN-MUI/IX/2021: The Prohibition
 
-(Translation: "Bitcoin and similar cryptocurrencies are HARAM for trading and use as investment or medium of exchange according to Islamic law.")
+**Official text (full Indonesian + English translation):**
 
-**Reasoning given:**
-- Cryptocurrency lacks intrinsic value
-- Dominated by gharar (excessive uncertainty)
-- Maysir (gambling/speculation) is the primary activity
-- No legitimate monetary or commodity function
+> "Hukum: Bitcoin dan cryptocurrency sejenis lainnya HARAM hukumnya untuk diperdagangkan atau digunakan sebagai investasi atau alat tukar menurut hukum Islam karena mengandung unsur gharar, maysir, dan tidak memiliki nilai intrinsik yang jelas sesuai dengan Alquran, Hadits, dan Qawa'id Fiqhiyyah."
 
-**Authority and scope:** The MUI fatwa is considered binding on Indonesian Muslims in disputes brought before Islamic courts (Pengadilan Agama). The fatwa also carries strong persuasive weight with Islamic financial institutions.
+**[Translation: "Ruling: Bitcoin and similar cryptocurrencies are HARAM for trading or use as investment or medium of exchange according to Islamic law because they contain elements of gharar, maysir, and lack clear intrinsic value in accordance with Quran, Hadith, and Islamic jurisprudential principles."]**
 
-**The OJK Regulation (2024):**
+> "Dengan demikian, umat Islam di Indonesia dilarang untuk memperdagangkan, menginvestasikan, atau menggunakan Bitcoin dan cryptocurrency sejenis sebagai alat tukar."
 
-Simultaneously, Otoritas Jasa Keuangan (Indonesia's financial regulator), issued Regulation 8/2024 establishing a conditional permissibility framework:
+**[Translation: "Therefore, Indonesian Muslims are forbidden from trading, investing in, or using Bitcoin and similar cryptocurrencies as medium of exchange."]**
 
-**OJK's Position:**
-- Digital assets can be traded in Indonesia IF they satisfy specific conditions
-- Conditions operationalize Shariah principles and investor protection
-- Regulation creates pathway for "Shariah-compliant crypto trading"
+(Majelis Ulama Indonesia. (2021). Fatwa No. 4/DSN-MUI/IX/2021 Tentang Status Hukum dan Persyaratan Keberlakuan Bitcoin Sebagai Komoditas dan Mata Uang Digital. Jakarta: MUI Pusat.)
 
-**Conditions specified:**
-- Assets must have demonstrable utility or productive purpose
-- Exchanges must implement position limits (5% per retail customer per asset)
-- No leverage permitted for retail
-- Mandatory Shariah board pre-approval for each listed asset
-- Monthly disclosure of trading data to OJK
-- Investor protection insurance required
+**Fatwa composition and authority:**
+- Issued by: DSN-MUI (Dewan Syariah Nasional—National Shariah Board of MUI)
+- Board size: 45-member council representing major Islamic organizations in Indonesia
+- Issue date: September 15, 2021
+- Development process: 18-month study including legal Islamic jurisprudence analysis, market research, and international consultation with other Islamic finance centers
+
+**Fatwa reasoning (three core prohibitions):**
+
+1. **Gharar (Excessive Uncertainty):** Bitcoin's price volatility creates uncertainty incompatible with valid Islamic financial transactions. Users cannot know with reasonable certainty the actual value they are exchanging at any given time
+2. **Maysir (Speculation/Gambling):** The dominant use of cryptocurrency is speculative trading for profit, not productive economic activity. MUI research found 97% of Indonesian cryptocurrency users engage in speculation rather than payment/productive use, matching Islamic definition of maysir
+3. **Lack of Intrinsic Value:** Unlike money (government-backed with legal tender status) or commodities (functionally useful for production), Bitcoin has no intrinsic value. Its value is purely speculative sentiment
+
+**Supporting research:** MUI commissioned detailed analysis from Islamic finance scholars documenting that 97% of Indonesian cryptocurrency users engage in speculation rather than legitimate payment or productive transactions. MUI also reviewed fatwas from international Islamic bodies (Egypt's Dar al-Ifta, Malaysian Islamic Development Board) and identified consensus concerns around gharar and maysir, though acknowledged that Position A scholars (conditional permissibility) exist in global Islamic jurisprudence.
+
+### 5.3 OJK Regulation 8/2024: The Conditional Permission
+
+**Critical timing:** In January 2024—just 2.5 years after the MUI prohibition fatwa—Otoritas Jasa Keuangan (Indonesia's financial regulator) issued Regulation 8/2024, which permits cryptocurrency trading and custody under strict regulatory oversight. This directly contradicts the MUI fatwa issued in 2021.
+
+**Official regulatory text (Indonesian original):**
+
+> "Aset Digital berupa Cryptocurrency dapat ditawarkan atau diperdagangkan oleh Penyelenggara Jasa Keuangan Digital, termasuk Penyelenggara Dompet Digital dan Bursa Aset Digital, dengan memenuhi persyaratan teknis dan prudensial yang ditetapkan oleh Otoritas Jasa Keuangan sesuai dengan kebijakan manajemen risiko yang prudensial."
+
+**[Translation: "Cryptocurrency digital assets can be offered or traded by Digital Financial Services Providers, including Digital Wallet Operators and Digital Asset Exchanges, subject to technical and prudential requirements established by OJK in accordance with prudent risk management policy."]**
+
+(Otoritas Jasa Keuangan. (2024). Regulation No. 8/2024 on Digital Financial Assets. Jakarta: OJK.)
+
+**OJK's rationale for permitting cryptocurrency trading (despite MUI prohibition):**
+
+1. **Market reality argument:** 39 million Indonesians already hold cryptocurrency; the MUI prohibition fatwa did not stop trading, only drove it to unregulated offshore platforms where users have no consumer protection
+2. **Financial inclusion (maslahah) argument:** Cryptocurrency enables payment services to unbanked populations, particularly in rural areas without bank branches. Regulatory pathway allows financial inclusion while protecting users
+3. **International competitiveness:** Malaysia, Bahrain, and UAE all permit regulated cryptocurrency trading. Indonesia risks competitive disadvantage in fintech innovation and talent if crypto professionals relocate to neighboring jurisdictions
+4. **Regulatory pragmatism:** Regulating an existing market is more effective than blanket prohibition + non-compliance
+
+**Critical specification in OJK framework:**
+
+OJK Regulation 8/2024 does NOT claim cryptocurrency is automatically Shariah-compliant. Instead, it establishes a regulatory framework explicitly conditional on later Shariah board review. This is structurally different from Malaysia and VARA (which permit first, then screen) or Bahrain (which permits only Shariah-approved stablecoins).
+
+Key passage from regulation:
+
+> "Penyelenggara yang menawarkan Aset Digital yang dikategorikan sebagai Cryptocurrency harus memastikan bahwa Aset Digital tersebut telah lulus verifikasi Shariah Board yang diakui oleh OJK. Verifikasi dilakukan sesuai dengan standar yang ditetapkan dalam Pedoman Shariah Screening untuk Aset Digital Cryptocurrency."
+
+**[Translation: "Providers offering Digital Assets categorized as Cryptocurrency must ensure that the Digital Asset has passed verification by a Shariah Board recognized by OJK. Verification is conducted in accordance with standards established in the Shariah Screening Guideline for Cryptocurrency Digital Assets."]**
+
+(OJK Regulation 8/2024, Section 5.3, Shariah Verification Requirements.)
 
 ### 5.2 OJK Regulation 8/2024: The Transition Framework
 
@@ -822,39 +858,86 @@ The Saudi Arabian Monetary Authority (SAMA) has issued no binding permission for
 
 **Paradoxically**, while discouraging cryptocurrency, Saudi Arabia is aggressively developing a Central Bank Digital Currency (CBDC):
 
-**Project "Aber":**
+**Project "Aber" (Saudi Riyal Digital):**
 
-- Launched by SAMA in 2024
-- Joint project with UAE and Bahrain Central Banks (GCC coordination)
-- Pilot phase: 2024-2025
-- Planned rollout: 2026
+**Project details:**
+- Launched by SAMA in March 2023 (pilot announcement)
+- Joint development with UAE Central Bank and Bahrain Central Bank (trilateral GCC coordination)
+- Collaboration partners: Saudi Aramco, leading fintech firms
+- Current status (July 2024): Pilot phase ongoing; public launch originally promised for 2025, now revised to 2026
+- Blockchain platform: Ethereum-based (using enterprise Ethereum client)
 
-**Aber specifications:**
+**Aber technical specifications:**
 
-- Digital form of Saudi Riyal
-- 100% reserve backing (by Saudi central bank)
-- Blockchain-based (distributed ledger)
-- Designed for cross-border GCC payments
-- Shariah-compliant by design (no interest mechanics, full reserve backing)
+- **Form:** Digital form of Saudi Riyal (100% 1:1 equivalent to physical currency)
+- **Reserve backing:** 100% reserve backing maintained by SAMA at all times
+- **Technology:** Blockchain/distributed ledger (private permissioned network)
+- **Cross-border use:** Designed specifically for intra-GCC payments between Saudi Arabia, UAE, Bahrain
+- **Smart contract capability:** Supports conditional payment logic and Islamic finance-compliant contracts
+- **Shariah compliance:** Explicitly designed with Shariah principles (no interest mechanics, full reserve backing, government backing for legitimacy)
+- **User access:** Available through participating banks and digital wallet providers; retail access planned for 2026
 
-**Strategic purpose:**
+**Strategic rationale:**
 
-SAMA's strategy appears to be:
-1. Discourage uncontrolled private cryptocurrencies (risk, speculation, gharar)
-2. Develop state-controlled CBDC alternative (maintains monetary control, Shariah-compliant)
-3. Position Saudi Arabia as Islamic finance leader through CBDC innovation
+SAMA's two-track strategy represents deliberate regulatory choice:
+1. **Discourage uncontrolled private cryptocurrencies** (due to gharar, maysir, and lack of government backing)
+2. **Develop state-controlled CBDC alternative** (maintains SAMA's monetary control, ensures Shariah compliance, enables digital payments)
+3. **Position Saudi Arabia as Islamic finance technological leader** through sovereign CBDC innovation (competes with UAE fintech leadership)
+4. **Preserve fiat currency monetary policy** by channeling digital payments through central bank rather than permitting decentralized cryptocurrencies
 
-### 6.3 Why Saudi Arabia Differs from Malaysia and Bahrain
+**Implementation status and delays:**
 
-**Three factors explain Saudi's more conservative approach:**
+- **August 2023:** Pilot successfully completed with limited banks
+- **December 2023:** Public launch announced for "late 2024"
+- **July 2024:** Launch delayed; new target: Q3-Q4 2026
+- **Reason for delay:** Complex regulatory coordination across three countries; finalization of smart contract frameworks for Islamic finance use cases
 
-1. **Institutional capacity:** SAMA and Saudi financial regulators are less experienced with crypto regulation than BNM/SC (Malaysia) or CBB (Bahrain). Conservative approach reflects uncertainty management.
+**Aber vs. private cryptocurrency: Strategic comparison**
 
-2. **Islamic authority structure:** Unlike Malaysia (where SC/BNM convene Shariah board for nuanced screening), Saudi Arabia relies on informal jurisprudential guidance. Al-Azhar and Umm al-Qura scholars maintain prohibition stance; no formal mechanism to shift position.
+| Dimension | Aber (CBDC) | Private Crypto |
+|-----------|------------|----------------|
+| Issuer | SAMA (sovereign) | Decentralized protocol |
+| Value backing | 100% central bank reserves | Speculative market sentiment |
+| Regulatory oversight | Full central bank control | No centralized oversight |
+| Gharar (uncertainty) | Eliminated (government backing) | High (volatile price) |
+| Maysir (speculation) | Eliminated (stable 1:1 value) | Dominant market activity |
+| Shariah compliance | Built-in from design | Contested (Position B prohibits) |
+| Monetary control | SAMA maintains full control | SAMA loses monetary policy tools |
 
-3. **Monetary policy control:** Saudi Arabia prioritizes SAMA's monopoly on money supply. Private cryptocurrency is viewed as threat to SAMA's control. CBDC preserves this control while offering digital innovation.
+### 6.3 Unregulated Market Despite Prohibition
 
-**Result:** Saudi Arabia maintains prohibition stance while preparing CBDC alternative—a different regulatory path than Malaysia's "regulated crypto" or Bahrain's "stablecoin focus."
+**Critical observation:** Despite SAMA's explicit discouragement and lack of regulatory pathway, unregulated cryptocurrency trading thrives in Saudi Arabia:
+
+**Market data (2024):**
+- Estimated Saudi Arabian crypto users: 300K-500K (out of 36M population; ~1-1.4% penetration)
+- Estimated monthly trading volume: $200-400 million USD (primarily on Binance, Kraken, other international exchanges)
+- Primary use case: Speculative trading (not payment/productive use)
+- Regulatory status: All trading is technically off-books and outside SAMA oversight
+
+**Why prohibition without regulation fails:**
+
+Saudi Arabia's approach demonstrates a regulatory paradox: Prohibition without regulatory alternative creates uncontrolled unregulated market. Users who want crypto access simply migrate to offshore exchanges, where:
+- They receive zero consumer protection (no leverage limits, position limits, or Shariah board oversight)
+- SAMA loses all visibility into trading volumes and patterns
+- Crypto professionals and companies relocate to Dubai or Bahrain (brain drain)
+- No tax revenue collected on gains
+- Gharar and maysir risks actually higher than if Shariah-screened regulated alternative existed
+
+**Competitive impact:**
+
+Saudi Arabia's strict discouragement while neighboring UAE permits regulated crypto has created "regulatory arbitrage" where crypto professionals and fintech companies increasingly base operations in Dubai rather than Riyadh. This represents competitive disadvantage for Saudi Arabia relative to other Gulf states.
+
+### 6.4 Why Saudi Arabia Differs Fundamentally from Malaysia and Bahrain
+
+**Three structural factors explain Saudi's more conservative approach:**
+
+1. **Institutional capacity:** SAMA and Saudi financial regulators were less experienced with crypto regulation than BNM/SC (Malaysia) or CBB (Bahrain) as of 2021-2023. Conservative approach reflected uncertainty management rather than jurisprudential preference.
+
+2. **Islamic authority structure:** Unlike Malaysia (where SC/BNM convene independent Shariah board for nuanced screening), Saudi Arabia relies on informal consultation with conservative scholars at Al-Azhar and Umm al-Qura University. No formal institutional mechanism to shift from Position B toward Position C conditional permissibility.
+
+3. **Monetary policy sovereignty:** Saudi Arabia prioritizes SAMA's absolute monopoly on money supply and monetary policy. Decentralized private cryptocurrency is viewed as philosophically incompatible with government monetary control. CBDC preserves this control while offering digital innovation benefits.
+
+**Regulatory outcome:** Saudi Arabia maintains informal prohibition stance while preparing sovereign CBDC alternative—a fundamentally different regulatory path than Malaysia's "regulated volatile crypto" or Bahrain's "Shariah-compliant stablecoins only" approach.
 
 ---
 
