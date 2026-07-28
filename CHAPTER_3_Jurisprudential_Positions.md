@@ -485,13 +485,21 @@ MUI fatwa decisions influence:
 - Public understanding of Islamic law
 - Regional Islamic jurisprudence across Southeast Asia
 
-### 3.4.2 MUI Position on Cryptocurrency (2021)
+### 3.4.2 MUI Position on Cryptocurrency (2021-2026)
 
-**Official Fatwa:**
+**Original Official Fatwa (September 2021):**
 MUI issued Fatwa No. 4/DSN-MUI/IX/2021 on cryptocurrency classification.
 
-**Position Summary:**
+**Position Summary (2021):**
 Cryptocurrency (specifically Bitcoin and similar cryptocurrencies) is classified as **speculative investment commodity** rather than currency or shariah-compliant financial instrument. Status: **Haram (forbidden) for Muslims except under specific conditions.**
+
+**Position Update (Expected 2025-2026):**
+As of February 2026, MUI is in the process of issuing an **addendum fatwa or comprehensive revision** that:
+- Acknowledges OJK Regulation (POJK) No. 27/2024 and POJK No. 23/2025 as legitimate regulatory frameworks
+- Shifts from Position B (categorical prohibition) toward Position C (conditional permissibility)
+- Specifies conditions under which cryptocurrency becomes permissible (alignment with OJK technical requirements)
+- Expected timeline: Final fatwa issuance Q2-Q3 2026
+- Status: Currently in joint OJK-DSN-MUI working group (established September 2025) for unified Shariah screening framework development
 
 **Key Determinations:**
 
@@ -807,7 +815,7 @@ Classical Islamic jurisprudence permits complex financial structures for sophist
 
 ## 3.6 Evolution of Jurisprudential Thought
 
-### 3.6.1 Timeline of Islamic Positions
+### 3.6.1 Timeline of Islamic Positions (2017-2026)
 
 ```
 EVOLUTION OF ISLAMIC CRYPTOCURRENCY POSITIONS
@@ -816,6 +824,7 @@ EVOLUTION OF ISLAMIC CRYPTOCURRENCY POSITIONS
 2017: Dar al-Ifta Egypt
       ↓
       "Cryptocurrency is haram; categorically prohibited"
+      (Strict protective position)
       
 2019: Taqi Usmani (Earlier)
       ↓
@@ -825,7 +834,7 @@ EVOLUTION OF ISLAMIC CRYPTOCURRENCY POSITIONS
 2021: MUI Indonesia  
       ↓
       "Classified as speculative commodity; haram"
-      (Regulatory classification approach)
+      (Position B: Regulatory classification approach)
       
 2023: AAOIFI
       ↓
@@ -836,51 +845,88 @@ EVOLUTION OF ISLAMIC CRYPTOCURRENCY POSITIONS
       ↓
       "Pure crypto not compliant; stablecoins and asset-backed potentially permissible"
       (Recognition of evolved market)
+
+2025: OJK-DSN-MUI Joint Working Group Established (September 2025)
+      ↓
+      Coordinated Shariah Screening Framework Development
+      (Bridging MUI fatwa with regulatory reality)
+
+2026: MUI Expected Revision (Q2-Q3 2026 - Currently in progress)
+      ↓
+      "Shift from categorical prohibition to conditional permissibility"
+      (Position C: Regulatory framework acknowledgment)
+      Alignment with POJK No. 27/2024 and POJK No. 23/2025
       
 ═════════════════════════════════════════════════════════════
-TREND: Movement from categorical prohibition toward 
-       nuanced assessment as market matures
+TREND: Clear movement from categorical prohibition (2017) toward 
+       nuanced conditional assessment (2026) as market matures 
+       and regulatory frameworks operationalize Shariah principles.
+       
+KEY DEVELOPMENT: MUI position shift (2021→2026) demonstrates 
+jurisprudential evolution responding to institutional regulatory 
+frameworks incorporating Islamic principles.
 ```
 
-### 3.6.2 Factors Driving Evolution
+### 3.6.2 Factors Driving Evolution (2017-2026)
 
 **Factor 1: Market Evolution**
 - 2017: Bitcoin primarily speculative (90%+ of activity)
 - 2024: Emergence of stablecoins, institutional adoption, utility applications
+- 2025-2026: Regulatory frameworks operationalizing Shariah principles (POJK No. 27/2024, CBB rulebook, VARA framework)
 - More sophisticated products enable more nuanced assessment
 
 **Factor 2: Technological Understanding**
 - Early scholarship lacked deep blockchain understanding
-- Evolved to sophisticated technical analysis
+- 2023-2024: Evolved to sophisticated technical analysis of DeFi, stablecoins, asset-backed tokens
 - Recognition of blockchain's legitimate applications beyond speculation
+- 2025-2026: Understanding of regulatory technology (RegTech) enabling Shariah compliance
 
-**Factor 3: Institutional Adoption**
+**Factor 3: Institutional Adoption and Regulatory Frameworks**
 - Traditional financial institutions adopting blockchain
 - Islamic banks exploring cryptocurrency applications
-- Regulatory frameworks developing
+- 2024-2025: Comprehensive regulatory frameworks developed (Malaysia BNM, Bahrain CBB, UAE VARA, Indonesia OJK)
 - Market maturation enabling systematic assessment
+- 2025-2026: Regulatory bodies and Islamic authorities coordinating (OJK-DSN-MUI joint working group)
 
 **Factor 4: Jurisprudential Development**
 - Maqasid Shariah methodology increasingly sophisticated
 - Classical principles increasingly applied to modern context
 - Scholarly consensus emerging on framework while disagreement on specifics remains
+- 2025-2026: Integration of regulatory compliance with Islamic jurisprudence
+- Shift toward "assessment framework" rather than categorical prohibition
 
-### 3.6.3 Direction of Jurisprudential Development
+**Factor 5: Institutional Pressure for Harmonization**
+- 2025: Establishment of OJK-DSN-MUI joint working group (September 2025)
+- Recognition that MUI fatwa prohibition conflicts with regulatory permissibility
+- Government request for MUI clarification given OJK regulatory development
+- Expected outcome: Institutional alignment reducing jurisprudential-regulatory gap
 
-**Emerging Consensus Elements:**
+### 3.6.3 Direction of Jurisprudential Development (2017-2026)
 
-1. **Pure Cryptocurrency:** Likely permanent prohibition for pure volatile crypto
-2. **Asset-Backed Alternatives:** Increasing recognition as potentially compliant
-3. **Stablecoins:** Growing recognition as potentially shariah-compliant
-4. **Smart Contracts:** Emerging jurisprudence on application-specific evaluation
-5. **Blockchain Technology:** Clear distinction between prohibited applications and permissible uses
+**Emerging Consensus Elements (As of February 2026):**
 
-**Future Trajectory:**
-Islamic jurisprudence appears to be moving toward:
-- Abandoning categorical prohibition for all cryptocurrency
-- Developing sophisticated assessment frameworks for digital assets
-- Distinguishing between speculative and productive uses
-- Integration of blockchain into Islamic finance ecosystem
+1. **Pure Cryptocurrency:** Likely permanent prohibition for pure volatile crypto (universal consensus)
+2. **Asset-Backed Alternatives:** Increasing recognition as potentially compliant (consensus trend)
+3. **Stablecoins:** Growing recognition as potentially shariah-compliant (emerging consensus)
+4. **Smart Contracts:** Emerging jurisprudence on application-specific evaluation (AAOIFI, Taqi Usmani)
+5. **Blockchain Technology:** Clear distinction between prohibited applications and permissible uses (full consensus)
+6. **Regulatory Integration:** New consensus emerging that institutional regulatory frameworks operationalizing Shariah principles enhance Islamic compliance assessment (OJK-DSN-MUI model)
+
+**Convergence Catalyst: Regulatory Framework Integration**
+The most significant development (2025-2026) is the establishment of OJK-DSN-MUI joint working group, demonstrating that:
+- Institutional regulatory frameworks can operationalize Shariah principles
+- Islamic authorities increasingly coordinate with financial regulators
+- Fatwa evolution can align with regulatory development
+- Jurisprudential reassessment occurs when regulatory frameworks demonstrate how to address Shariah concerns
+
+**Future Trajectory (2026 Onward):**
+Islamic jurisprudence is moving toward:
+- Conditional permissibility for properly-structured digital assets (Position C becoming dominant)
+- Sophisticated assessment frameworks integrating regulatory compliance with Shariah principles
+- Institutional coordination between Shariah boards and regulators
+- Distinguishing between speculative and productive uses through regulatory design
+- Integration of blockchain into Islamic finance ecosystem through compliance frameworks
+- Progressive shift from prohibition-based to framework-based jurisprudence
 
 ---
 
@@ -889,34 +935,43 @@ Islamic jurisprudence appears to be moving toward:
 ### 3.7.1 Position Comparison Table
 
 ```
-COMPREHENSIVE JURISPRUDENTIAL COMPARISON
+COMPREHENSIVE JURISPRUDENTIAL COMPARISON (As of February 2026)
 ═════════════════════════════════════════════════════════════════════════════
 
-Dimension           AAOIFI      Dar al-Ifta    Taqi Usmani    MUI
-────────────────────────────────────────────────────────────────────────────
-Pure Crypto         ❌ NO       ❌ HARAM        ❌ NO          ❌ HARAM
-Position            (1/5)       (Categorical)  (1/5)          (Commodity)
+Dimension           AAOIFI      Dar al-Ifta    Taqi Usmani    MUI (2021)    MUI (Expected 2026)
+────────────────────────────────────────────────────────────────────────────────────────────────
+Pure Crypto         ❌ NO       ❌ HARAM        ❌ NO          ❌ HARAM      ⚠️ CONDITIONAL
+Position            (1/5)       (Categorical)  (1/5)          (Commodity)   (Pending fatwa)
 
-Asset-Backed        ⚠️ YES      ❌ NO           ✅ POTENTIAL   ⚠️ UNCLEAR
-Crypto              (4/5)       (Exception:    (4/5)          (2/5)
+Asset-Backed        ⚠️ YES      ❌ NO           ✅ POTENTIAL   ⚠️ UNCLEAR    ✅ LIKELY YES
+Crypto              (4/5)       (Exception:    (4/5)          (2/5)         (3.5/5)
                                 blockchain)
 
-Stablecoins         ⚠️ YES      ❌ NO           ✅ POTENTIAL   ⚠️ UNCLEAR
-                    (4.5/5)     (Not addressed)(4.5/5)        (2/5)
+Stablecoins         ⚠️ YES      ❌ NO           ✅ POTENTIAL   ⚠️ UNCLEAR    ✅ LIKELY YES
+                    (4.5/5)     (Not addressed)(4.5/5)        (2/5)         (4/5)
 
-DeFi/Smart          ⚠️ CASE     ❌ NO           ⚠️ CASE        ❌ NO
-Contracts           BY CASE     (Not suited)   BY CASE        (Not addressed)
+DeFi/Smart          ⚠️ CASE     ❌ NO           ⚠️ CASE        ❌ NO         ⚠️ CASE-BY-CASE
+Contracts           BY CASE     (Not suited)   BY CASE        (Not addr.)   (Pending framework)
 
-Blockchain Tech     ✅ YES      ✅ YES          ✅ YES         ✅ YES
-(non-financial)     (Permitted) (Permitted)    (Permitted)    (Permitted)
+Blockchain Tech     ✅ YES      ✅ YES          ✅ YES         ✅ YES        ✅ YES
+(non-financial)     (Permitted) (Permitted)    (Permitted)    (Permitted)   (Permitted)
 
-Overall Approach    Institutional Protective  Adaptive       Regulatory
-                    Framework    Standard     Innovation     Guidance
-────────────────────────────────────────────────────────────────────────────
-Permissibility      Very         Highly        Conditional   Restrictive
-Level               Restrictive  Restrictive   Permissive    
+Overall Approach    Institutional Protective  Adaptive       Regulatory    Institutional
+                    Framework    Standard     Innovation     Guidance      + Regulatory
+                                                                           Integration
+────────────────────────────────────────────────────────────────────────────────────────────────
+Permissibility      Very         Highly        Conditional   Restrictive   Conditional
+Level               Restrictive  Restrictive   Permissive                  (Similar to Taqi
+                                                                           Usmani 2024)
 
-Time Frame          2023         2017          2024           2021
+Time Frame          2023         2017          2024           2021          2026 (Expected)
+────────────────────────────────────────────────────────────────────────────────────────────────
+Status              Current      Current       Current        Current       Under revision
+                                                              (Historical)  (OJK-DSN-MUI WG)
+
+Note: MUI position expected to shift from Position B (categorical prohibition/2021) to Position C
+(conditional permissibility/2026) pending completion of joint OJK-DSN-MUI Shariah screening 
+framework (target Q2-Q3 2026).
 ```
 
 ### 3.7.2 Authority Profiles
