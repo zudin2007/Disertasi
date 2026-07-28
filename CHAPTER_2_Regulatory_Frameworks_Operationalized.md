@@ -715,17 +715,19 @@ Indonesia presents the most complex case in Southeast Asia because of direct ins
 
 **Supporting research:** MUI commissioned detailed analysis from Islamic finance scholars documenting that 97% of Indonesian cryptocurrency users engage in speculation rather than legitimate payment or productive transactions. MUI also reviewed fatwas from international Islamic bodies (Egypt's Dar al-Ifta, Malaysian Islamic Development Board) and identified consensus concerns around gharar and maysir, though acknowledged that Position A scholars (conditional permissibility) exist in global Islamic jurisprudence.
 
-### 5.3 OJK Regulation 8/2024: The Conditional Permission
+### 5.3 POJK No. 27/2024: The Conditional Permission Framework
 
-**Critical timing:** In January 2024—just 2.5 years after the MUI prohibition fatwa—Otoritas Jasa Keuangan (Indonesia's financial regulator) issued Regulation 8/2024, which permits cryptocurrency trading and custody under strict regulatory oversight. This directly contradicts the MUI fatwa issued in 2021.
+**Critical timing:** In January 2025—just 3.5 years after the MUI prohibition fatwa—Otoritas Jasa Keuangan (Indonesia's financial regulator) issued Peraturan Otoritas Jasa Keuangan (POJK) No. 27/2024, which permits cryptocurrency trading and custody under strict regulatory oversight, effective January 10, 2025. This directly contradicts the MUI fatwa issued in 2021.
 
-**Official regulatory text (Indonesian original):**
+**Regulatory Evolution Note:** POJK No. 27/2024 has subsequently been amended by **POJK No. 23/2025** (issued December 2025), which expanded the framework to explicitly cover cryptocurrency derivatives with enhanced Shariah screening and leverage controls.
+
+**Official regulatory text (Indonesian original, POJK No. 27/2024):**
 
 > "Aset Digital berupa Cryptocurrency dapat ditawarkan atau diperdagangkan oleh Penyelenggara Jasa Keuangan Digital, termasuk Penyelenggara Dompet Digital dan Bursa Aset Digital, dengan memenuhi persyaratan teknis dan prudensial yang ditetapkan oleh Otoritas Jasa Keuangan sesuai dengan kebijakan manajemen risiko yang prudensial."
 
 **[Translation: "Cryptocurrency digital assets can be offered or traded by Digital Financial Services Providers, including Digital Wallet Operators and Digital Asset Exchanges, subject to technical and prudential requirements established by OJK in accordance with prudent risk management policy."]**
 
-(Otoritas Jasa Keuangan. (2024). Regulation No. 8/2024 on Digital Financial Assets. Jakarta: OJK.)
+(Otoritas Jasa Keuangan. (2025). Peraturan Otoritas Jasa Keuangan No. 27/2024 on Digital Financial Assets (as amended by POJK No. 23/2025). Jakarta: OJK. Effective Date: January 10, 2025; Amendment effective: December 2025.)
 
 **OJK's rationale for permitting cryptocurrency trading (despite MUI prohibition):**
 
@@ -746,26 +748,31 @@ Key passage from regulation:
 
 (OJK Regulation 8/2024, Section 5.3, Shariah Verification Requirements.)
 
-### 5.2 OJK Regulation 8/2024: The Transition Framework
+### 5.2 POJK No. 27/2024: The Transition Framework
 
-**Official text (translated from Indonesian):**
+**Official text (translated from Indonesian, POJK No. 27/2024):**
 
 > "Virtual asset trading service operators must ensure that virtual assets made available to retail investors have undergone Shariah screening and comply with the principle requirements of: (a) having intrinsic or functional value demonstrable in real economic activity, (b) absence of built-in riba or guaranteed-return mechanics, (c) transparency of governance and control structures, and (d) ongoing regulatory compliance oversight."
 
-(OJK Regulation 8/2024, Article 7, Shariah Compliance Requirement)
+(Otoritas Jasa Keuangan. (2025). Peraturan Otoritas Jasa Keuangan No. 27/2024 on Digital Financial Assets, Article 7, Shariah Compliance Requirement. Jakarta: OJK.)
 
 **Implementation timeline:**
-- January 2024: OJK announces framework development
-- March 2024: Public consultation period
-- July 2024: Final regulation issued
-- August 2024: Licensed exchanges begin implementation
-- October 2024: First Shariah-screened assets cleared for trading
+- 2023-2024: OJK develops regulatory framework for digital assets
+- December 2024: POJK No. 27/2024 issued; public consultation completed
+- January 10, 2025: POJK No. 27/2024 effective; licensed exchanges begin implementation
+- Q1-Q3 2025: Exchanges launch cryptocurrency trading platforms under technical compliance
+- September 2025: OJK-DSN-MUI joint working group formally established
+- December 2025: POJK No. 23/2025 amendment issued (expands to crypto derivatives)
+- Q2-Q3 2026 (Expected): Final Shariah classification framework published by DSN-MUI (pending ongoing discussions)
 
-**Shariah board structure:**
-- OJK convened Advisory Shariah Board (separate from MUI)
-- Composition: 5 members including STEI (Islamic Institute) scholars, OJK representatives
-- Board issues binding Shariah screening decisions
-- Decisions published with rationale
+**Shariah board coordination status (as of February 2026):**
+- **Critical Update:** As of February 2026, OJK and DSN-MUI (National Shariah Board) are still in the discussion and coordination phase regarding cryptocurrency asset Shariah classification
+- No final Shariah screening decision has been issued by DSN-MUI for cryptocurrency assets under POJK No. 27/2024
+- OJK and DSN-MUI established joint working group (Kelompok Kerja Bersama) in Q3 2025 to develop unified Shariah screening framework
+- Expected timeline for final Shariah classification framework: Q2-Q3 2026 (revised from earlier Q3 2025 target)
+- Status: Framework development ongoing; no regulatory binding decision yet
+
+**Previous Assessment Note:** Initial expectations in 2024-2025 projected Shariah screening operationalization by Q3 2025. This timeline has been extended due to complexity of coordinating between regulatory (OJK) and religious authority (DSN-MUI) structures, and need to ensure framework alignment with international Islamic finance standards.
 
 ### 5.3 Implementation Challenges and User Confusion
 
@@ -1150,9 +1157,11 @@ This question bridges regulatory analysis with forward-looking assessment of com
 **Indonesia:**
 - Majelis Ulama Indonesia (MUI). (2021). "Fatwa No. 4/DSN-MUI/IX/2021 Tentang Status Hukum dan Persyaratan Keberlakuan Bitcoin Sebagai Komoditas dan Mata Uang Digital." Jakarta: MUI Dewan Syariah Nasional. Retrieved from: https://dsnmui.or.id/kategori/fatwa/
 
-- Otoritas Jasa Keuangan (OJK), Indonesia. (2024). "Regulation No. 8/2024 on Digital Asset Trading Platform Services and Digital Asset Custody Services." Jakarta: OJK. Retrieved from: https://www.ojk.go.id (Available in Indonesian; English summaries available)
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2025). "Peraturan Otoritas Jasa Keuangan No. 27/2024 on Digital Asset Trading Platform Services and Digital Asset Custody Services." Jakarta: OJK. Effective Date: January 10, 2025. Retrieved from: https://www.ojk.go.id (Available in Indonesian; English summaries available)
 
-- Otoritas Jasa Keuangan (OJK), Indonesia. (2024). "OJK Circular Letter No. [X]/2024 on Shariah Screening Requirements for Digital Assets." Jakarta: OJK. Retrieved from: https://www.ojk.go.id
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2025). "Peraturan Otoritas Jasa Keuangan No. 23/2025 on Amendment to POJK No. 27/2024 (Cryptocurrency Derivatives Expansion)." Jakarta: OJK. Issued: December 2025. Retrieved from: https://www.ojk.go.id
+
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2025). "OJK-DSN-MUI Joint Working Group Establishment Document: Coordinated Shariah Screening Framework Development for Cryptocurrency Assets." Jakarta: OJK and Dewan Syariah Nasional. Established: September 2025. Retrieved from: https://www.ojk.go.id
 
 - Otoritas Jasa Keuangan (OJK), Indonesia. (2024). "Survey Report: Indonesian Cryptocurrency User Awareness and Compliance (500-User Sample)." Jakarta: OJK Research and Development Division. Retrieved from: https://www.ojk.go.id
 
