@@ -1208,6 +1208,16 @@ Regulatory convergence is feasible in consensus areas (60-70% of framework dimen
 - Auda, Jasser. (2008). *Maqasid al-Shariah: A Beginner's Guide*. The International Institute of Islamic Thought.
 - Khan, Muhammad Akram. (1992). *Islamic Economics and Finance*. Oxford University Press.
 
+### Empirical Adoption and Islamic Fintech Studies
+
+- "Negotiating Faith in the Digital Age: A Theoretical Analysis of Crypto-Islamic Discourse on Indonesian Social Media." (2026). Journal article via Taylor & Francis. DOI: 10.1080/10357823.2026.2686718. [Examines crypto-Islamic discourse on Indonesian social media; Indonesia as highest-potential Muslim fintech market with US$4.68 billion crypto trading 2021]
+
+- Nabila Safira, et al. (2025). "Fintech Lending Adoption among Muslim Millennials: TAM and Islamic Financial Behavior Model Analysis in Indonesia, Malaysia, and Thailand." *Islamic Finance Quarterly*. [Multi-country TAM + IFBM study of P2P lending; methodological precedent for cryptocurrency adoption research]
+
+- Zainudin, M. (2026). "Pemetaan Perkembangan Riset Islamic Fintech: Analisis Bibliometrik dan Systematic Literature Review Tahun 2018–2025." *Indonesian Scientific Journal of Islamic Finance*, 4(2), 221–239. DOI: 10.21093/inasjif.v4i2.11960. [Bibliometric review identifying whether cryptocurrency adoption has emerged as distinct research cluster]
+
+- American International Theism University (AITU). (May 2026). "The Adoption of Digital Islamic Banking: Opportunities, Risks, and Regulatory Challenges." [Market scale data: IFSI global assets $3.69T 2024, GCC 53.1% share; IFSB 2025 analysis]
+
 ---
 
 **End of Chapter 3**
