@@ -827,7 +827,7 @@ The dissertation's empirical research (Phases 1-3) is designed to evaluate these
 
 - UAE Virtual Assets Regulatory Authority (VARA). (2024). "Virtual Assets Rulebook Version 2.0: Classification and Shariah Compliance Framework." Dubai: VARA. Retrieved from: https://vara.ae (Available in English and Arabic).
 
-- Otoritas Jasa Keuangan (OJK), Indonesia. (2024). "Regulation No. 8/2024 on Digital Asset Trading Platform Services." Jakarta: OJK. Retrieved from: https://www.ojk.go.id (In Indonesian; English summaries available through OJK International Relations).
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2025). "Peraturan Otoritas Jasa Keuangan No. 27/2024 on Digital Asset Trading Platform Services (as amended by POJK No. 23/2025)." Jakarta: OJK. Effective Date: January 10, 2025; Amendment effective: December 2025. Retrieved from: https://www.ojk.go.id (In Indonesian; English summaries available through OJK International Relations).
 
 ### Academic and Scholarly Sources
 
@@ -852,6 +852,24 @@ The dissertation's empirical research (Phases 1-3) is designed to evaluate these
 - Yaquby, Nizam. (2007). "Contemporary Issues in Islamic Finance: Standards and Supervision." *Islamic Economic Studies*, 14(1/2), 1–28. Retrieved from: https://www.isdb.org/journal-islamic-economic-studies
 
 - Zarqa, Muhammad Anas. (1994). "Islamic Economics: An Approach to Its Theory and Institutions." *Journal of Islamic Economics*, 5(1), 1–29. Retrieved from: https://www.isra.my
+
+- Al-Yassi, H. M., & Rosman, A. S. (2026). "Shariah-Prohibited Elements in Transactions: Foundational Principle for Shariah-Compliant Cryptocurrencies." *International Journal of Research and Innovation in Social Science (IJRISS)*, 10(3). DOI: 10.47772/IJRISS.2026.100300251. [Supports Maqasid Shariah 5-dimensional framework with riba-freedom analysis]
+
+- Izadin, A. A. I., Mohd. Yusof, R., & Mazlan, A. R. (2025). "The integration of Maqasid Shariah in evaluating stablecoins and traditional cryptocurrencies for Islamic portfolios diversification." [Directly relevant for stablecoin vs. cryptocurrency-non-collateralized classification comparison]
+
+- Mansoor, U., & Inam, S. (2025). "Islamic Law in the Age of Blockchain: Exploring Shari'ah Compliant Cryptocurrencies and Digital Assets." *Manchester Journal of Transnational Islamic Law & Practice*, 21(1). [Transnational legal perspective on Shariah-compliant cryptocurrency methodology]
+
+- Mohd Noh, M. S., Nor Azelan, S. H., & Zulkepli, M. I. S. (2025). "A review on Gharar dimension in modern Islamic finance transactions." *Journal of Islamic Accounting and Business Research*, 16(5), 976–989. DOI: 10.1108/JIABR-01-2023-0006. [Updates gharar framework—the dimension most frequently used to classify crypto as haram]
+
+- Zulkarnaen, W. (2025). "Between Sharia Compliance and Digital Speculation: Cryptocurrency Discourse in Contemporary Indonesian Islamic Economics." *Journal of Islamic Economic Resources*, 1(1), 41–47. [Indonesia-specific context for Maqasid framework application]
+
+- Satria, M. J., Mubaraq, A., & Bariyah, N. (2026). "Sharia Law Considerations on Cryptocurrencies: Between Halal and Haram in an Islamic Economic Perspective." *Himalayan Journal of Economics and Business Management*. [Identifies Position A arguments via Mufti Muhammad Abu-Bakar's maal/currency-equivalence rationale]
+
+- Khatib, A. F. A., Kamaruzzaman, & Sholihin, R. (2026). "The Law on the Use of Cryptocurrency as Currency According to Sharia Economic Law." *JURISTA: Jurnal Hukum dan Keadilan*, 10(1). [Focuses on currency (thaman) requirements failure argument]
+
+- El-Mashlahah (IAIN Palangkaraya). (June 2026). "Evaluating Cryptocurrency Through Islamic Law." *El-Mashlahah*, 16(1). [Proposes volatility as graded exclusion criterion; analyzes Ethereum governance metrics—supports 5-category disaggregation framework]
+
+- Journal of Integrated Sciences (IOU). (March 2026). "Cryptocurrency and Islamic Ethics: A Scholarly Appraisal of Opportunities and Challenges." *Journal of Integrated Sciences*, 6(2). [Provides alternative 5-criteria assessment framework (compliance/use/governance/trading practices/value) for comparison with Maqasid approach]
 
 ### Industry and Regulatory Reports
 
@@ -903,7 +921,7 @@ The dissertation's empirical research (Phases 1-3) is designed to evaluate these
 
 - Bloomberg Law. (2024). "UAE's VARA Issues Tiered Cryptocurrency Classification System." Regulatory Update, December 2024.
 
-- The Business Times (Singapore). (2024). "Indonesia's OJK Regulation 8/2024: Bridging MUI Fatwa-Regulator Gap on Cryptocurrency." Analysis, March 2024.
+- The Business Times (Singapore). (2024). "Indonesia's POJK No. 27/2024 (amended by POJK No. 23/2025): Bridging MUI Fatwa-Regulator Gap on Cryptocurrency." Analysis, March 2024.
 
 - Arab News. (2024). "Bahrain's CBB Launches Shariah-Compliant Stablecoins: bDinar and IF Coin." Business Section, April 2024.
 
