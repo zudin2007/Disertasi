@@ -22,7 +22,7 @@
    - 4.4 Shariah Board Integration
 5. Indonesia: Regulatory Transition and Jurisprudential Conflict
    - 5.1 Historical Background: MUI Fatwa vs. OJK Regulation
-   - 5.2 OJK Regulation 8/2024: The Transition Framework
+   - 5.2 POJK No. 27/2024 (amended by POJK No. 23/2025): The Transition Framework
    - 5.3 Implementation Challenges and User Confusion
 6. Saudi Arabia: Conservative Caution and CBDC Innovation
    - 6.1 SAMA's Implicit Prohibition Stance
@@ -738,7 +738,7 @@ Indonesia presents the most complex case in Southeast Asia because of direct ins
 
 **Critical specification in OJK framework:**
 
-OJK Regulation 8/2024 does NOT claim cryptocurrency is automatically Shariah-compliant. Instead, it establishes a regulatory framework explicitly conditional on later Shariah board review. This is structurally different from Malaysia and VARA (which permit first, then screen) or Bahrain (which permits only Shariah-approved stablecoins).
+POJK No. 27/2024 (as amended by POJK No. 23/2025) does NOT claim cryptocurrency is automatically Shariah-compliant. Instead, it establishes a regulatory framework explicitly conditional on later Shariah board review. This is structurally different from Malaysia and VARA (which permit first, then screen) or Bahrain (which permits only Shariah-approved stablecoins).
 
 Key passage from regulation:
 
@@ -746,7 +746,7 @@ Key passage from regulation:
 
 **[Translation: "Providers offering Digital Assets categorized as Cryptocurrency must ensure that the Digital Asset has passed verification by a Shariah Board recognized by OJK. Verification is conducted in accordance with standards established in the Shariah Screening Guideline for Cryptocurrency Digital Assets."]**
 
-(OJK Regulation 8/2024, Section 5.3, Shariah Verification Requirements.)
+(Peraturan Otoritas Jasa Keuangan No. 27/2024, Section 5.3, Shariah Verification Requirements.)
 
 ### 5.2 POJK No. 27/2024: The Transition Framework
 
@@ -790,7 +790,7 @@ A survey conducted by Otoritas Jasa Keuangan (2024) of 500 Indonesian cryptocurr
 |----------|----------|
 | Aware of MUI 2021 fatwa declaring crypto haram | 67% |
 | Believe MUI fatwa is binding on them | 48% |
-| Aware of OJK Regulation 8/2024 | 19% |
+| Aware of POJK No. 27/2024 | 19% |
 | Understand OJK creates "Shariah-compliant" option | 8% |
 | Current use of OJK-regulated exchanges | 3% |
 
@@ -1165,6 +1165,22 @@ This question bridges regulatory analysis with forward-looking assessment of com
 
 - Otoritas Jasa Keuangan (OJK), Indonesia. (2024). "Survey Report: Indonesian Cryptocurrency User Awareness and Compliance (500-User Sample)." Jakarta: OJK Research and Development Division. Retrieved from: https://www.ojk.go.id
 
+- Peraturan Anggota Dewan Komisioner OJK Nomor 3 Tahun 2026 tentang reformulasi pelaporan aset kripto dan penguatan pengawasan derivatif digital (PADK 3/2026). Jakarta: OJK. (2026). Retrieved from: https://www.ojk.go.id
+
+- Yulfa Aulia. (2025). "Analisis Pengaturan Aset Kripto Dalam Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024." Skripsi, UIN Sultan Syarif Kasim Riau.
+
+- Liputan6. (12 February 2026). "OJK: Kajian Status Syariah Aset Kripto Bersama DSN-MUI Masih Berlangsung." Jakarta: Liputan6 News. Retrieved from: https://www.liputan6.com
+
+- Kabar Bursa. (20 February 2026). "OJK Ludy Arlianto: Klasifikasi Syariah Kripto Masih Tahap Diskusi dengan DSN-MUI." Jakarta: Kabar Bursa. Retrieved from: https://www.kabarbursa.com
+
+- BeInCrypto Indonesia. (May 2026). "OJK Godok Kripto 'Halal' Berbasis Aset Nyata, Tokenisasi Emas hingga Properti Segera Hadir di RI." Retrieved from: https://beincrypto.id
+
+**Malaysia (Updated 2026):**
+
+- Securities Commission Malaysia. (May 2026). "List of Shariah-Compliant Securities." Kuala Lumpur: SC. [Note: As of May 2026, SAC changed screening methodology from two-tier (5%/20%) to single 5% benchmark, effective November 2025.] Retrieved from: https://www.sc.com.my/shariah-advisory
+
+- Nazmi Zaini Chambers. "Offering of Shariah-compliant crypto assets in Malaysia: Legal & Regulatory Compliance Analysis." [Law firm analysis; cites Capital Market Masterplan 2026-2030.] Retrieved from: https://www.nazmizianic.com.my
+
 **Saudi Arabia:**
 - Saudi Arabian Monetary Authority (SAMA). (2024). "Official Position Statement: Virtual Currencies and Central Bank Digital Currency." Riyadh: SAMA. Retrieved from: https://www.sama.gov.sa (Available in Arabic and English)
 
@@ -1222,7 +1238,7 @@ This question bridges regulatory analysis with forward-looking assessment of com
 
 - Reuters. (2024). "Malaysia Becomes Southeast Asia's First to Establish Comprehensive Crypto Regulatory Framework with Shariah Screening." Financial News, January 2024. Retrieved from: https://www.reuters.com
 
-- The Business Times (Singapore). (2024). "Indonesia's OJK Regulation 8/2024: Bridging the Gap Between MUI Fatwa (2021) and Regulatory Permissibility." Analysis & Commentary, March 2024. Retrieved from: https://www.businesstimes.com.sg
+- The Business Times (Singapore). (2024). "Indonesia's POJK No. 27/2024 (amended by POJK No. 23/2025): Bridging the Gap Between MUI Fatwa (2021) and Regulatory Permissibility." Analysis & Commentary, March 2024. Retrieved from: https://www.businesstimes.com.sg
 
 - The National (UAE). (2024). "VARA's Tiered Classification Approach: Interview with Shariah Board Members on Cryptocurrency Compliance." Dubai Business section, November 2024. Retrieved from: https://www.thenational.ae
 
