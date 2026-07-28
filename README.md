@@ -1,38 +1,67 @@
 # Cryptocurrency Classification in Islamic Finance: A Maqasid Shariah Framework and Regulatory Harmonization Approach
 
+> **Jika Anda baru mengkloning repo ini**, mulailah dari: **[DISSERTATION_COMPLETION_GUIDE.md](DISSERTATION_COMPLETION_GUIDE.md)**  
+> **If you just cloned this repo**, start at: **[DISSERTATION_COMPLETION_GUIDE.md](DISSERTATION_COMPLETION_GUIDE.md)**
+
+---
+
 ## Overview
 
 This dissertation addresses the fragmentation in cryptocurrency classification and regulation across Islamic finance contexts. It provides a principled methodology for assessing cryptocurrency Islamic compliance, synthesizes divergent jurisprudential positions, maps regulatory approaches across Islamic jurisdictions, and proposes an institutional framework for cross-jurisdictional regulatory coordination.
 
-**Total Word Count:** ~32,900 words  
-**Structure:** 7 chapters + Abstract + Table of Contents  
-**Research Scope:** 5 Islamic jurisdictions, 4 Islamic jurisprudential authorities, 5-dimensional classification framework
+**Total Word Count:** ~70,000 words (chapters + appendices)  
+**Structure:** 8 chapters + Abstract + 7 Appendices + Table of Contents  
+**Research Scope:** 5 Islamic jurisdictions, 4 Islamic jurisprudential authorities, 5-dimensional classification framework  
+**Completion Status:** ~70–75% complete — see [DISSERTATION_COMPLETION_GUIDE.md](DISSERTATION_COMPLETION_GUIDE.md) for gap analysis and writing roadmap
 
 ---
 
 ## Quick Navigation
 
-### Starting Points
+### Start Here
 
-- **[ABSTRACT.md](ABSTRACT.md)** - Executive summary of research problem, methodology, findings, and contributions
-- **[TABLE_OF_CONTENTS.md](TABLE_OF_CONTENTS.md)** - Complete dissertation structure with section references
-- **[CHAPTER_1_Introduction.md](CHAPTER_1_Introduction.md)** - Research problem and dissertation overview
+| If you want to… | Go to |
+|---|---|
+| Know what to write next | **[DISSERTATION_COMPLETION_GUIDE.md](DISSERTATION_COMPLETION_GUIDE.md)** |
+| Read the dissertation summary | [ABSTRACT.md](ABSTRACT.md) |
+| Navigate the full structure | [TABLE_OF_CONTENTS.md](TABLE_OF_CONTENTS.md) |
+| Use the research tools | [QUICK_START.md](QUICK_START.md) |
+| Set up HalalScreener API | [HALALSCREENER_SETUP.md](HALALSCREENER_SETUP.md) |
 
-### Core Content
+### Dissertation Chapters (canonical files)
 
-1. **[CHAPTER_1_Introduction.md](CHAPTER_1_Introduction.md)** - Problem statement, research objectives, literature gaps
-2. **[CHAPTER_2_Islamic_Legal_Framework.md](CHAPTER_2_Islamic_Legal_Framework.md)** - Maqasid Shariah framework application to cryptocurrency
-3. **[CHAPTER_3_Jurisprudential_Positions.md](CHAPTER_3_Jurisprudential_Positions.md)** - Comparative analysis of Islamic authorities (AAOIFI, Dar al-Ifta, Taqi Usmani, MUI)
-4. **[CHAPTER_4_Regulatory_Landscape.md](CHAPTER_4_Regulatory_Landscape.md)** - Cryptocurrency regulation across 5 Islamic jurisdictions
-5. **[CHAPTER_5_Unified_Classification_Framework.md](CHAPTER_5_Unified_Classification_Framework.md)** - Five-dimensional classification system for cryptocurrencies
-6. **[CHAPTER_6_Regulatory_Harmonization_Recommendations.md](CHAPTER_6_Regulatory_Harmonization_Recommendations.md)** - IIFRC institutional proposal and implementation roadmap
-7. **[CHAPTER_7_Conclusion_and_Future_Research.md](CHAPTER_7_Conclusion_and_Future_Research.md)** - Synthesis, contributions, and future research directions
+1. **[CHAPTER_1_Introduction.md](CHAPTER_1_Introduction.md)** — Problem statement, research objectives, literature gaps (~8,500 words, ✅ complete)
+2. **[CHAPTER_2_Islamic_Legal_Framework.md](CHAPTER_2_Islamic_Legal_Framework.md)** — Maqasid Shariah framework applied to cryptocurrency (~4,500 words, 🟡 needs counterarguments + fiqh variations)
+3. **[CHAPTER_3_Jurisprudential_Positions.md](CHAPTER_3_Jurisprudential_Positions.md)** — AAOIFI, Dar al-Ifta, Taqi Usmani, MUI positions (~5,200 words, 🟡 needs SC Malaysia + DeFi sections)
+4. **[CHAPTER_4_Regulatory_Landscape.md](CHAPTER_4_Regulatory_Landscape.md)** — Regulation across 5 Islamic jurisdictions (~5,800 words, 🟡 needs enforcement cases)
+5. **[CHAPTER_5_Unified_Classification_Framework.md](CHAPTER_5_Unified_Classification_Framework.md)** — Five-dimensional classification system (~8,750 words, ✅ thorough)
+6. **[CHAPTER_6_Regulatory_Harmonization_Recommendations.md](CHAPTER_6_Regulatory_Harmonization_Recommendations.md)** — IIFRC institutional proposal (~8,750 words, 🟡 needs enforcement mechanics)
+7. **[CHAPTER_7_Conclusion_and_Future_Research.md](CHAPTER_7_Conclusion_and_Future_Research.md)** — Synthesis, contributions, future research (~8,750 words, 🟡 needs limitations section)
+8. **[CHAPTER_8_Empirical_Research_Agenda.md](CHAPTER_8_Empirical_Research_Agenda.md)** — Proposed validation research design (~6,750 words, 🔴 prospectus, not executed)
+
+> **Note on duplicate files:** `CHAPTER_1_Cryptocurrency_Classification_Islamic_Law.md` and `CHAPTER_2_Regulatory_Frameworks_Operationalized.md` are earlier draft versions. The canonical chapters are the files numbered above.
+
+### Appendices
+
+| File | Contents | Status |
+|---|---|---|
+| [APPENDIX_A8_Preliminary_Stakeholder_Feedback.md](APPENDIX_A8_Preliminary_Stakeholder_Feedback.md) | 16 stakeholder interviews (July 2026) | ✅ Complete |
+| [APPENDIX_B_Interview_Protocol_Blueprint.md](APPENDIX_B_Interview_Protocol_Blueprint.md) | Scholar validation interview guide | ✅ Complete |
+| [APPENDIX_C_Survey_Instrument_Design.md](APPENDIX_C_Survey_Instrument_Design.md) | Market participant survey design (500+ respondents) | ✅ Complete |
+| [APPENDIX_D_Regulatory_Executive_Summaries.md](APPENDIX_D_Regulatory_Executive_Summaries.md) | Policy briefs for OJK, BNM, AAOIFI | ✅ Complete |
+| [APPENDIX_E_Literature_Review_Summary.md](APPENDIX_E_Literature_Review_Summary.md) | Annotated literature synthesis | ✅ Complete |
+| [APPENDIX_F_Detailed_Measurement_Examples.md](APPENDIX_F_Detailed_Measurement_Examples.md) | Bitcoin, USDC, Islamic stablecoin worked examples | ✅ Complete |
+| [APPENDIX_G_Phase_3_Case_Study_Protocol.md](APPENDIX_G_Phase_3_Case_Study_Protocol.md) | 12-month OJK/BNM/VARA case study protocol | ✅ Complete |
 
 ### Research Support
 
-- **[RESEARCH_GUIDE.md](RESEARCH_GUIDE.md)** - Comprehensive guide to research frameworks and data
-- **[QUICK_START.md](QUICK_START.md)** - Quick reference for research tool usage
-- **[HALALSCREENER_SETUP.md](HALALSCREENER_SETUP.md)** - MCP configuration and cryptocurrency API integration
+- **[RESEARCH_GUIDE.md](RESEARCH_GUIDE.md)** — Comprehensive guide to research frameworks and data
+- **[QUICK_START.md](QUICK_START.md)** — Quick reference for research tool usage
+- **[HALALSCREENER_SETUP.md](HALALSCREENER_SETUP.md)** — MCP configuration and cryptocurrency API integration
+- **[IMPLEMENTATION_ROADMAP.md](IMPLEMENTATION_ROADMAP.md)** — IIFRC implementation phases (2025–2030)
+- **[IMPLEMENTATION_30DAY_ACTION_PLAN.md](IMPLEMENTATION_30DAY_ACTION_PLAN.md)** — 30-day writing sprint plan
+- **[CASE_STUDIES.md](CASE_STUDIES.md)** — Additional cryptocurrency case studies
+- **[REGULATORY_COMPARISON_FRAMEWORK.md](REGULATORY_COMPARISON_FRAMEWORK.md)** — Cross-jurisdiction comparison matrices
 
 ---
 
@@ -214,43 +243,57 @@ See [HALALSCREENER_SETUP.md](HALALSCREENER_SETUP.md) for configuration details o
 
 ```
 Disertasi/
-├── README.md                                      # This file
-├── ABSTRACT.md                                    # Dissertation abstract
+├── README.md                                      # Master navigation (this file)
+├── DISSERTATION_COMPLETION_GUIDE.md               # ← START HERE: gap analysis & writing roadmap
+├── ABSTRACT.md                                    # Dissertation abstract (~500 words)
 ├── TABLE_OF_CONTENTS.md                           # Complete structure guide
 │
-├── CHAPTER_1_Introduction.md                      # Problem statement
-├── CHAPTER_2_Islamic_Legal_Framework.md           # Maqasid analysis
-├── CHAPTER_3_Jurisprudential_Positions.md         # Comparative authorities
-├── CHAPTER_4_Regulatory_Landscape.md              # 5 jurisdictions
-├── CHAPTER_5_Unified_Classification_Framework.md  # Classification system
-├── CHAPTER_6_Regulatory_Harmonization_Recommendations.md  # IIFRC proposal
-├── CHAPTER_7_Conclusion_and_Future_Research.md    # Synthesis & future directions
+├── # CANONICAL DISSERTATION CHAPTERS
+├── CHAPTER_1_Introduction.md                      # ✅ Complete ~8,500w
+├── CHAPTER_2_Islamic_Legal_Framework.md           # 🟡 Needs counterarguments ~4,500w
+├── CHAPTER_3_Jurisprudential_Positions.md         # 🟡 Needs SC Malaysia + DeFi ~5,200w
+├── CHAPTER_4_Regulatory_Landscape.md              # 🟡 Needs enforcement cases ~5,800w
+├── CHAPTER_5_Unified_Classification_Framework.md  # ✅ Thorough ~8,750w
+├── CHAPTER_6_Regulatory_Harmonization_Recommendations.md  # 🟡 Needs enforcement detail ~8,750w
+├── CHAPTER_7_Conclusion_and_Future_Research.md    # 🟡 Needs limitations section ~8,750w
+├── CHAPTER_8_Empirical_Research_Agenda.md         # 🔴 Prospectus/future work ~6,750w
 │
+├── # EARLIER DRAFT VERSIONS (do not use as canonical)
+├── CHAPTER_1_Cryptocurrency_Classification_Islamic_Law.md
+├── CHAPTER_2_Regulatory_Frameworks_Operationalized.md
+│
+├── # APPENDICES
+├── APPENDIX_A8_Preliminary_Stakeholder_Feedback.md   # 16 interviews July 2026
+├── APPENDIX_B_Interview_Protocol_Blueprint.md         # Scholar validation protocol
+├── APPENDIX_C_Survey_Instrument_Design.md             # 500+ respondent survey
+├── APPENDIX_D_Regulatory_Executive_Summaries.md       # Policy briefs OJK/BNM/AAOIFI
+├── APPENDIX_E_Literature_Review_Summary.md            # Annotated literature
+├── APPENDIX_F_Detailed_Measurement_Examples.md        # 3 worked scoring examples
+├── APPENDIX_G_Phase_3_Case_Study_Protocol.md          # 12-month case study design
+│
+├── # SUPPLEMENTARY DOCUMENTS
+├── CASE_STUDIES.md                                # Additional crypto case studies
+├── REGULATORY_COMPARISON_FRAMEWORK.md             # Cross-jurisdiction matrices
+├── EXECUTIVE_SUMMARY.md                           # Non-academic executive summary
+├── DISSERTATION_ENHANCED_v1.1.0.md               # Enhanced compiled version
+├── IMPLEMENTATION_ROADMAP.md                      # IIFRC phases 2025–2030
+├── IMPLEMENTATION_30DAY_ACTION_PLAN.md            # 30-day writing sprint plan
+│
+├── # GUIDES & SETUP
 ├── RESEARCH_GUIDE.md                              # Research framework guide
-├── QUICK_START.md                                 # Quick reference
-├── HALALSCREENER_SETUP.md                         # MCP setup
+├── QUICK_START.md                                 # Quick reference for tools
+├── HALALSCREENER_SETUP.md                         # HalalScreener MCP setup
 │
+├── # COMPILED DOCUMENTS
+├── Disertasi_Cryptocurrency_Classification_Islamic_Finance_Complete.pdf
+├── Disertasi_Cryptocurrency_Classification_Islamic_Finance_Complete.docx
+├── Dissertation_Full.pdf
+│
+├── # RESEARCH TOOLS
 ├── research-halalscreener.js                      # Cryptocurrency API queries
-├── research-analysis.js                           # Analysis data generation
+├── research-analysis.js                           # Analysis framework generator
 │
-├── research-data/                                 # Generated research data
-│   ├── analysis/
-│   │   ├── maqasid-analysis.json
-│   │   ├── regulatory-comparison.json
-│   │   ├── jurisprudential-comparison.json
-│   │   └── research-framework.json
-│   ├── raw-data/
-│   ├── processed/
-│   ├── exports/
-│   └── logs/
-│
-├── .claude/
-│   ├── claude.json                                # MCP configuration
-│   └── settings.json                              # Project settings
-│
-├── .git/                                          # Git version control
-├── .gitignore                                     # Git ignore rules
-└── package.json                                   # Node.js configuration
+└── references/                                    # Reference materials directory
 ```
 
 ---
@@ -474,11 +517,21 @@ For questions about dissertation content, research methodology, or extensions:
 
 ## Changelog
 
+**2026-07-28 — Dissertation Completion Guide added**
+- Added `DISSERTATION_COMPLETION_GUIDE.md`: full audit of all 15 files, chapter-by-chapter gap analysis, 5-week writing roadmap, word count targets, 20+ references per missing section
+- Updated README navigation to include all chapters, appendices, and completion status
+- Identified actual completion at ~70–75% (~70,000 words total), not 60% as previously estimated
+
+**Version 1.1.0 - 2026-07-21**
+- Enhanced dissertation with additional references in Chapter 2
+- Added Chapter 8 empirical research agenda
+- Added all 7 appendices (A–G)
+- Total word count grew from ~32,900 to ~70,000+ words
+
 **Version 1.0 - 2026-07-21**
-- Complete dissertation (7 chapters, ~32,900 words)
+- Initial dissertation (7 chapters, ~32,900 words)
 - Abstract and Table of Contents
-- Research data and analysis tools
-- Comprehensive documentation
+- Research data and analysis tools (`research-halalscreener.js`, `research-analysis.js`)
 
 ---
 
