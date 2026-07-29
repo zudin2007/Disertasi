@@ -14,42 +14,42 @@
 ## ABSTRACT
 
 
-## Chapter 1: Introduction and Research Problem
+## Chapter 1: Cryptocurrency Classification Under Islamic Law
 
-- 1.1 Background and Context
-  - 1.1.1 The Emergence of Cryptocurrency
-  - 1.1.2 Cryptocurrency in Muslim-Majority and Islamic Finance Contexts
-  - 1.1.3 The Classification Challenge
-- 1.2 Statement of the Research Problem
-  - 1.2.1 The Core Problem
-  - 1.2.2 Challenge 1: Jurisprudential Fragmentation
-  - 1.2.3 Challenge 2: Regulatory Fragmentation and Lack of Harmonization
-  - 1.2.4 Challenge 3: Lack of Principled Classification Framework
-- 1.3 Research Questions and Objectives
-  - 1.3.1 Primary Research Question
-  - 1.3.2 Secondary Research Questions
-  - 1.3.3 Research Objectives
-- 1.4 Literature Review and Research Gap
-  - 1.4.1 Existing Scholarship on Islamic Finance and Cryptocurrency
-  - 1.4.2 Identified Research Gaps
-  - 1.4.3 How This Dissertation Addresses Research Gaps
-- 1.5 Dissertation Significance and Contributions
-  - 1.5.1 Scholarly Contributions
-  - 1.5.2 Practical and Policy Contributions
-  - 1.5.3 Significance for Islamic Finance
-- 1.6 Dissertation Structure and Methodology
-  - 1.6.1 Dissertation Structure
-  - 1.6.2 Research Methodology
-  - 1.6.3 Data Sources
-- 1.7 Scope and Limitations
-  - 1.7.1 Scope Definition
-  - 1.7.2 Limitations
-- 1.8 Significance of Timing
-  - 1.8.1 Why Now?
-- 1.9 Organization and Reading Guide
-- 1.10 Key Terms and Definitions
-- 1.11 Chapter Conclusion
-- References for Chapter 1
+- TABLE OF CONTENTS
+- 1. INTRODUCTION: THE CLASSIFICATION CRISIS
+  - 1.1 Problem Statement
+  - 1.2 Research Question
+  - 1.3 Chapter Structure and Contribution
+- 2. HISTORICAL CONTEXT: EMERGENCE OF DIGITAL ASSETS IN ISLAMIC FINANCE DISCOURSE
+  - 2.1 Pre-Cryptocurrency Islamic Finance Framework
+  - 2.2 The Fintech Transition (2008–2017)
+  - 2.3 The Cryptocurrency Pivot (2017–Present)
+  - 2.4 Three Parallel Jurisprudential Responses (2017–2026)
+- 3. THE THREE JURISPRUDENTIAL POSITIONS
+  - 3.1 POSITION A: CRYPTOCURRENCY AS DIGITAL PROPERTY (CONDITIONALLY PERMISSIBLE)
+  - 3.2 POSITION B: CRYPTOCURRENCY AS MEDIUM OF EXCHANGE (LIKELY PROHIBITED)
+  - 3.3 POSITION C: CRYPTOCURRENCY AS EVOLVING ASSET (DEFERRED JUDGMENT)
+- 4. COMPARATIVE JURISPRUDENTIAL METHODOLOGY
+  - 4.1 Methodological Framework Comparison
+  - 4.2 Points of Agreement
+  - 4.3 Points of Disagreement
+- 5. MAQASID SHARIAH FRAMEWORK: FIVE-DIMENSIONAL COMPLIANCE ANALYSIS
+  - 5.1 Application of Islamic Jurisprudential Objectives
+  - 5.2 Five-Dimensional Cryptocurrency Compliance Framework
+  - 5.3 Compliance Scoring Methodology
+- 6. SYNTHESIS: TOWARD A UNIFIED CLASSIFICATION FRAMEWORK
+  - 6.1 The Convergence Hypothesis
+  - 6.2 Testable Convergence Indicators
+  - 6.3 Implementation Case Studies: How the Unified Framework Operates in Practice
+  - 6.4 Integrated Classification Proposal
+- 7. CHAPTER CONCLUSION AND TRANSITION TO EMPIRICAL STUDY
+  - 7.1 Jurisprudential Consensus and Disagreement
+  - 7.2 Research Validation Agenda
+  - 7.3 Bridge to Regulatory Analysis
+  - 7.4 Contribution to Islamic Finance Literature
+  - 7.5 Conclusion
+- REFERENCES
 
 ## Chapter 2: Islamic Legal Framework - Maqasid Shariah Analysis
 
