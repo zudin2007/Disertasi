@@ -22,7 +22,7 @@ Jurisprudential Analysis, Methodological Divergence, and Proposed Framework
 
 The Islamic financial system faces an unprecedented categorization dilemma with the rapid adoption of cryptocurrency across Muslim-majority regions. By 2024, Indonesia ranked third globally in cryptocurrency adoption (39 million users), Malaysia maintained fourth position (4 million users), and the broader Muslim-majority world accounted for approximately 20% of global digital asset transaction volume (CoinLedger, 2024). Yet, despite this massive market penetration, no binding Islamic jurisprudential standard exists for digital assets. Instead, the field operates under what might be termed a "tripartite fragmentation"—three mutually exclusive jurisprudential positions coexist, each defended by respected Islamic scholars and fatwa bodies, with no established mechanism for resolution.
 
-This fragmentation is not merely theoretical. It has immediate policy consequences. In Indonesia, the Majelis Ulama Indonesia (MUI) issued Fatwa No. 4/DSN-MUI/IX/2021 declaring cryptocurrency haram as an investment commodity (Majelis Ulama Indonesia, 2021). Simultaneously, the country's primary financial regulator, the OJK (Otoritas Jasa Keuangan), has been transitioning toward a conditional permissibility framework as of 2025 (OJK Regulation 8/2024). In Malaysia, the BNM (Bank Negara Malaysia) and Securities Commission have adopted a conditional permissibility stance, requiring Shariah screening of digital assets before they may be traded on regulated platforms (Bank Negara Malaysia, 2024). The UAE and Bahrain have moved further, establishing comprehensive regulatory frameworks that presume digital asset permissibility unless specific Shariah concerns arise (VARA, 2023; CBB, 2024). Saudi Arabia, by contrast, maintains official caution, with SAMA (Saudi Arabian Monetary Authority) offering no binding permission for cryptocurrency use as either medium of exchange or investment, though state pilots of CBDC continue (SAMA, 2025).
+This fragmentation is not merely theoretical. It has immediate policy consequences. In Indonesia, the Seventh Ijtima' Ulama of the MUI Fatwa Commission ruled in November 2021 that cryptocurrency is haram as currency and invalid for trade as a commodity unless it meets the Shariah requirements of a tradeable good with a clear underlying (Keputusan Ijtima' Ulama Komisi Fatwa Se-Indonesia VII, 2021). Simultaneously, the country's financial regulator, OJK, has assumed supervision of crypto assets under POJK No. 27/2024 (effective January 2025, amended by POJK No. 23/2025 in December 2025) — a religiously neutral licensing regime — while a Shariah classification study conducted jointly with the National Shariah Board (DSN-MUI) remains unresolved as of early 2026, leaving the two normative systems formally unconnected (see Chapter 2, Section 5). In Malaysia, the BNM (Bank Negara Malaysia) and Securities Commission have adopted a conditional permissibility stance, requiring Shariah screening of digital assets before they may be traded on regulated platforms (Bank Negara Malaysia, 2024). The UAE and Bahrain have moved further, establishing comprehensive regulatory frameworks that presume digital asset permissibility unless specific Shariah concerns arise (VARA, 2023; CBB, 2024). Saudi Arabia, by contrast, maintains official caution, with SAMA (Saudi Arabian Monetary Authority) offering no binding permission for cryptocurrency use as either medium of exchange or investment, though state pilots of CBDC continue (SAMA, 2025).
 
 This jurisdictional divergence creates cascading problems for Islamic financial institutions, service providers, and users:
 
@@ -96,7 +96,7 @@ Cryptocurrency introduced three novel complications absent from earlier digital 
 
 The AAOIFI (Accounting and Auditing Organization for Islamic Financial Institutions), the primary standard-setter for Islamic finance, formally acknowledged cryptocurrency's challenge in a May 2023 roundtable discussion. Secretary General Koutoub Moustapha Sano stated:
 
-> "Digital assets refer to anything that can be stored and transmitted electronically via a computer or digital device and is linked to ownership or usage rights. The Shariah ruling regarding these and other new transactions must be based on general texts of Shariah, general maxims, and higher objectives." (AAOIFI, 2023)
+> "Digital assets refer to anything that can be stored and transmitted electronically via a computer or digital device and is linked to ownership or usage rights. The Shariah ruling regarding these and other new transactions must be based on general texts of Shariah, general maxims, and higher objectives." (Sano, 2023 — Secretary General of the International Islamic Fiqh Academy, addressing the 21st AAOIFI Shariah Board Conference, Manama, 8 May 2023)
 
 Critically, the statement did not issue a binding ruling. As of July 2026, AAOIFI has not published Standard No. 63 on Digital Assets (HalalScreener, 2026). **This silence itself became significant**—it effectively permitted jurisdictional bodies to develop their own frameworks, explaining the current fragmentation.
 
@@ -193,7 +193,7 @@ The second jurisprudential position begins with a different classification: **cr
 
 - **Dar al-Ifta Egypt** (Grand Mufti Shawki Allam, 2017 binding ruling against cryptocurrency)
 
-- **Majelis Ulama Indonesia (MUI)** (Fatwa 4/DSN-MUI/IX/2021; reinforced 2024 position)
+- **MUI Fatwa Commission, Indonesia** (Keputusan Ijtima' Ulama VII, November 2021; no subsequent DSN-MUI fatwa as of early 2026)
 
 - **Saudi Arabia's SAMA** (implicit restriction via non-recognition; warnings issued 2023–2024)
 
@@ -237,37 +237,23 @@ Proponents of Position B reject the commodity analogy on the grounds that crypto
 - **Cryptocurrency has neither:** it is not legal tender, it has no craft or functional use; it has only speculative value
 - **Result:** cryptocurrency is not valid mal under Islamic law
 
-#### 3.2.3 Primary Source: Fatwa Texts and Direct Quotes
+#### 3.2.3 Primary Sources: The Prohibition Rulings
 
-**Majelis Ulama Indonesia (MUI) Fatwa 4/DSN-MUI/IX/2021 — Direct Excerpt:**
+**Indonesia — Keputusan Ijtima' Ulama Komisi Fatwa Se-Indonesia VII (9–11 November 2021).** The Indonesian ruling — issued by the Fatwa Commission's national congress, not by DSN-MUI (a distinction whose regulatory consequences are examined in Chapter 2) — comprises three operative points:
 
-> "Keputusan: Bitcoin dan cryptocurrency sejenis lainnya HARAM untuk diperdagangkan dan digunakan sebagai investasi atau alat tukar menurut hukum Islam. Dasar hukum: Pada dasarnya tidak ada dukungan Alquran dan Hadits untuk keabsahan Bitcoin sebagai alat tukar atau investasi. Bitcoin mengandung unsur gharar (ketidakjelasan/spekulasi), maysir (perjudian), dan riba yang terlarang dalam Islam."
->
-> [**Translation:** "Decision: Bitcoin and similar cryptocurrencies are HARAM for trading and use as investment or medium of exchange according to Islamic law. Legal basis: There is no Qur'anic or Hadith support for Bitcoin's validity as medium of exchange or investment. Bitcoin contains elements of gharar (speculation), maysir (gambling), and riba prohibited in Islam."] (MUI, 2021)
+1. The use of cryptocurrency **as currency is haram**, on grounds of *gharar* (excessive uncertainty) and *dharar* (harm), and because it contravenes Law No. 7/2011 on Currency and Bank Indonesia Regulation No. 17/2015.
+2. Cryptocurrency **as a commodity or digital asset is invalid for trade** (*tidak sah diperjualbelikan*), on grounds of *gharar*, *dharar*, and *qimar* (gambling), and because it fails the requirements of a Shariah-valid tradeable good (*sil'ah*): physical existence, definite value, ascertainable quantity, established ownership, and deliverability.
+3. **Exception:** cryptocurrency that meets the *sil'ah* requirements, possesses an underlying, and has clear benefit **is valid for trade**.
 
-**Dar al-Ifta Egypt — Grand Mufti Shawki Allam (2017):**
+Two aspects deserve emphasis. First, the ruling's grounds are *gharar–dharar–qimar* — not the *gharar–maysir–riba* triad frequently attributed to it in secondary accounts. Second, point 3 makes this a **conditional** prohibition: the ruling itself constructs the category under which asset-backed digital assets can be valid, a category that Indonesian regulators would later operationalize (Chapter 2, Section 5.4).
 
-> "Virtual currencies like Bitcoin are not permissible according to Islamic Shariah because they do not meet the criteria of money, which must have intrinsic value and be backed by tangible assets. Cryptocurrency lacks both. Moreover, dealing in cryptocurrencies exposes people to major risks involving prohibited gharar, maysir, and riba." (Dar al-Ifta Egypt, 2017)
+**Egypt — Dar al-Ifta ruling under Grand Mufti Shawki Allam (2017/2018).** Egypt's fatwa authority ruled cryptocurrency trading impermissible. Its published reasoning, as documented in reporting and subsequent scholarship, holds that cryptocurrencies fail the criteria of valid money, carry excessive risk and uncertainty for participants, undermine the state's monetary authority, and are susceptible to use in illicit activity (Dar al-Ifta Misriyyah, 2017/2018; see also HalalScreener, 2026, documenting the ruling's continued force). Unlike the Indonesian ruling, the Egyptian fatwa articulates no exception category. *[Verbatim excerpts pending: obtain the Arabic text of the fatwa from dar-alifta.org before final submission; until then this position is presented as sourced paraphrase only.]*
 
-**Mufti Muhammad Taqi Usmani — Contemporary Rulings (2020–2024):**
+**The wider early-prohibition map.** The Indonesian and Egyptian rulings sit within a broader first wave of restrictive responses: Turkey's Directorate of Religious Affairs (Diyanet); statements by members of Saudi Arabia's Council of Senior Scholars (Hai'ah Kibar al-Ulama), including royal adviser Abdullah bin Muhammad Al-Muthalliq; the Palestinian fatwa authority (Dar al-Ifta' al-Filisthiniyyah); and the Fourth Doha Islamic Finance Conference, which recommended restrictions on cryptocurrency use (Erismen, 2025). The map also contains a position frequently omitted from the three-way classification: **tawaqquf (principled abstention)**, exemplified by Sheikh Abdurrahman al-Barrak (Saudi Arabia), who declined to rule on permissibility while nonetheless holding that zakat is obligatory on crypto holdings that reach *nisab* and complete the *hawl* — a position that implicitly treats cryptocurrency as *mal* (zakatable wealth) even while withholding judgment on trading it (Erismen, 2025). The tawaqquf position matters analytically: it demonstrates that even within restrictive scholarship, the *property status* and the *trading permissibility* of cryptocurrency are separable questions.
 
-Mufti Taqi Usmani, recognized globally as one of Islam's most authoritative contemporary Islamic finance scholars, has issued multiple statements on cryptocurrency. His most comprehensive position (synthesized from lectures, Q&A sessions, and written rulings, 2020–2024):
+**The jurisprudential character of the prohibitions: al-man'u, not necessarily tahrim.** Abdul Sattar Abu Ghudah (chairman of the Al Baraka Group Shariah board) characterizes the restrictive rulings as *al-man'u* — preventive restriction within the discretionary authority (*siyasah shar'iyyah*) of public authority (*wali al-amri*, represented by central banks) to secure public interest — rather than *tahrim*, categorical prohibition of the thing in itself. Two considerations ground this reading: cryptocurrency belongs to *al-mustajiddat* (novel matters), where the operative maxim is *al-ashlu fi al-asy'ya' al-ibahah* (the default is permissibility), and the prohibitions of *dharar* and *dhirar* justify state restriction of genuinely harmful instruments without settling their intrinsic status (Erismen, 2025). On this reading, Position B rulings are structurally revisable as regulatory conditions change — a hypothesis whose Indonesian test case is examined in Chapter 2.
 
-> **"Current Status:** Bitcoin and similar cryptocurrencies in their current form are NOT permissible in Islamic finance. The primary reasons are:
->
-> **No underlying value:** Cryptocurrency has no intrinsic value except the hope that someone else will pay a higher price tomorrow. This is the essence of speculation forbidden in Islam.
->
-> **Excessive gharar:** Users do not know the true value; the value is entirely determined by market sentiment, not by any real asset or utility.
->
-> **Dominant maysir (gambling):** The statistics show that the overwhelming majority of cryptocurrency users are engaged in speculation—hoping to profit from price movements—not in legitimate commerce or economic activity. This matches the Islamic definition of maysir.
->
-> **No legitimate monetary function:** Unlike fiat currency (which has government backing and legal tender status) or gold (which has historical monetary use and craft value), Bitcoin fulfills neither function in practice.
->
-> **Pathway to permissibility (future possibility):** If cryptocurrency were redesigned such that: (a) it becomes primarily used for actual transactions in the real economy, (b) it is backed by real productive assets, and (c) speculation is eliminated through structural design and regulatory controls, then it might become permissible. But this would require fundamental changes to the entire cryptocurrency market ecology.
->
-> **Current verdict:** For now, cryptocurrency trading is haram for Muslims. The risks outweigh any benefits."
->
-> (Mufti Muhammad Taqi Usmani, synthesized from 2020–2024 public statements, lectures, and fatwa documents)
+**Terminological anchor.** Throughout this dissertation, the operative definitions of the prohibited elements follow the authoritative formulations of DSN-MUI Fatwa No. 117/DSN-MUI/II/2018 (General Provisions 18–22): *riba* — an increment in the exchange of ribawi goods (*riba fadhl*) or an increment stipulated on a debt principal in return for deferral (*riba nasi'ah*); *gharar* — uncertainty in a contract concerning the quality, quantity, or delivery of its object; *maysir* — any contract undertaken with an unclear purpose and imprecise calculation, speculation, or chance; *tadlis* — concealment of an object's defect by the seller to deceive the buyer; *dharar* — an act that causes harm or loss to another party. Adopting the fatwa's own definitions, rather than definitions from secondary literature, anchors the Maqasid analysis of Section 4 in the same normative vocabulary Indonesian authorities themselves use.
 
 These primary source quotes reveal the core rationale: **Position B advocates do not claim cryptocurrency cannot ever be permitted under Islam**; rather, they argue that its current market structure (speculation-dominant, unregulated, lacking intrinsic value) makes it haram now. This creates a logical opening for Position C and even some movement within Position B if circumstances change.
 
@@ -278,11 +264,11 @@ In 2017, Egypt's Grand Mufti Shawki Allam issued a landmark fatwa declaring cryp
 - Cryptocurrency is not tangible wealth; it is merely data/numbers on a server
 - It has no intrinsic value; value is purely speculative
 - Trading in it violates Shariah principles of riba, gharar, and maysir
-- The prohibition is unconditional; there are no conditions under which cryptocurrency trading becomes permissible
+- The ruling articulates no exception category — in contrast to the Indonesian ruling's point 3 — making it the most categorical of the major prohibition rulings
 
 The fatwa did not distinguish between different cryptocurrencies (Bitcoin vs. stablecoins, for instance) or different use-cases (payment vs. speculation). The classification—not legitimate wealth under Shariah—applied broadly.
 
-**Impact:** Dar al-Ifta's ruling influenced subsequent fatwas in other jurisdictions. Indonesia's MUI (2021) explicitly cited gharar and maysir concerns in its cryptocurrency prohibition fatwa, echoing Dar al-Ifta's logic.
+**Impact:** Dar al-Ifta's ruling was among the earliest state-level fatwa pronouncements and is widely cited in subsequent scholarship on the prohibition position. The Indonesian ruling of 2021 rests on partially overlapping grounds (*gharar*, harm to the public) while adding grounds of its own (*qimar*; conflict with national currency law) and, crucially, an exception category absent from the Egyptian ruling.
 
 #### 3.2.5 Mufti Taqi Usmani's Jurisprudentially Nuanced Position B
 
@@ -300,29 +286,15 @@ Usmani's approach distinguishes between three levels of analysis:
 
 **Usmani on Intrinsic Value and "Valid Wealth" (Mal)**
 
-A particularly important part of Usmani's reasoning concerns what makes something valid wealth in Islamic jurisprudence. Usmani argues:
-
-> "For something to be valid mal (wealth) in Islamic law, one of three conditions must be met: (1) it has intrinsic utility (gold can be worn; wheat can be eaten), (2) it has been accepted as money with government backing and legal tender status (fiat currency), or (3) it derives value from a productive asset to which it is tied (stock in a company, sukuk backed by real income).
->
-> Bitcoin satisfies none of these three. It is not useful as a commodity; it has no government backing; and it is not tied to any productive asset or real-world income stream. Therefore, it fails the test of valid mal and is not suitable as a medium of exchange under Islamic law."
->
-> (Paraphrased from Usmani's multiple lectures and written statements, 2020–2024)
+A particularly important part of Usmani's reasoning concerns what makes something valid wealth in Islamic jurisprudence. Usmani's documented position on monetary validity holds that a medium of exchange must derive its standing either from intrinsic utility, from state backing as legal tender, or from linkage to productive assets — conditions cryptocurrency does not currently meet (Usmani's public rulings as documented in HalalScreener, 2026; Muneeza et al., 2023). *[Direct citation to a primary Usmani text — his published Q&A or the Urdu/Arabic fatwa document — is required before final submission; the characterization above is drawn from secondary documentation of his position.]*
 
 **Usmani on Gharar in Cryptocurrency Markets**
 
-Usmani acknowledges that Islamic jurisprudence does permit commodity futures and derivative trading—which involve uncertainty—but places limits on acceptable gharar:
+On uncertainty, Usmani's reasoning distinguishes ordinary commercial *gharar* — tolerated in commodity markets where an underlying good with real supply and demand exists — from the excessive *gharar* of an asset whose price has no referent beyond collective sentiment. The distinction is jurisprudentially orthodox; its application to cryptocurrency is where Position B and Position A part ways (see Section 5.2).
 
-> "The issue with Bitcoin is not that it has any gharar; rather, it has excessive gharar. In a commodity futures market, the underlying commodity has a real price based on supply and demand in the physical market. A trader might not know the exact price next week, but they know wheat exists, can be grown, has demand for consumption. With Bitcoin, there is nothing underlying the price. The price is pure speculation—literally determined only by collective sentiment. This is not just gharar; this is excessive gharar that makes the transaction void."
->
-> (Synthesized from Usmani's comparative analysis of commodity vs. cryptocurrency markets, 2021–2023)
+**Usmani on Maysir (Gambling/Speculation)**
 
-**Usmani on Maysir (Gambling/Speculation) Statistics**
-
-Critically, Usmani bases his maysir analysis on empirical observation of actual market behavior, not just theoretical possibility:
-
-> "When we study cryptocurrency trading volumes, we find that: (1) The vast majority of volume is trading/speculation, not payment transactions. Bitcoin is used for actual payment in perhaps 0.5% to 2% of transactions; the rest is traders hoping to profit. (2) Retail traders often use high leverage (5x to 100x), treating cryptocurrency like a gambling game. (3) Price movements are detached from any real-world economic activity—a rumor from Elon Musk moves the price more than any actual utility improvement. This is maysir, pure and simple. It is gambling disguised as investment."
->
-> (Usmani, synthesized from 2022–2024 commentary on cryptocurrency market structure)
+The empirical premise of the maysir argument is that speculative trading, not payment, dominates cryptocurrency transaction volume. Industry analyses consistently support the qualitative claim [specific payment-share figures to be sourced from Chainalysis Geography of Cryptocurrency reports or BIS working papers before final submission — do not cite unverified percentages]. On this premise, Position B scholars conclude that participation in current markets constitutes wagering on price movements without productive purpose — the definition of maysir.
 
 **Usmani's Conditional Permissibility Framework**
 
@@ -815,11 +787,13 @@ The dissertation's empirical research (Phases 1-3) is designed to evaluate these
 
 - Dar al-Ifta Egypt. (2017). "Ruling on Virtual Currencies (Cryptocurrencies)." Official Fatwa from Grand Mufti Shawki Allam. Cairo: Dar al-Ifta al-Misriyyah. Retrieved from: https://www.dar-alifta.org (In Arabic and English translations available).
 
-- Majelis Ulama Indonesia. (2021). "Fatwa No. 4/DSN-MUI/IX/2021 Tentang Cryptocurrency." Jakarta: Majelis Ulama Indonesia, Dewan Syariah Nasional. Retrieved from: https://dsnmui.or.id/kategori/fatwa/
+- Keputusan Ijtima' Ulama Komisi Fatwa Se-Indonesia VII. (2021, 9–11 November). *Masail Fiqhiyyah Mu'ashirah* [rulings on cryptocurrency]. Jakarta: Majelis Ulama Indonesia. [PDF keputusan resmi available from mui.or.id]
+
+- Dewan Syariah Nasional-MUI. (2018). *Fatwa No. 117/DSN-MUI/II/2018 tentang Layanan Pembiayaan Berbasis Teknologi Informasi Berdasarkan Prinsip Syariah.* Jakarta: DSN-MUI, 22 February 2018.
 
 - Mufti Muhammad Taqi Usmani. (2020–2024). "Cryptocurrency and Islamic Finance: Scholarly Positions and Conditions for Permissibility." Synthesized from multiple public rulings, lectures, and written statements. Karachi: Mufti Taqi Usmani's Office. Primary sources include: (a) YouTube lectures (2021–2023) on Islamic finance and cryptocurrency, (b) Q&A sessions with Islamic scholars (2022–2024), (c) Written fatwa documents (2020–2024) distributed through Islamic finance networks.
 
-- AAOIFI (Accounting and Auditing Organization for Islamic Financial Institutions). (2023). "Roundtable Discussion: Digital Assets and Islamic Finance Standards." May 2023. Manama, Bahrain: AAOIFI Secretariat. Statement by Secretary General Koutoub Moustapha Sano. Retrieved from: https://www.aaoifi.com
+- AAOIFI (Accounting and Auditing Organization for Islamic Financial Institutions). (2023). "21st AAOIFI Shariah Board Conference." May 8-9, 2023. Manama, Bahrain: AAOIFI Secretariat. Statement by Koutoub Moustapha Sano (Secretary General, International Islamic Fiqh Academy). Note: As of July 2026, AAOIFI Standard No. 63 on Digital Assets has not been published. Retrieved from: https://www.aaoifi.com
 
 - Bank Negara Malaysia (BNM) & Securities Commission (SC). (2024). "Digital Assets Guideline 2024." Kuala Lumpur: BNM and SC Joint Secretariat. Retrieved from: https://www.bnm.gov.my and https://www.sc.com.my
 
