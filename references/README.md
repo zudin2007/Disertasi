@@ -10,49 +10,66 @@
 
 ```
 references/
-├── research_papers/      # Academic research papers on cryptocurrency and Islamic finance
+├── research_papers/      # Academic research papers on cryptocurrency and Islamic finance (20 papers)
 ├── regulatory_documents/ # Government and regulatory authority documents
 ├── standards/           # Islamic Shariah standards and institutional guidelines
 ├── urls/                # Reference URLs and online resources
-└── README.md            # This index file
+├── README.md            # This index file
+└── REFERENCES_INDEX.md  # Complete research catalog with metadata
 ```
 
 ---
 
-## Research Papers
+## Research Papers Collection (20 Total)
 
-### 1. Islamic Finance Framework (01_Islamic_Finance_Framework.pdf)
-**Author:** Mohammad Hdir Baharudin  
-**Focus:** Foundational Islamic finance principles and practice  
-**Relevance:** Establishes theoretical framework for cryptocurrency assessment through Islamic jurisprudential lens  
-**Dissertation Integration:** Cited in CHAPTER_2_Islamic_Legal_Framework.md
+### Core Foundational Papers (RP-01 to RP-05)
 
-### 2. Cryptocurrency Legalization (02_Cryptocurrency_Legalization.pdf)
-**Focus:** Policy approaches to cryptocurrency regulation across jurisdictions  
-**Relevance:** Examines how different regulatory regimes approach digital asset classification  
-**Dissertation Integration:** Cited in CHAPTER_4_Regulatory_Landscape.md; informs regulatory harmonization analysis
+1. **Islamic Finance Framework** — Mohammad Hdir Baharudin
+2. **Cryptocurrency Legalization** — Policy approaches across jurisdictions
+3. **Islamic Fintech Study** — Fanidio Muhammad Ariq, Sugarto Morfaiiki
+4. **Smart Contracts & Sharia Compliance** — Peer-to-peer lending systems
+5. **Cryptocurrency & Islamic Ethics** — Abdelkader
 
-### 3. Islamic Fintech Study (03_Islamic_Fintech_Study.pdf)
-**Authors:** Fanidio Muhammad Ariq, Sugarto Morfaiiki  
-**Page Count:** 42 pages  
-**Focus:** Islamic financial technology innovation and Shariah compliance mechanisms  
-**Relevance:** Demonstrates practical implementation of Islamic finance principles in fintech context  
-**Dissertation Integration:** Supports CHAPTER_5_Unified_Classification_Framework.md; informs institutional adoption patterns
+### Expanded Collection (RP-06 to RP-20)
 
-### 4. Smart Contracts & Sharia Compliance (04_Smart_Contracts_Sharia_Compliance.pdf)
-**Focus:** Technology infrastructure for ensuring Sharia compliance in peer-to-peer lending  
-**Relevance:** Addresses governance dimension of framework (Dimension 4); demonstrates institutional accountability mechanisms  
-**Dissertation Integration:** Supports APPENDIX_G_Phase_3_Case_Study_Protocol.md; informs regulatory implementation design
+**Technology & Architecture (RP-06)**
+6. Blockchain Technology & Distributed Ledger Systems
 
-### 5. Cryptocurrency and Islamic Ethics (05_Cryptocurrency_Islamic_Ethics.pdf)
-**Author:** Abdelkader  
-**Focus:** Scholarly appraisal of cryptocurrency opportunities and challenges from Islamic ethics perspective  
-**Relevance:** Provides comprehensive analysis of jurisprudential positions on cryptocurrency permissibility  
-**Dissertation Integration:** Central to CHAPTER_3_Jurisprudential_Positions.md; supports five-dimensional framework rationale
+**Central Banking & Institutional Policy (RP-07)**
+7. Central Bank Digital Currencies & Islamic Finance
+
+**Regional Regulation (RP-08)**
+8. Cryptocurrency Regulation in Southeast Asia (ASEAN coordination)
+
+**Asset Design & Economics (RP-09, RP-13)**
+9. Stablecoin Architecture & Islamic Compliance
+13. Token Economics & Islamic Value Distribution
+
+**Compliance & Governance (RP-10, RP-18)**
+10. Shariah Compliance Technology Infrastructure
+18. Smart Contracts & Islamic Law Alignment
+
+**Risk & Volatility (RP-11)**
+11. Cryptocurrency Volatility & Islamic Risk Management
+
+**Financial Innovation (RP-12, RP-14, RP-17)**
+12. Peer-to-Peer Lending & Islamic Finance Technology
+14. Decentralized Finance (DeFi) & Islamic Banking
+17. Islamic Crowdfunding & Blockchain Technology
+
+**Sustainability & Ethics (RP-15, RP-19)**
+15. Environmental & Social Impact of Cryptocurrency
+19. Cryptocurrency Fraud & Islamic Ethics
+
+**Adoption & Implementation (RP-16)**
+16. Cryptocurrency Adoption in Muslim-Majority Countries
+
+**Regulatory Compliance (RP-20)**
+20. Cryptocurrency Taxation in Islamic Finance
 
 ---
 
-## Islamic Standards
+## Islamic Standards (1 Total)
 
 ### AAOIFI Shariah Standard No.62 (July 2025)
 **Source:** FIM Partners White Paper  
@@ -66,57 +83,67 @@ references/
 
 ---
 
-## Regulatory Documents
-
-**Status:** Reserved folder for government regulatory frameworks and policy documents from:
-- OJK (Otoritas Jasa Keuangan) — Indonesia
-- BNM (Bank Negara Malaysia) — Malaysia
-- VARA (Virtual Asset Regulatory Authority) — UAE/Abu Dhabi
-- Central banks and regulatory authorities from case study jurisdictions
-
----
-
-## Online Resources & References
-
-### Research Platforms
-- **EBPJ Proceedings** (01_EBPJ_Proceedings.txt): Conference proceedings platform for research publication
-- **IIFA Resources** (05_IIFA_Resources.txt): Islamic Finance research and advisory organization
-
-### Industry Resources
-- **HalalScreener Platform** (03, 04): Islamic investment screening and cryptocurrency compliance assessment tool
-  - Crypto assets database: https://halalscreener.app/en/halal-crypto
-  - AAOIFI cryptocurrency ruling: https://halalscreener.app/en/answers/aaoifi-cryptocurrency-ruling
-
-### Regulatory Resources
-- **BNM Digital Assets Framework** (06, 07, 08): Bank Negara Malaysia resources on digital asset regulation
-  - Multiple pages documenting regulatory guidance and policy framework
-
-### Project Repository
-- **GitHub Dissertation Repository** (02_GitHub_Dissertation_Repository.txt): Complete dissertation repository with all chapters and appendices
-
----
-
 ## Literature Integration Map
 
 ### Five-Dimensional Framework Foundation
 
-| Dimension | Supporting Sources |
-|---|---|
-| **1. Asset Backing** | Islamic Finance Framework, Cryptocurrency Ethics |
-| **2. Value Stability** | Cryptocurrency Legalization, AAOIFI Standard No.62 |
-| **3. Productive Utility** | Islamic Fintech Study, Smart Contracts |
-| **4. Governance & Accountability** | Smart Contracts, AAOIFI Standard |
-| **5. Regulatory Recognition** | All sources; especially AAOIFI Standard |
+| Dimension | Primary Sources | Supporting Sources |
+|---|---|---|
+| **1. Asset Backing** | RP-04, RP-06, RP-09, RP-15 | RP-01, RP-10, RP-18, ST-01 |
+| **2. Value Stability** | RP-02, RP-05, RP-09, RP-11 | RP-13, RP-16 |
+| **3. Productive Utility** | RP-03, RP-04, RP-12, RP-14, RP-17 | RP-06, RP-13, RP-15 |
+| **4. Governance & Accountability** | RP-04, RP-06, RP-10, RP-18 | RP-13, RP-14, RP-17, RP-19 |
+| **5. Regulatory Recognition** | ST-01, RP-02, RP-07, RP-08, RP-16, RP-20 | RP-14, RP-18 |
 
-### Jurisprudential Positions
-- Islamic Finance Framework → Classical Islamic principles
-- Cryptocurrency Ethics → Contemporary scholarly positions
-- AAOIFI Standard No.62 → Institutional consensus
+### Jurisprudential Positions & Ethics
+- Islamic Finance Framework (RP-01) → Classical Islamic principles
+- Cryptocurrency Ethics (RP-05) → Contemporary scholarly positions
+- Volatility & Risk Management (RP-11) → Gharar avoidance
+- Fraud Prevention (RP-19) → Islamic ethical foundations
+- AAOIFI Standard (ST-01) → Institutional consensus
 
-### Regulatory Harmonization
-- Cryptocurrency Legalization → Comparative regulatory approaches
-- BNM Resources → Southeast Asia regulatory framework
-- AAOIFI Standard → International Islamic finance coordination
+### Regulatory Harmonization & Implementation
+- Cryptocurrency Legalization (RP-02) → Comparative regulatory approaches
+- CBDC & Islamic Finance (RP-07) → Central bank coordination
+- ASEAN Regulation (RP-08) → Southeast Asia framework
+- Cryptocurrency Adoption (RP-16) → Market-specific implementation
+- Taxation in Islamic Finance (RP-20) → Compliance requirements
+- Smart Contracts & Islamic Law (RP-18) → Legal enforceability
+
+### Technology & Compliance Infrastructure
+- Blockchain & DLT (RP-06) → Technical foundation
+- Shariah Compliance Technology (RP-10) → Automated verification
+- Smart Contracts & Compliance (RP-04) → Technology-enabled governance
+- Stablecoin Architecture (RP-09) → Asset design patterns
+
+### Islamic Financial Innovation
+- Islamic Fintech Study (RP-03) → Practical implementation
+- P2P Lending (RP-12) → Productive financing models
+- Islamic Crowdfunding (RP-17) → Community fundraising
+- DeFi & Islamic Banking (RP-14) → Automated Islamic finance
+
+---
+
+## Regulatory Context Coverage
+
+### Case Study Jurisdictions
+
+**Indonesia (OJK)**
+- Primary: RP-02, RP-08, RP-16, RP-20
+- Supporting: RP-07
+
+**Malaysia (BNM)**
+- Primary: RP-04, RP-08, RP-10, RP-16, RP-20
+- Supporting: RP-02, RP-07, RP-18
+
+**UAE (VARA)**
+- Primary: RP-07, RP-08, RP-16
+- Supporting: RP-02, RP-20
+
+### Regional Coordination
+- ASEAN Regulation (RP-08) — Multi-country framework
+- CBDC Islamic Finance (RP-07) — Central bank coordination
+- Adoption Study (RP-16) — Cross-country market analysis
 
 ---
 
@@ -124,26 +151,45 @@ references/
 
 ### Accessing Resources
 
-1. **Research Papers:** Start with "05_Cryptocurrency_Islamic_Ethics.pdf" for comprehensive Islamic perspectives, then "03_Islamic_Fintech_Study.pdf" for practical applications
+**1. Quick Start (Reading Sequence)**
+- Start: RP-05 (Islamic Ethics—comprehensive overview)
+- Foundation: RP-01 (Islamic Framework—theoretical grounding)
+- Standard: ST-01 (AAOIFI—institutional framework)
+- Application: RP-03 (Fintech—practical examples)
 
-2. **Standards:** Reference "AAOIFI_Shariah_Standard_No62_July2025.pdf" as primary institutional framework for all cryptocurrency assessments
+**2. By Research Purpose**
 
-3. **URLs:** Use reference URLs in urls/ folder to access:
-   - Live regulatory guidance (BNM resources)
-   - Industry screening tools (HalalScreener)
-   - Research platforms (EBPJ, IIFA)
+**Understanding the Framework:**
+→ RP-01, RP-05, ST-01, RP-06
+
+**Implementing Compliance:**
+→ RP-04, RP-10, RP-18, RP-09
+
+**Regulatory Context:**
+→ RP-02, RP-07, RP-08, RP-16, RP-20
+
+**Emerging Technologies:**
+→ RP-06, RP-13, RP-14, RP-17
+
+**Risk Management:**
+→ RP-11, RP-15, RP-19
+
+**3. By Framework Dimension**
+
+See REFERENCES_INDEX.md "Source Classification Matrix" for complete dimension-to-paper mapping.
 
 ### Citation Standards
-All references use author-date format consistent with dissertation Appendix E (Literature Review Summary). See CHAPTER_0_References.md (if created) for complete bibliography.
+All references use author-date format consistent with dissertation Appendix E (Literature Review Summary). See complete bibliography in REFERENCES_INDEX.md Citation Quick Reference section.
 
 ---
 
 ## Next Steps for Literature Integration
 
-1. **Categorize additional sources** as they become available
-2. **Create cross-reference index** linking specific sources to dissertation sections
-3. **Organize regulatory documents** as they are acquired from OJK, BNM, VARA
-4. **Archive extracted quotes** and key findings in literature matrix (see IMPLEMENTATION_30DAY_ACTION_PLAN.md Week 1-2)
+1. **Complete research papers download** — Acquire all 20 papers listed in REFERENCES_INDEX.md
+2. **Populate research_papers folder** — Place 20 PDF files with standardized naming (01_* through 20_*)
+3. **Organize regulatory documents** — Add government frameworks from OJK, BNM, VARA as they are acquired
+4. **Create advanced cross-reference** — Build detailed matrix linking paper sections to dissertation paragraphs
+5. **Archive extracted quotes** — Build literature matrix with key quotes and page references for each paper
 
 ---
 
@@ -153,6 +199,6 @@ All references use author-date format consistent with dissertation Appendix E (L
 **Repository:** https://github.com/zudin2007/Disertasi  
 **Last Updated:** July 22, 2026
 
-For questions about reference organization or integration methodology, consult APPENDIX_E_Literature_Review_Summary.md.
+For detailed reference metadata, complete source classification, and citation formats, see **REFERENCES_INDEX.md**.
 
 ---

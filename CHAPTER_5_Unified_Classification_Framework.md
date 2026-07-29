@@ -502,6 +502,72 @@ Similar to Bitcoin, with slightly higher utility recognition but same core compl
 - Pilot deployment: 18-24 months
 - Full operational launch: 24-36 months
 
+### Case 5: XRP (Ripple) - Bank-Settlement Token with Concentrated Issuance
+
+XRP tests the framework against an asset that pairs a genuine institutional use-case (cross-border settlement) with a highly concentrated ownership and governance structure. A substantial portion of the total XRP supply was created at genesis and allocated to Ripple Labs, a portion of which is released from escrow on a scheduled basis; Ripple also publishes the default Unique Node List that shapes validator selection, giving it disproportionate influence over the ledger (Ripple, published escrow and UNL documentation). The 2023 ruling in *SEC v. Ripple Labs* (S.D.N.Y., Torres J.) held that programmatic exchange sales of XRP did not constitute investment-contract securities, a status distinct from Shariah classification but material to Dimension 5.
+
+**Dimensional Assessment (provisional — awaiting screening confirmation):**
+- Asset Backing (Dim 1): low — XRP carries no collateral; value derives from network/settlement utility only.
+- Value Stability (Dim 2): **[pending screened volatility data — see Coder data request]**; historically high, unpegged.
+- Productive Utility (Dim 3): moderate-to-high — demonstrated cross-border settlement function via RippleNet, though adoption is contested.
+- Governance (Dim 4): **low** — concentrated issuer control (escrow supply overhang; Ripple-shaped UNL) is the decisive compliance deficiency.
+- Regulatory Recognition (Dim 5): **[pending]** — not recognised in Islamic jurisdictions; U.S. status partially clarified by the 2023 ruling.
+
+**Jurisprudential Assessment:** The concentrated-issuance and governance structure is the analytically salient feature: the *gharar* concern shifts from price uncertainty alone to counterparty and control risk (dependence on a single commercial issuer's release schedule and influence over consensus). XRP therefore illustrates a case where productive utility (Dim 3) cannot offset a structural Dimension 4 deficiency — a pattern the framework is designed to surface. Provisional placement: **Category C**, pending confirmation of the volatility- and recognition-dependent scores.
+
+### Case 6: BNB (Binance Coin) - Exchange-Native Utility Token
+
+BNB is issued by, and functionally tethered to, a single commercial exchange operator. It confers trading-fee discounts and serves as the gas asset for BNB Chain, and its supply is periodically reduced through issuer-conducted token burns (Binance, published burn documentation). Its governance is the antithesis of decentralisation: control rests with the issuing firm. The compliance salience of that concentration was underscored by the November 2023 U.S. enforcement resolution, in which Binance entered a settlement with the Department of Justice and CZ pleaded guilty to Bank Secrecy Act violations — an *illa* bearing directly on the counterparty-integrity aspect of the governance dimension.
+
+**Dimensional Assessment (provisional — awaiting screening confirmation):**
+- Asset Backing (Dim 1): low — no external collateral; value tied to exchange demand and burn policy.
+- Value Stability (Dim 2): **[pending screened volatility data]**; unpegged.
+- Productive Utility (Dim 3): moderate — real utility within one ecosystem, but that utility is issuer-dependent, not general.
+- Governance (Dim 4): **very low** — single-firm control of issuance, burns, and the dominant validator set.
+- Regulatory Recognition (Dim 5): **[pending]** — not recognised in Islamic jurisdictions; issuer under active enforcement scrutiny in multiple jurisdictions.
+
+**Jurisprudential Assessment:** BNB sharpens the Dimension 4 problem beyond XRP: utility is entirely contingent on the continued solvency and good standing of a single, legally-troubled issuer, compounding *gharar* with concentration risk. It is a clear illustration of why productive utility alone (Dim 3) is insufficient for compliance under the framework. Provisional placement: **Category C/D**, pending confirmation.
+
+### Case 7: Tether (USDT) - Fiat-Referenced Stablecoin with Attestation-Quality Deficit
+
+USDT is instructive precisely because it invites comparison with USDC (Case 3): both are fiat-referenced stablecoins with strong Dimension 2 and 3 profiles, yet they diverge on the *quality of assurance* over their reserves — the crux of Dimension 1 under Islamic scrutiny. Tether has faced regulatory findings on reserve representation: a 2021 CFTC order (US$41 million civil penalty) found that USDT was not fully backed by fiat reserves at all relevant times, and a 2021 New York Attorney General settlement (US$18.5 million) addressed related misrepresentations (CFTC, Order, Oct. 2021; NYAG, Settlement, Feb. 2021). Tether subsequently shifted toward publishing periodic reserve attestations dominated by short-term U.S. Treasury holdings, though these remain attestations rather than full audits.
+
+**Dimensional Assessment (provisional — awaiting screening confirmation):**
+- Asset Backing (Dim 1): 4 — reserves are now largely short-dated Treasuries (satisfying the framework's 4-point "100% reserve backing" tier), but the attestation-not-audit quality and the documented history of misrepresentation cap USDT below the 5-point "transparent, auditable backing" tier that a fully audited issuer could reach.
+- Value Stability (Dim 2): high (≈5) — peg generally maintained within a narrow band, with historical de-peg episodes; **[pending screened deviation data]**.
+- Productive Utility (Dim 3): high (≈5) — the most widely used stablecoin for payments and settlement.
+- Governance (Dim 4): low (≈2) — centralised issuer (Tether Ltd.).
+- Regulatory Recognition (Dim 5): **[pending]** — recognition trajectory weaker than USDC; not endorsed in Islamic jurisdictions.
+
+**Jurisprudential Assessment:** USDT demonstrates that Dimension 1 is not a binary "backed / unbacked" test but a graded assessment of the *verifiability* of backing — a distinction with direct Shariah weight, since the *gharar* objection to fiat-referenced tokens is answered by demonstrable, auditable reserves, not by asserted ones. USDT and USDC both land in **Category B**, consistent with the dimensional example scores in §5.2.1–§5.2.2; the analytically decisive difference lies in their *headroom to Category A*. USDC's path (Case 3) is blocked only by centralised governance (Dimension 4); USDT faces a **second** barrier — the reserve-transparency ceiling on Dimension 1 — so that even a governance improvement would not carry it to Category A without an audit-grade attestation regime. The USDC/USDT contrast thus operationalises reserve transparency as a live compliance variable rather than a formality, and illustrates why two assets with near-identical composite scores can have materially different compliance trajectories.
+
+> **Data provenance note.** The volatility-derived Dimension 2 scores, purification figures, and screening verdicts for Cases 5–7 (and re-confirmation for Cases 1–4) are to be populated from the compliance-screening dataset produced by the engineering track (halalscreener run on BTC, ETH, XRP, BNB, USDC, USDT), not asserted by the author. Provisional category placements above are analytical judgments on publicly documented structural facts and will be finalised once that dataset is delivered.
+
+### 5.5.5 Confronting the Categorical Objection: A Steelman of Blanket Prohibition and Its Rebuttal
+
+The case analyses above repeatedly record a categorical verdict—Dar al-Ifta (2017) and MUI (2021) declare pure cryptocurrency *haram* outright. A framework that assigns Bitcoin a graded score of "Category C" rather than a simple prohibition must answer the objection that grading a categorically void (*batil*) instrument is a methodological error: that the entire exercise launders a forbidden thing by dressing degrees onto it. This objection deserves its strongest statement before it is answered.
+
+**The Categorical Thesis (Steelman).** Reconstructed at full strength, the prohibitionist argument is a valid syllogism resting on textually proximate grounds rather than inferential *maslaha*:
+
+- **Premise 1.** Legitimate currency and property (*mal*) in Islam require either intrinsic value, productive backing, or the backing of a recognised authority; classical jurisprudence on the *dinar* and *dirham* presupposes a connection to real economic value (Dar al-Ifta, 2017; see §3.2.3).
+- **Premise 2.** Pure cryptocurrency possesses none of these: no intrinsic value, no productive collateral, and no sovereign backing.
+- **Premise 3.** Its dominant realised function is speculation on price movement—wealth transfer from losers to winners with no productive creation—which is *maisir*, conducted under *gharar* so severe that the object of exchange cannot be ascertained (Qur'an 5:90; the *hadith* prohibiting sale of "the fish in the water and the bird in the sky").
+- **Conclusion.** Every unit of pure cryptocurrency is therefore *haram* as such, and a compliance *gradient* is incoherent: one cannot be "partially" engaged in a *batil* contract.
+
+This is the position with the firmest footing in explicit prohibitory texts (*nusus*). It does not depend on contested empirical estimates or on weighing competing maqasid; it invokes the direct Qur'anic prohibition of *maisir* and the authenticated *hadith* on *gharar*. It is, on its own terms, the most defensible conservative reading, and the strict camp—extending beyond Dar al-Ifta to the 2017 ruling of Turkey's Diyanet and to prominent individual jurists—advances it precisely because it appears to require the fewest inferential steps.
+
+**Rebuttal.** The framework answers the categorical thesis not by denying the prohibition of speculative instruments but by contesting the move from *some* prohibited uses to a *universal* prohibition of the asset class. Four responses, in ascending force:
+
+1. **Premise 1 proves too much.** If *mal*-status strictly required intrinsic value or sovereign backing, contemporary fiat currency—valueless paper by intrinsic measure and, in the classical sense, without commodity backing—would itself be void. Yet Dar al-Ifta, AAOIFI, and Taqi Usmani all treat fiat as valid *thaman*. Classical fiqh reached the same result for *fulus* (copper token money whose exchange value exceeded its metal value), which the jurists validated on the basis of customary acceptance, not intrinsic worth (Al-Kasani, *Bada'i al-Sana'i*; Ibn Taymiyya on money as an instrument whose value rests on convention). *Mal*-status therefore turns on recognised, storable benefit—exactly what Dimensions 1–3 and 5 measure—rather than on intrinsic substance. Premise 1, as stated, is unsound.
+
+2. **Gharar and maisir attach to the transaction, not the token (tahqiq al-manat).** Classical *gharar* doctrine voids specific *contracts* whose object or price is indeterminate—*bay' al-hasah*, *habal al-habala*—not classes of asset. The identical Bitcoin can be the subject of a spot sale of a defined quantity at a defined price (minimal contractual *gharar*) or of a leveraged perpetual future (severe *gharar* compounded by *maisir*). The categorical thesis collapses the asset into its most harmful use. The doctrinally precise remedy is to verify the operative cause (*'illa*) in the concrete case—*tahqiq al-manat*—and to pair classification with restrictions on the offending conduct, which is what the framework does.
+
+3. **The thesis cannot supply the granularity its own proponents demand.** A blanket *haram* cannot distinguish a fully reserve-backed, audited, regulator-recognised stablecoin (USDC, scored 19/25, Category B) from an anonymous meme-token, yet the prohibitionist authorities themselves draw exactly such distinctions: Dar al-Ifta exempts blockchain technology and legitimate applications (§3.2.4), MUI permits a commodity classification under conditions (§3.4.4), and AAOIFI and Taqi Usmani expressly accept properly-structured stablecoins (§3.1, §3.3). The presence of these concessions *within* the strict camp refutes true categoricality; the live disagreement is over *where* the line falls—which is precisely the question a graded framework is built to answer.
+
+4. **Where the objection retains full force, the framework already agrees.** For a pure, unbacked, speculative token whose predominant realised use is *maisir* under *gharar*, the framework returns Category C–D (Problematic to Non-Compliant)—the same practical outcome the prohibitionist seeks. The framework does not overturn the prohibition of the speculative instrument; it declines to extend that prohibition, by an analogy lacking a shared *'illa*, to structurally different instruments (asset-backed and stablecoin designs) that do not exhibit the operative cause of the ruling.
+
+**The methodological divergence, named.** This is not a case of "some scholars say yes and some say no." It is a divergence in *usul al-fiqh*. The prohibitionist reasons from *sadd al-dhara'i* and a presumption that a novel instrument bearing prohibited features is void until affirmatively validated. The framework reasons from *al-asl fi al-muamalat al-ibaha* (the default permissibility of transactions) disciplined by *tahqiq al-manat*, validating or invalidating each design by its verified characteristics. The categorical thesis is thus not defeated but *bounded*: sound as applied to the speculative assets that generated it, and unsound only as a claim of universality. The five-dimensional framework is the instrument that marks that boundary with the granularity the sources require.
+
 ## 5.6 Regulatory Harmonization Through Classification Framework
 
 The unified framework enables progressive regulatory harmonization across Islamic jurisdictions:
@@ -589,6 +655,33 @@ The Regulatory Recognition dimension (Dimension 5) reflects institutional assess
 2. Establish mutual recognition criteria for inter-jurisdictional approvals
 3. Develop periodic review cycle for cryptocurrency classification updates
 4. Coordinate with other Islamic regulators through standardized framework
+
+### Enforcement Mechanics: Continuous Monitoring, Recertification, and Downgrade Protocol
+
+A classification is not a certificate awarded once and retained indefinitely. Compliance is a *continuing state*, and the framework requires machinery to detect when an asset ceases to occupy the category it was assigned and to attach consequences to that change. This dynamic dimension is what makes the classification an operative regulatory tool rather than a one-time academic scoring exercise.
+
+**Jurisprudential warrant for dynamic re-classification.** The requirement follows directly from a foundational principle of *uṣūl al-fiqh*: *al-ḥukm yadūru maʿa ʿillatihi wujūdan wa ʿadaman* — a ruling turns with its operative cause (ʿilla), present when the cause is present and absent when it is absent (a maxim systematised across the classical *qawāʿid* literature; cf. Ibn Nujaym, *al-Ashbāh wa'l-Naẓāʾir*). A stablecoin classified Category B because its reserves are fully backed (the ʿilla) forfeits that classification the moment the backing fails; the compliance ruling cannot outlive the attribute that justified it. Equally, the principle of *istiṣḥāb* (presumption of continuity) permits a prior classification to stand only until contrary evidence emerges — placing an affirmative monitoring burden on the certifying regulator. Static certification would treat a contingent, attribute-dependent ruling as if it were permanent, which the jurisprudence does not license.
+
+**Monitoring inputs (per dimension).** Each dimension is mapped to observable indicators that a supervisory data pipeline tracks continuously rather than annually:
+
+- **Dimension 1 (Asset Backing):** independent reserve attestation reports; collateralisation ratio; custody and bankruptcy-remoteness status.
+- **Dimension 2 (Value Stability):** realised volatility and maximum deviation from peg or target band over rolling windows.
+- **Dimension 3 (Productive Utility):** on-chain settlement volume, active-address trends, and demonstrated non-speculative use.
+- **Dimension 4 (Governance):** token- and validator-concentration metrics; changes in controlling entities or admin-key custody.
+- **Dimension 5 (Regulatory Recognition):** new fatwas, licensing decisions, or prohibitions in member jurisdictions.
+
+The empirical values feeding these indicators are supplied by the screening and market-data pipeline (see Appendix F and the compliance-screening dataset), not asserted by the analyst; where an input cannot be independently sourced, the dimension is scored conservatively and the gap disclosed.
+
+**Recertification cadence.** Two clocks run in parallel: (i) a **scheduled** minimum annual recertification (consistent with the temporal-sensitivity limitation of §5.7.2), and (ii) an **event-driven** re-score triggered immediately by any material change — a de-peg event, a failed or qualified reserve attestation, a governance-capture event, an exchange delisting, or a regulatory reversal.
+
+**Downgrade triggers and the asset-side consequence ladder.** When monitoring detects deterioration, the asset moves through a graduated protocol rather than a binary halal/haram flip:
+
+1. **Watchlist** — a single indicator breaches its threshold; classification retained but flagged, institutions notified.
+2. **Provisional downgrade** — a dimension score falls pending review (e.g., a stablecoin trading outside its band beyond the permitted duration provisionally loses points on Dimension 2); the composite category is suspended.
+3. **Category reassignment** — the technical panel confirms the lower score; the asset is formally re-categorised and the Qualified Registry updated.
+4. **Delisting** — an asset falling to Category C/D is removed from the Qualified Cryptocurrency Registry (Chapter 6, §6.5.1), terminating mutual recognition.
+
+**Consequences for holders.** Institutions holding a downgraded asset receive a defined wind-down window proportioned to market liquidity (avoiding fire-sale harm, itself a *maṣlaḥa* consideration), and any returns accrued while the asset was non-compliant are subject to the purification (*taṭhīr*) obligation — the quantified disposal of impermissible income to charity — using the purification figures produced by the screening pipeline. Enforcement of the classification thus reaches through to the balance sheet, closing the loop between the score and the institution's actual Shariah exposure, and dovetailing with the inter-regulator enforcement ladder of Chapter 6 (§6.5.4).
 
 ## 5.9 Conclusion
 

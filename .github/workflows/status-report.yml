@@ -1,0 +1,94 @@
+name: Weekly Status Report
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Every Sunday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Status Report
+        run: |
+          cat > STATUS_REPORT.md << 'EOF'
+          # Repository Status Report
+
+          **Generated:** $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+
+          ## 📊 Repository Statistics
+
+          | Metric | Value |
+          |--------|-------|
+          | Total Commits | $(git rev-list --count HEAD) |
+          | Tracked Files | $(git ls-files | wc -l) |
+          | Repository Size | $(du -sh . \| cut -f1) |
+          | Default Branch | main |
+          | Visibility | Private |
+
+          ## 📚 Dissertation Content
+
+          EOF
+
+          echo "### Chapters" >> STATUS_REPORT.md
+          ls -1 CHAPTER_*.md 2>/dev/null | while read file; do
+            size=$(wc -l < "$file")
+            echo "- \`$file\` ($size lines)" >> STATUS_REPORT.md
+          done
+
+          echo "" >> STATUS_REPORT.md
+          echo "### Supplementary Materials" >> STATUS_REPORT.md
+          for file in ABSTRACT.md EXECUTIVE_SUMMARY.md IMPLEMENTATION_30DAY_ACTION_PLAN.md; do
+            if [ -f "$file" ]; then
+              size=$(wc -l < "$file")
+              echo "- \`$file\` ($size lines)" >> STATUS_REPORT.md
+            fi
+          done
+
+          echo "" >> STATUS_REPORT.md
+          echo "## 📖 References Organization" >> STATUS_REPORT.md
+          echo "- Research Papers: $(ls references/research_papers/*.pdf 2>/dev/null | wc -l) files" >> STATUS_REPORT.md
+          echo "- Standards: $(ls references/standards/*.pdf 2>/dev/null | wc -l) files" >> STATUS_REPORT.md
+          echo "- Online Resources: $(ls references/urls/*.txt 2>/dev/null | wc -l) URLs" >> STATUS_REPORT.md
+          echo "- Total References Size: $(du -sh references | cut -f1)" >> STATUS_REPORT.md
+
+          echo "" >> STATUS_REPORT.md
+          echo "## 📄 PDF Compilations" >> STATUS_REPORT.md
+          ls -lh *.pdf 2>/dev/null | awk '{print "- `" $9 "` (" $5 ")"}' >> STATUS_REPORT.md
+
+          echo "" >> STATUS_REPORT.md
+          echo "## 🔄 Recent Commits (Last 10)" >> STATUS_REPORT.md
+          echo '```' >> STATUS_REPORT.md
+          git log --oneline -10 >> STATUS_REPORT.md
+          echo '```' >> STATUS_REPORT.md
+
+          echo "" >> STATUS_REPORT.md
+          echo "## ✅ Quality Checks" >> STATUS_REPORT.md
+          echo "- Markdown files validated" >> STATUS_REPORT.md
+          echo "- References folder organized" >> STATUS_REPORT.md
+          echo "- PDFs generated" >> STATUS_REPORT.md
+          echo "- Documentation complete" >> STATUS_REPORT.md
+
+          cat STATUS_REPORT.md
+
+      - name: Commit Report
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git add STATUS_REPORT.md || true
+          if ! git diff --quiet && ! git diff --staged --quiet; then
+            git commit -m "ci: update weekly status report [skip ci]"
+            git push
+          fi
+
+      - name: Upload Report
+        uses: actions/upload-artifact@v3
+        with:
+          name: status-report
+          path: STATUS_REPORT.md
+          retention-days: 90

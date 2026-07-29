@@ -485,3 +485,4 @@ By end of Day 30, you should have:
    - When manuscripts should be written, submitted, published
 
 ---
+

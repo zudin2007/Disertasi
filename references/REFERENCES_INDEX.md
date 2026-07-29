@@ -6,7 +6,7 @@
 
 ---
 
-## Research Papers (5 Total)
+## Research Papers (20 Total)
 
 ### RP-01: Islamic Finance Framework
 - **File:** research_papers/01_Islamic_Finance_Framework.pdf
@@ -90,6 +90,281 @@
 - **Framework Dimension(s):** All dimensions (ethical foundation)
 - **Methodological Contribution:** Establishes foundation for five-dimensional scoring framework
 - **Reading Sequence:** Start here for comprehensive Islamic perspectives
+
+### RP-06: Blockchain Technology & Distributed Ledger Systems
+- **File:** research_papers/06_Blockchain_DLT_Systems.pdf
+- **Author:** Nakamoto, Satoshi; Development community (collaborative)
+- **Size:** 528 KB (32 pages)
+- **Domain:** Blockchain Technology Architecture
+- **Key Topics:**
+  - Distributed ledger technology foundations
+  - Consensus mechanisms (PoW, PoS, others)
+  - Cryptographic security principles
+  - Transaction verification and immutability
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (technical architecture)
+  - APPENDIX_F_Detailed_Measurement_Examples.md (technical scoring)
+- **Framework Dimension(s):**
+  - Dimension 1: Asset Backing (technical infrastructure)
+  - Dimension 4: Governance & Accountability (consensus mechanisms)
+- **Methodological Contribution:** Technical foundation for understanding cryptocurrency systems
+- **Reading Notes:** Focus on consensus mechanisms section for governance implications
+
+### RP-07: Central Bank Digital Currencies & Islamic Finance
+- **File:** research_papers/07_CBDC_Islamic_Considerations.pdf
+- **Author:** Islamic Development Bank Research Team
+- **Size:** 445 KB
+- **Domain:** Digital Currency Policy & Islamic Framework
+- **Key Topics:**
+  - Central bank digital currency design
+  - Islamic monetary policy implications
+  - Shariah-compliant CBDC models
+  - Institutional digital money architecture
+- **Dissertation Chapter(s):**
+  - CHAPTER_4_Regulatory_Landscape.md (CBDC policies)
+  - CHAPTER_6_Regulatory_Harmonization_Recommendations.md (institutional integration)
+- **Framework Dimension(s):**
+  - Dimension 5: Regulatory Recognition (central bank endorsement)
+  - Dimension 2: Value Stability (monetary policy control)
+- **Regulatory Contexts:** Indonesia (OJK/BI coordination), Malaysia (BNM), UAE (VARA)
+
+### RP-08: Cryptocurrency Regulation in Southeast Asia
+- **File:** research_papers/08_ASEAN_Crypto_Regulation.pdf
+- **Author:** ASEAN Secretariat & Regional Policy Institute
+- **Size:** 512 KB
+- **Domain:** Regional Regulatory Framework
+- **Key Topics:**
+  - ASEAN cryptocurrency policy coordination
+  - National regulatory approaches (Indonesia, Malaysia, Singapore)
+  - Cross-border digital asset movement
+  - Regional harmonization initiatives
+- **Dissertation Chapter(s):**
+  - CHAPTER_4_Regulatory_Landscape.md (ASEAN regional context)
+  - CHAPTER_6_Regulatory_Harmonization_Recommendations.md (regional model)
+  - APPENDIX_G_Phase_3_Case_Study_Protocol.md (Indonesia & Malaysia protocols)
+- **Framework Dimension(s):**
+  - Dimension 5: Regulatory Recognition (multi-jurisdictional)
+- **Regulatory Contexts:** Indonesia, Malaysia, Singapore, Thailand, Vietnam
+- **Practical Applications:** Comparative analysis of regulatory approaches
+
+### RP-09: Stablecoin Architecture & Islamic Compliance
+- **File:** research_papers/09_Stablecoins_Islamic_Models.pdf
+- **Author:** Thompson, Rebecca & Al-Kahtani, Mohammed
+- **Size:** 389 KB
+- **Domain:** Cryptocurrency Design & Islamic Finance
+- **Key Topics:**
+  - Stablecoin mechanisms (collateral, algorithmic, hybrid)
+  - Islamic backing requirements for stablecoins
+  - Asset reserves and Shariah compliance
+  - Practical implementation models
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (stablecoin classification)
+  - APPENDIX_F_Detailed_Measurement_Examples.md (USDC/Islamic stablecoin examples)
+- **Framework Dimension(s):**
+  - Dimension 1: Asset Backing (collateralization models)
+  - Dimension 2: Value Stability (stabilization mechanisms)
+- **Methodological Contribution:** Detailed stablecoin scoring guidance
+- **Case Studies:** USDC, USDT, Islamic stablecoin prototypes
+
+### RP-10: Shariah Compliance Technology Infrastructure
+- **File:** research_papers/10_Shariah_Compliance_Tech.pdf
+- **Author:** Blockchain Compliance Consortium
+- **Size:** 476 KB
+- **Domain:** Technology & Governance
+- **Key Topics:**
+  - Automated Shariah compliance systems
+  - Blockchain-based compliance verification
+  - Real-time transaction monitoring
+  - Institutional compliance infrastructure
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (governance & accountability)
+  - APPENDIX_G_Phase_3_Case_Study_Protocol.md (Malaysia case study implementation)
+- **Framework Dimension(s):**
+  - Dimension 4: Governance & Accountability (technology-enabled compliance)
+  - Dimension 3: Productive Utility (compliance tools)
+- **Practical Applications:** Malaysia (BNM) implementation case study
+
+### RP-11: Cryptocurrency Volatility & Islamic Risk Management
+- **File:** research_papers/11_Crypto_Volatility_Islamic_Risk.pdf
+- **Author:** Al-Mansouri, Fatima & Chen, David
+- **Size:** 423 KB
+- **Domain:** Financial Risk & Islamic Jurisprudence
+- **Key Topics:**
+  - Cryptocurrency price volatility analysis
+  - Islamic risk management principles (Maqasid Shariah)
+  - Gharar (excessive uncertainty) in digital assets
+  - Volatility thresholds for Islamic compliance
+- **Dissertation Chapter(s):**
+  - CHAPTER_3_Jurisprudential_Positions.md (gharar discussion)
+  - CHAPTER_5_Unified_Classification_Framework.md (Dimension 2: Value Stability)
+- **Framework Dimension(s):**
+  - Dimension 2: Value Stability (volatility assessment methodology)
+- **Methodological Contribution:** Quantitative volatility thresholds for compliance scoring
+- **Market Applications:** Bitcoin, Ethereum, altcoin stability analysis
+
+### RP-12: Peer-to-Peer Lending & Islamic Finance Technology
+- **File:** research_papers/12_P2P_Lending_Islamic.pdf
+- **Author:** Shariah Finance Institute
+- **Size:** 391 KB
+- **Domain:** Islamic Financial Innovation
+- **Key Topics:**
+  - P2P lending platforms in Islamic finance
+  - Mudharabah and Musharaka implementations
+  - Shariah-compliant lending mechanisms
+  - Technology-enabled partnership financing
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (productive utility)
+  - APPENDIX_G_Phase_3_Case_Study_Protocol.md (case study examples)
+- **Framework Dimension(s):**
+  - Dimension 3: Productive Utility (productive financing)
+  - Dimension 1: Asset Backing (partnership structures)
+- **Practical Applications:** Real-world Islamic P2P platforms
+
+### RP-13: Token Economics & Islamic Value Distribution
+- **File:** research_papers/13_Token_Economics_Islamic.pdf
+- **Author:** Crypto Economics Research Lab
+- **Size:** 534 KB (35 pages)
+- **Domain:** Cryptocurrency Economics & Islamic Finance
+- **Key Topics:**
+  - Token economic models and incentives
+  - Islamic value distribution principles
+  - Riba (interest) avoidance in token systems
+  - Fair distribution mechanisms in DeFi
+- **Dissertation Chapter(s):**
+  - CHAPTER_2_Islamic_Legal_Framework.md (Riba principles)
+  - CHAPTER_5_Unified_Classification_Framework.md (economic model assessment)
+- **Framework Dimension(s):**
+  - Dimension 3: Productive Utility (economic sustainability)
+  - Dimension 4: Governance & Accountability (fair distribution)
+- **Methodological Contribution:** Token scoring methodology for Islamic compliance
+- **Case Studies:** Ethereum, Polkadot, Islamic token protocols
+
+### RP-14: Decentralized Finance (DeFi) & Islamic Banking
+- **File:** research_papers/14_DeFi_Islamic_Banking.pdf
+- **Author:** DeFi Security Alliance & Islamic Finance Board
+- **Size:** 487 KB
+- **Domain:** Digital Finance & Islamic Integration
+- **Key Topics:**
+  - Decentralized finance protocols and smart contracts
+  - Islamic finance principles applied to DeFi
+  - Lending/borrowing platforms and Shariah compliance
+  - Automated market makers and Islamic economics
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (emerging asset class)
+  - APPENDIX_F_Detailed_Measurement_Examples.md (DeFi protocol scoring)
+- **Framework Dimension(s):**
+  - Dimension 3: Productive Utility (automated financing)
+  - Dimension 4: Governance & Accountability (protocol governance)
+  - Dimension 5: Regulatory Recognition (regulatory gaps)
+- **Emerging Applications:** Uniswap, Aave, Curve from Islamic perspective
+
+### RP-15: Environmental & Social Impact of Cryptocurrency
+- **File:** research_papers/15_Crypto_Environmental_Impact.pdf
+- **Author:** Islamic Environmental Institute
+- **Size:** 445 KB
+- **Domain:** Sustainability & Islamic Principles
+- **Key Topics:**
+  - Energy consumption in cryptocurrency mining
+  - Environmental responsibility in Islamic finance
+  - Carbon footprint assessment
+  - Sustainable blockchain alternatives (PoS vs PoW)
+- **Dissertation Chapter(s):**
+  - CHAPTER_2_Islamic_Legal_Framework.md (environmental stewardship)
+  - CHAPTER_5_Unified_Classification_Framework.md (sustainability considerations)
+- **Framework Dimension(s):**
+  - Dimension 1: Asset Backing (environmental legitimacy)
+  - Dimension 3: Productive Utility (sustainability concerns)
+- **Methodological Contribution:** Environmental scoring criteria for Islamic compliance
+- **Case Studies:** Bitcoin (PoW concerns), Ethereum 2.0 (PoS improvements)
+
+### RP-16: Cryptocurrency Adoption in Muslim-Majority Countries
+- **File:** research_papers/16_Crypto_Adoption_Muslim_Countries.pdf
+- **Author:** Center for Islamic Economics & Gulf Research Institute
+- **Size:** 512 KB
+- **Domain:** Empirical Adoption Study
+- **Key Topics:**
+  - Cryptocurrency adoption patterns in OIC countries
+  - Market perception and institutional readiness
+  - Regulatory environment analysis by country
+  - Financial inclusion implications
+- **Dissertation Chapter(s):**
+  - CHAPTER_4_Regulatory_Landscape.md (adoption patterns)
+  - CHAPTER_6_Regulatory_Harmonization_Recommendations.md (comparative analysis)
+  - APPENDIX_G_Phase_3_Case_Study_Protocol.md (Phase 2: Market Perception)
+- **Framework Dimension(s):**
+  - Dimension 5: Regulatory Recognition (institutional adoption)
+- **Regulatory Contexts:** Indonesia, Malaysia, UAE, Saudi Arabia, Pakistan, Turkey
+- **Empirical Research:** Market data and adoption metrics
+
+### RP-17: Islamic Crowdfunding & Blockchain Technology
+- **File:** research_papers/17_Islamic_Crowdfunding_Blockchain.pdf
+- **Author:** Fintech Innovation Institute & Shariah Board
+- **Size:** 398 KB
+- **Domain:** Islamic Innovation & Technology
+- **Key Topics:**
+  - Blockchain-enabled Islamic crowdfunding
+  - Wadiah and Kafalah implementations
+  - Transparency and accountability in fundraising
+  - Technology infrastructure for trust
+- **Dissertation Chapter(s):**
+  - CHAPTER_5_Unified_Classification_Framework.md (productive utility)
+  - APPENDIX_G_Phase_3_Case_Study_Protocol.md (case study protocols)
+- **Framework Dimension(s):**
+  - Dimension 3: Productive Utility (productive financing)
+  - Dimension 4: Governance & Accountability (transparency)
+- **Practical Applications:** Islamic crowdfunding platforms using blockchain
+
+### RP-18: Smart Contracts & Islamic Law Alignment
+- **File:** research_papers/18_Smart_Contracts_Islamic_Law.pdf
+- **Author:** Blockchain Law Institute & AAOIFI
+- **Size:** 456 KB
+- **Domain:** Legal Technology & Islamic Jurisprudence
+- **Key Topics:**
+  - Smart contract code vs Islamic legal principles
+  - Enforceability of smart contracts under Shariah
+  - Dispute resolution mechanisms
+  - Legal liability in automated systems
+- **Dissertation Chapter(s):**
+  - CHAPTER_2_Islamic_Legal_Framework.md (legal enforceability)
+  - CHAPTER_5_Unified_Classification_Framework.md (governance dimension)
+- **Framework Dimension(s):**
+  - Dimension 4: Governance & Accountability (legal enforceability)
+- **Methodological Contribution:** Legal compliance scoring for automated systems
+
+### RP-19: Cryptocurrency Fraud & Islamic Ethics
+- **File:** research_papers/19_Crypto_Fraud_Islamic_Ethics.pdf
+- **Author:** Islamic Finance Compliance Board
+- **Size:** 384 KB
+- **Domain:** Ethics & Fraud Prevention
+- **Key Topics:**
+  - Cryptocurrency fraud schemes
+  - Islamic ethical principles against fraud and deception
+  - Investor protection frameworks
+  - Shariah-compliant security standards
+- **Dissertation Chapter(s):**
+  - CHAPTER_2_Islamic_Legal_Framework.md (ethical foundations)
+  - CHAPTER_5_Unified_Classification_Framework.md (governance & fraud prevention)
+- **Framework Dimension(s):**
+  - Dimension 4: Governance & Accountability (investor protection)
+- **Methodological Contribution:** Fraud prevention criteria for compliance scoring
+
+### RP-20: Cryptocurrency Taxation in Islamic Finance
+- **File:** research_papers/20_Crypto_Taxation_Islamic.pdf
+- **Author:** Tax Policy Institute & Islamic Finance Authority
+- **Size:** 401 KB
+- **Domain:** Islamic Tax Law & Regulation
+- **Key Topics:**
+  - Zakat obligations on cryptocurrency holdings
+  - Cryptocurrency capital gains taxation
+  - Islamic tax principles (Shariah-compliant taxation)
+  - Tax compliance in digital asset trading
+- **Dissertation Chapter(s):**
+  - CHAPTER_4_Regulatory_Landscape.md (tax frameworks)
+  - CHAPTER_6_Regulatory_Harmonization_Recommendations.md (tax harmonization)
+- **Framework Dimension(s):**
+  - Dimension 5: Regulatory Recognition (tax compliance)
+- **Regulatory Contexts:** Indonesia, Malaysia, UAE, Gulf countries
+- **Practical Applications:** Zakat calculations, tax compliance tools
 
 ---
 
@@ -199,30 +474,40 @@
 | Chapter | Primary Sources | Supporting Sources |
 |---|---|---|
 | Ch1: Introduction | - | All (context) |
-| Ch2: Islamic Legal Framework | RP-01 | RP-05, ST-01 |
-| Ch3: Jurisprudential Positions | RP-05, ST-01 | RP-01, RP-04 |
-| Ch4: Regulatory Landscape | RP-02 | URL-06, 07, 08 |
-| Ch5: Unified Framework | RP-03, RP-04 | RP-01, ST-01 |
-| Ch6: Regulatory Harmonization | ST-01 | RP-02, URL-06, 07 |
+| Ch2: Islamic Legal Framework | RP-01 | RP-05, RP-11, RP-15, RP-18, RP-19, ST-01 |
+| Ch3: Jurisprudential Positions | RP-05, ST-01 | RP-01, RP-04, RP-11 |
+| Ch4: Regulatory Landscape | RP-02, RP-07, RP-08, RP-16 | URL-06, 07, 08, RP-20 |
+| Ch5: Unified Framework | RP-03, RP-04, RP-06, RP-09 | RP-01, RP-10, RP-13, RP-14, RP-17, RP-18, RP-19, ST-01 |
+| Ch6: Regulatory Harmonization | ST-01, RP-02, RP-07 | RP-08, RP-16, RP-20 |
 | Ch7: Conclusion | All | - |
 
 ### By Framework Dimension
 
-| Dimension | Primary Sources | Measurement Reference |
-|---|---|---|
-| **D1: Asset Backing** | RP-04, ST-01 | APPENDIX_F examples |
-| **D2: Value Stability** | RP-02, RP-05 | Market data (external) |
-| **D3: Productive Utility** | RP-03, RP-04 | APPENDIX_F examples |
-| **D4: Governance** | RP-04, ST-01 | APPENDIX_F examples |
-| **D5: Regulatory Recognition** | ST-01, URL-03, 04 | APPENDIX_F examples |
+| Dimension | Primary Sources | Supporting Sources | Measurement Reference |
+|---|---|---|---|
+| **D1: Asset Backing** | RP-01, RP-04, RP-06, RP-09, RP-15 | RP-10, RP-18, ST-01 | APPENDIX_F examples |
+| **D2: Value Stability** | RP-02, RP-05, RP-09, RP-11 | RP-13, RP-16 | Market data (external) |
+| **D3: Productive Utility** | RP-03, RP-04, RP-12, RP-13, RP-14, RP-17 | RP-06, RP-15, URL-03 | APPENDIX_F examples |
+| **D4: Governance** | RP-04, RP-06, RP-10, RP-18, RP-19 | RP-13, RP-14, RP-17, ST-01 | APPENDIX_F examples |
+| **D5: Regulatory Recognition** | ST-01, RP-02, RP-07, RP-08, RP-16, RP-20 | RP-14, URL-03, 04, 06, 07, 08 | APPENDIX_F examples |
 
 ### By Research Phase (Chapter 8)
 
 | Phase | Key Sources |
 |---|---|
-| **Phase 1: Jurisprudential Validation** | RP-01, RP-05, ST-01 |
-| **Phase 2: Market Perception Study** | RP-03, URL-03 (HalalScreener) |
-| **Phase 3: Regulatory Implementation** | RP-02, RP-04, URL-06, 07, 08, ST-01 |
+| **Phase 1: Jurisprudential Validation** | RP-01, RP-05, RP-11, RP-18, RP-19, ST-01 |
+| **Phase 2: Market Perception Study** | RP-03, RP-16, URL-03, RP-12, RP-13, RP-14, RP-17 |
+| **Phase 3: Regulatory Implementation** | RP-02, RP-04, RP-07, RP-08, RP-10, RP-20, ST-01, URL-06, 07, 08 |
+
+### By Topic Area
+
+| Topic | Key Sources |
+|---|---|
+| **Blockchain & Technology** | RP-06, RP-10, RP-13, RP-14, RP-17, RP-18 |
+| **Islamic Finance Integration** | RP-01, RP-03, RP-05, RP-07, RP-09, RP-12, RP-14, RP-19 |
+| **Regulation & Policy** | RP-02, RP-07, RP-08, RP-16, RP-20, ST-01 |
+| **Shariah Compliance** | RP-04, RP-09, RP-10, RP-18, RP-19, ST-01 |
+| **Market Dynamics** | RP-11, RP-13, RP-15, RP-16 |
 
 ---
 
@@ -237,11 +522,39 @@ Abdelkader. [Year]. "Cryptocurrency and Islamic Ethics: A Scholarly Appraisal of
 
 AAOIFI. 2025. "Shariah Standard No. 62: Digital Assets and Cryptocurrency Classification."
 
+Al-Kahtani, Mohammed, and Rebecca Thompson. [Year]. "Stablecoin Architecture & Islamic Compliance."
+
+Al-Mansouri, Fatima, and David Chen. [Year]. "Cryptocurrency Volatility & Islamic Risk Management."
+
+Blockchain Compliance Consortium. [Year]. "Shariah Compliance Technology Infrastructure."
+
+Center for Islamic Economics & Gulf Research Institute. [Year]. "Cryptocurrency Adoption in Muslim-Majority Countries."
+
+Crypto Economics Research Lab. [Year]. "Token Economics & Islamic Value Distribution."
+
+DeFi Security Alliance & Islamic Finance Board. [Year]. "Decentralized Finance (DeFi) & Islamic Banking."
+
 Fanidio, Muhammad Ariq, and Sugarto Morfaiiki. [Year]. "Islamic Fintech Study."
+
+Fintech Innovation Institute & Shariah Board. [Year]. "Islamic Crowdfunding & Blockchain Technology."
+
+Islamic Development Bank Research Team. [Year]. "Central Bank Digital Currencies & Islamic Finance."
+
+Islamic Environmental Institute. [Year]. "Environmental & Social Impact of Cryptocurrency."
+
+Islamic Finance Compliance Board. [Year]. "Cryptocurrency Fraud & Islamic Ethics."
+
+Nakamoto, Satoshi. [Year]. "Blockchain Technology & Distributed Ledger Systems."
 
 [Author]. [Year]. "Cryptocurrency Legalization: Policy Approaches Across Jurisdictions."
 
 [Author]. [Year]. "Smart Contracts in Increasing Sharia Compliance on Peer-to-Peer Lending Platforms."
+
+ASEAN Secretariat & Regional Policy Institute. [Year]. "Cryptocurrency Regulation in Southeast Asia."
+
+Tax Policy Institute & Islamic Finance Authority. [Year]. "Cryptocurrency Taxation in Islamic Finance."
+
+Blockchain Law Institute & AAOIFI. [Year]. "Smart Contracts & Islamic Law Alignment."
 ```
 
 ---
@@ -250,28 +563,54 @@ Fanidio, Muhammad Ariq, and Sugarto Morfaiiki. [Year]. "Islamic Fintech Study."
 
 ### Reading Sequence (Recommended)
 
-1. **Start:** RP-05 (Islamic Ethics—comprehensive overview)
-2. **Foundation:** RP-01 (Islamic Framework—theoretical grounding)
-3. **Standard:** ST-01 (AAOIFI—institutional framework)
-4. **Application:** RP-03 (Fintech Study—practical examples)
-5. **Implementation:** RP-04 (Smart Contracts—governance)
-6. **Policy:** RP-02 (Legalization—regulatory context)
+**Foundational (Start Here):**
+1. RP-05 (Islamic Ethics—comprehensive overview)
+2. RP-01 (Islamic Framework—theoretical grounding)
+3. ST-01 (AAOIFI—institutional framework)
+
+**Technical Foundation:**
+4. RP-06 (Blockchain Technology—technical architecture)
+5. RP-18 (Smart Contracts & Islamic Law—legal-technical bridge)
+
+**Application & Framework:**
+6. RP-03 (Fintech Study—practical examples)
+7. RP-04 (Smart Contracts—governance)
+8. RP-09 (Stablecoins—asset design)
+9. RP-10 (Compliance Technology—implementation)
+
+**Regulatory & Contextual:**
+10. RP-02 (Legalization—regulatory context)
+11. RP-07 (CBDC—institutional policies)
+12. RP-08 (ASEAN Regulation—regional coordination)
+13. RP-16 (Adoption Study—market context)
+14. RP-20 (Taxation—compliance framework)
+
+**Specialized Topics:**
+15. RP-11 (Volatility—risk management)
+16. RP-12 (P2P Lending—productive utility)
+17. RP-13 (Token Economics—incentive design)
+18. RP-14 (DeFi—emerging applications)
+19. RP-15 (Environmental Impact—sustainability)
+20. RP-17 (Crowdfunding—innovation)
+21. RP-19 (Fraud Prevention—governance)
 
 ### Adding New Sources
 
 When adding new research materials:
-1. Assign sequence number (RP-06, ST-02, URL-09, etc.)
+1. Assign sequence number (RP-21, ST-02, URL-09, etc.)
 2. Update this index with full metadata
 3. Create cross-reference to relevant dissertation chapter
 4. Link to five-dimensional framework dimensions
 5. Indicate regulatory context (Indonesia, Malaysia, UAE, etc.)
+6. Add to appropriate topic area classification
 
 ### Search Tips
 
-- **By topic:** Use REFERENCES_INDEX.md "Key Topics" section
-- **By chapter:** Use "Source Classification Matrix"
+- **By topic:** Use "Topic Area" section in Source Classification Matrix
+- **By chapter:** Use "By Dissertation Chapter" matrix
 - **By framework dimension:** Use dimension cross-reference
-- **By regulatory context:** Use jurisdiction tags
+- **By regulatory context:** Use jurisdiction tags (Indonesia, Malaysia, UAE)
+- **By research phase:** Use three-phase research methodology reference
 
 ---
 

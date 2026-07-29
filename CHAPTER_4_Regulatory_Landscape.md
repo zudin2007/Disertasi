@@ -42,10 +42,10 @@ Indonesia represents the world's largest Muslim-majority nation with 270+ millio
 - Emerging crypto exchange market
 - Government concern about speculation and consumer protection
 
-### 4.1.2 Regulatory Framework: OJK Regulation 8/2024
+### 4.1.2 Regulatory Framework: POJK No. 27/2024 (amended POJK No. 23/2025)
 
 **Official Regulation:**
-Indonesia's Financial Services Authority (Otoritas Jasa Keuangan—OJK) issued Regulation 8/2024 on Digital Financial Assets, providing comprehensive cryptocurrency regulation framework.
+Indonesia's Financial Services Authority (Otoritas Jasa Keuangan—OJK) issued Regulation No. 27/2024 on Digital Financial Assets (amended by POJK No. 23/2025 in December 2025), providing comprehensive cryptocurrency regulation framework.
 
 **Regulatory Approach: Commodity Classification**
 
@@ -145,18 +145,33 @@ Recognizing Indonesia's Islamic finance prominence, OJK coordinates with:
 - Islamic banking supervisory framework
 - Sharia compliance assessment protocols
 
-**MUI Fatwa Integration:**
-OJK's cryptocurrency regulation acknowledges MUI's 2021 Fatwa No. 4/DSN-MUI/IX/2021:
-- Treats cryptocurrency as high-risk speculative commodity
-- Maintains distance from sharia-compliant Islamic finance framework
-- Separate regulatory treatment from Islamic banking products
-- Does not promote cryptocurrency within Islamic finance
+**Joint OJK-DSN-MUI Coordination (September 2025–Present):**
 
-**Practical Effect:**
-- Islamic banks NOT promoting cryptocurrency products
-- Cryptocurrency trading NOT considered sharia-compliant investment
-- Islamic finance institutions operating under separate regulatory framework
-- Clear separation between Islamic finance and cryptocurrency regulation
+As of September 2025, OJK and DSN-MUI established a Joint Working Group to develop unified Shariah screening framework for cryptocurrency (Chapter 3.4.2). This development represents significant shift from previous separation:
+- Previous approach (pre-2025): Separate regulatory and Islamic finance treatment
+- Current approach (2025–2026): Coordinated development of Shariah screening standards
+- Expected outcome (Q2-Q3 2026): Unified framework for assessing cryptocurrency Shariah compliance
+- Implication: Potential for conditional Islamic finance institution participation in regulated cryptocurrency activities
+
+**Historical Fatwa Context:**
+OJK's regulatory framework acknowledged MUI's 2021 Fatwa No. 4/DSN-MUI/IX/2021:
+- Previously treated cryptocurrency as high-risk speculative commodity
+- Maintained distance from sharia-compliant Islamic finance framework
+- Separate regulatory treatment from Islamic banking products
+- Did not promote cryptocurrency within Islamic finance
+
+**Evolution (2025–2026):**
+The OJK-DSN-MUI Joint Working Group coordination reflects movement toward Position C (Cryptocurrency as Evolving Asset—Conditional Permissibility) for certain properly-structured digital assets, particularly:
+- Asset-backed cryptocurrencies
+- Islamic stablecoins
+- Regulated institutional participation
+
+**Current Practical Effect:**
+- Islamic banks still NOT promoting unregulated cryptocurrency products
+- Regulated, Shariah-compliant cryptocurrency trading emerging as possibility
+- Development of Islamic stablecoin frameworks underway
+- Clear pathway emerging for conditional Islamic finance institution participation
+- Regulatory harmonization between OJK and DSN-MUI expected Q2-Q3 2026
 
 ### 4.1.5 Assessment: Strengths and Weaknesses
 
@@ -166,6 +181,7 @@ OJK's cryptocurrency regulation acknowledges MUI's 2021 Fatwa No. 4/DSN-MUI/IX/2
 - Unambiguous cryptocurrency classification as commodity
 - Reduces regulatory uncertainty
 - Simplifies compliance for market participants
+- Expanded scope in POJK No. 23/2025 (Dec 2025) to include crypto derivatives
 
 ✅ **Consumer Protection Focus**
 - Strict KYC/AML requirements
@@ -179,11 +195,11 @@ OJK's cryptocurrency regulation acknowledges MUI's 2021 Fatwa No. 4/DSN-MUI/IX/2
 - Position limits and reporting requirements
 - Technology and cybersecurity standards
 
-✅ **Islamic Finance Compatibility**
-- Recognition of MUI fatwa position
-- Separate regulatory treatment of Islamic finance
-- Maintains sharia-compliant Islamic banking framework
-- Does not pressure Islamic institutions toward crypto adoption
+✅ **Islamic Finance Coordination (Emerging)**
+- Recognition of MUI fatwa position (historical alignment)
+- Evolving coordination with DSN-MUI through Joint Working Group (Sept 2025)
+- Separate regulatory treatment enabling pathway for conditional Islamic participation
+- Maintains core Islamic banking framework while enabling innovation
 
 **Regulatory Weaknesses:**
 
@@ -1463,13 +1479,59 @@ The regulatory analysis establishes foundation for Chapter 5's task: developing 
 
 This integrated framework will address regulatory fragmentation identified in this chapter and propose coordinated Islamic approach to cryptocurrency regulation.
 
+## 4.10 Policy Implications for Regulators
+
+The comparative regulatory analysis reveals that regulatory fragmentation reflects legitimate policy differentiation rather than regulatory failure. However, fragmentation also creates coordination opportunities. Regulators should understand their own policy priorities and identify harmonization pathways consistent with their approach.
+
+### Key Finding
+Regulatory variation reflects legitimate policy priorities (consumer protection vs. innovation vs. stability vs. monetary control). Harmonization should align policies where possible while accommodating legitimate differentiation.
+
+### Recommended Regulator Actions
+
+**Action 1: Explicitly Identify Your Regulatory Philosophy**
+- **Consumer Protection Focus (Indonesia Model):** Emphasize disclosure requirements, retail restrictions, institutional safeguards
+- **Innovation Focus (Malaysia Model):** Emphasize sandbox programs, clear compliance pathways, regulatory certainty
+- **Stability Focus (Bahrain Model):** Emphasize prudential requirements, risk management, systemic risk monitoring
+- **Monetary Control Focus (Saudi Arabia Model):** Emphasize CBDC development, controlled institutional access, spillover prevention
+
+**Action 2: Design Minimum Standards Consistent with Your Philosophy**
+- Consumer protection approach → stricter backing requirements, lower volatility tolerance, institutional-only access
+- Innovation approach → clearer compliance pathways, graduated regulatory requirements, sandbox access
+- Stability approach → prudential capital requirements, stress-testing, enhanced monitoring
+- Monetary control approach → restricted access, CBDC prioritization, spillover limits
+
+**Action 3: Join IIFRC Coordination Mechanism Matching Your Regulatory Philosophy**
+- Three implementation models available: Full Integration (Malaysia), Conditional (Indonesia), Conservative (Saudi Arabia)
+- Select model reflecting your regulatory approach
+- Benefit from shared standard-setting while maintaining policy flexibility
+
+**Action 4: Establish Information-Sharing and Coordination with Aligned Jurisdictions**
+- Consumer protection regulators: Coordinate with Indonesia, other consumer-focused jurisdictions
+- Innovation regulators: Coordinate with Malaysia, UAE for sandbox learning and best practice sharing
+- Stability regulators: Coordinate with Bahrain, other prudentially-focused regulators
+- Monetary control regulators: Coordinate with Saudi Arabia on CBDC integration
+
+### Expected Regulatory Outcomes
+
+- **Coherence:** Cryptocurrency regulation reflects and advances your regulatory philosophy
+- **Efficiency:** Join coordination mechanisms to leverage shared expertise rather than duplicating regulatory work
+- **Legitimacy:** Transparent communication of regulatory philosophy increases stakeholder understanding
+- **Effectiveness:** Policy differentiation enables tailored approach to local circumstances
+
+### Implementation Pathway
+
+**Phase 1 (Months 1-3):** Clarify regulatory philosophy; identify core policy objectives
+**Phase 2 (Months 4-6):** Design standards aligned with philosophy; establish thresholds
+**Phase 3 (Months 7-12):** Join IIFRC; identify aligned jurisdictions for cooperation
+**Phase 4 (Months 13-24):** Participate in coordination and mutual learning; adjust standards as evidence accumulates
+
 ---
 
 ## References for Chapter 4
 
 ### Indonesian Regulation
 
-- OJK (Otoritas Jasa Keuangan). (2024). *Regulation 8/2024 on Digital Financial Assets*. Jakarta: OJK Publications.
+- OJK (Otoritas Jasa Keuangan). (2024). *Regulation No. 27/2024 on Digital Financial Assets* (amended by POJK No. 23/2025, December 2025). Jakarta: OJK Publications.
 - OJK. (2024). *Digital Financial Assets: Regulatory Framework and Guidance*. OJK Publications.
 - Bank Indonesia & OJK. (2021). *Joint Statement on Cryptocurrency*. Official Publications.
 

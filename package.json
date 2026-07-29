@@ -1,0 +1,27 @@
+{
+  "name": "disertasi-build",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reproducible build pipeline for the dissertation: Markdown chapters + appendices -> Dissertation_Full.pdf and Dissertation_Full.docx",
+  "type": "commonjs",
+  "scripts": {
+    "build": "node build/build.js",
+    "build:pdf": "node build/build.js --only=pdf",
+    "build:docx": "node build/build.js --only=docx",
+    "toc": "node build/gen-toc.js",
+    "toc:check": "node build/gen-toc.js --check",
+    "research:screener": "node research-halalscreener.js",
+    "research:analysis": "node research-analysis.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fflate": "0.8.2",
+    "html-to-docx": "1.8.0",
+    "markdown-it": "14.1.0",
+    "markdown-it-anchor": "9.2.0",
+    "pdf-lib": "1.17.1",
+    "puppeteer": "23.11.1"
+  }
+}

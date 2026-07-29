@@ -1,0 +1,67 @@
+name: Validate Documents
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*.md'
+      - 'references/**'
+  pull_request:
+    paths:
+      - '*.md'
+      - 'references/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Markdown Syntax
+        run: |
+          echo "🔍 Validating markdown files..."
+          ERRORS=0
+          for file in *.md references/**/*.md; do
+            if [ -f "$file" ]; then
+              # Check for unclosed code blocks
+              count=$(grep -c '```' "$file" 2>/dev/null || echo 0)
+              if [ $((count % 2)) -ne 0 ]; then
+                echo "❌ Error: Unclosed code block in $file"
+                ERRORS=$((ERRORS + 1))
+              fi
+            fi
+          done
+          [ $ERRORS -eq 0 ] && echo "✅ All markdown syntax valid" || exit 1
+
+      - name: Validate References Folder
+        run: |
+          echo "🔍 Validating references structure..."
+          test -d "references/research_papers" && echo "✅ research_papers folder found" || exit 1
+          test -d "references/regulatory_documents" && echo "✅ regulatory_documents folder found" || exit 1
+          test -f "references/README.md" && echo "✅ References README found" || exit 1
+          test -f "references/REFERENCES_INDEX.md" && echo "✅ References index found" || exit 1
+
+      - name: Check File Integrity
+        run: |
+          echo "🔍 Checking file integrity..."
+          CHAPTERS=$(ls -1 CHAPTER_*.md 2>/dev/null | wc -l)
+          echo "📄 Found $CHAPTERS chapters"
+          [ $CHAPTERS -ge 7 ] && echo "✅ All chapters present" || (echo "⚠️  Only $CHAPTERS chapters found"; exit 1)
+
+      - name: Verify PDF Presence
+        run: |
+          echo "🔍 Checking PDF files..."
+          [ -f "Dissertation_Full.pdf" ] && echo "✅ Main PDF found" || echo "⚠️  Main PDF not found"
+          [ -f "Dissertation_Full_Updated.pdf" ] && echo "✅ Updated PDF found" || echo "⚠️  Updated PDF not found"
+
+      - name: Generate Summary
+        run: |
+          echo "📊 Repository Summary:"
+          echo "- Total commits: $(git rev-list --count HEAD)"
+          echo "- Tracked files: $(git ls-files | wc -l)"
+          echo "- Repository size: $(du -sh . | cut -f1)"
+
+      - name: Report Results
+        run: echo "✅ Document validation complete"
