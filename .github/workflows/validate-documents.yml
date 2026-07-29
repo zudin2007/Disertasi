@@ -39,8 +39,7 @@ jobs:
         run: |
           echo "🔍 Validating references structure..."
           test -d "references/research_papers" && echo "✅ research_papers folder found" || exit 1
-          test -d "references/standards" && echo "✅ standards folder found" || exit 1
-          test -d "references/urls" && echo "✅ urls folder found" || exit 1
+          test -d "references/regulatory_documents" && echo "✅ regulatory_documents folder found" || exit 1
           test -f "references/README.md" && echo "✅ References README found" || exit 1
           test -f "references/REFERENCES_INDEX.md" && echo "✅ References index found" || exit 1
 

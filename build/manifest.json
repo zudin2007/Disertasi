@@ -1,0 +1,34 @@
+{
+  "_comment": "Single source of truth for the compiled dissertation. `npm run build` renders these files, in this order, into Dissertation_Full.pdf and Dissertation_Full.docx. Edit this list to add/remove/reorder sections; do NOT hand-edit the generated PDF/DOCX. Paths are relative to the repo root.",
+  "metadata": {
+    "title": "Cryptocurrency Classification Under Islamic Law",
+    "subtitle": "Jurisprudential Analysis, Methodological Divergence, and a Proposed Framework",
+    "author": "Zudin",
+    "date": "2026",
+    "repository": "github.com/zudin2007/Disertasi"
+  },
+  "options": {
+    "pageFormat": "A4",
+    "tocDepth": 2,
+    "generateTitlePage": true,
+    "generateToc": true
+  },
+  "sections": [
+    { "file": "ABSTRACT.md" },
+    { "file": "CHAPTER_1_Introduction.md" },
+    { "file": "CHAPTER_2_Islamic_Legal_Framework.md" },
+    { "file": "CHAPTER_3_Jurisprudential_Positions.md" },
+    { "file": "CHAPTER_4_Regulatory_Landscape.md" },
+    { "file": "CHAPTER_5_Unified_Classification_Framework.md" },
+    { "file": "CHAPTER_6_Regulatory_Harmonization_Recommendations.md" },
+    { "file": "CHAPTER_7_Conclusion_and_Future_Research.md" },
+    { "file": "CHAPTER_8_Empirical_Research_Agenda.md" },
+    { "file": "APPENDIX_B_Interview_Protocol_Blueprint.md" },
+    { "file": "APPENDIX_C_Survey_Instrument_Design.md" },
+    { "file": "APPENDIX_D_Regulatory_Executive_Summaries.md" },
+    { "file": "APPENDIX_E_Literature_Review_Summary.md" },
+    { "file": "APPENDIX_F_Detailed_Measurement_Examples.md" },
+    { "file": "APPENDIX_G_Phase_3_Case_Study_Protocol.md" },
+    { "file": "APPENDIX_A8_Preliminary_Stakeholder_Feedback.md" }
+  ]
+}

@@ -1,4 +1,4 @@
-name: Auto-Generate Dissertation PDF
+name: Build Dissertation (PDF + DOCX)
 
 on:
   push:
@@ -6,72 +6,53 @@ on:
       - main
     paths:
       - 'CHAPTER_*.md'
+      - 'APPENDIX_*.md'
       - 'ABSTRACT.md'
+      - 'build/**'
+      - 'package.json'
+      - 'package-lock.json'
       - '.github/workflows/pdf-generation.yml'
   workflow_dispatch:
 
 jobs:
-  generate-pdf:
+  build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
+          node-version: '20'
+          cache: 'npm'
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Install dependencies (pinned)
+        run: npm ci
+
+      - name: Ensure Chromium is present
+        run: npx puppeteer browsers install chrome
+
+      - name: Build PDF + DOCX
+        run: npm run build
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
         with:
-          python-version: '3.10'
+          name: dissertation
+          path: |
+            Dissertation_Full.pdf
+            Dissertation_Full.docx
+          retention-days: 30
 
-      - name: Install Dependencies
-        run: |
-          pip install reportlab pillow markdown
-
-      - name: Generate PDF
-        run: |
-          python3 << 'PYTHON_EOF'
-          from reportlab.lib.pagesizes import letter
-          from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
-          from reportlab.lib.units import inch
-          from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
-          from reportlab.lib import colors
-          from reportlab.lib.enums import TA_CENTER, TA_JUSTIFY
-          import os
-          from datetime import datetime
-
-          pdf_filename = "Dissertation_Full.pdf"
-          doc = SimpleDocTemplate(pdf_filename, pagesize=letter, rightMargin=0.75*inch, leftMargin=0.75*inch, topMargin=0.75*inch, bottomMargin=0.75*inch)
-
-          styles = getSampleStyleSheet()
-          title_style = ParagraphStyle('Title', parent=styles['Heading1'], fontSize=22, textColor=colors.HexColor('#1a4d7a'), alignment=TA_CENTER, fontName='Helvetica-Bold')
-          normal_style = ParagraphStyle('Normal', parent=styles['Normal'], fontSize=10, alignment=TA_JUSTIFY, spaceAfter=10)
-
-          content = [
-              Spacer(1, 2*inch),
-              Paragraph("Cryptocurrency Classification Framework<br/>Grounded in Islamic Finance and Maqasid Shariah", title_style),
-              Spacer(1, 0.5*inch),
-              Paragraph(f"<b>Auto-Generated:</b> {datetime.now().strftime('%B %d, %Y at %H:%M UTC')}<br/><b>Repository:</b> github.com/zudin2007/Disertasi", normal_style),
-              PageBreak(),
-          ]
-
-          doc.build(content)
-          print(f"✅ PDF generated: {pdf_filename}")
-          PYTHON_EOF
-
-      - name: Commit PDF if Changed
+      - name: Commit rebuilt outputs if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "GitHub Actions"
-          git add Dissertation_Full.pdf || true
-          if ! git diff --quiet && ! git diff --staged --quiet; then
-            git commit -m "ci: auto-generate dissertation PDF [skip ci]"
+          git add Dissertation_Full.pdf Dissertation_Full.docx || true
+          if ! git diff --staged --quiet; then
+            git commit -m "ci: rebuild dissertation PDF + DOCX [skip ci]"
             git push
+          else
+            echo "No changes to compiled outputs."
           fi
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: dissertation-pdf
-          path: Dissertation_Full.pdf
-          retention-days: 30

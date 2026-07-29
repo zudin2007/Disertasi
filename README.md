@@ -201,6 +201,69 @@ research-data/
 
 ---
 
+## Building the Dissertation (PDF & DOCX)
+
+The compiled `Dissertation_Full.pdf` and `Dissertation_Full.docx` are **generated
+artifacts**. Do not hand-edit them — edit the Markdown chapters (prose) or
+`build/manifest.json` (structure/order), then rebuild.
+
+### One command
+
+```bash
+npm install      # once, installs the pinned toolchain (downloads Chromium)
+npm run build    # regenerates BOTH Dissertation_Full.pdf and Dissertation_Full.docx
+```
+
+Partial builds: `npm run build:pdf` or `npm run build:docx`.
+
+If your environment blocks npm install scripts (so Puppeteer's Chromium is not
+fetched automatically), download it explicitly once:
+
+```bash
+npx puppeteer browsers install chrome
+```
+
+### What the build does
+
+1. Reads the ordered file list + metadata from [`build/manifest.json`](build/manifest.json)
+   (the single source of truth for what goes into the document and in what order).
+2. Renders each Markdown file to HTML with `markdown-it`, assigning stable heading
+   IDs (`markdown-it-anchor`) and auto-generating a title page and a Table of
+   Contents (depth 2).
+3. Prints the assembled HTML to PDF via headless Chromium (Puppeteer) using
+   [`build/assets/style.css`](build/assets/style.css), and converts the same HTML
+   to DOCX via `html-to-docx`.
+4. Normalizes embedded timestamps / IDs (PDF via `pdf-lib`, DOCX zip via `fflate`)
+   so the same Markdown input produces **byte-identical** outputs on every run.
+
+### Toolchain and pinned versions
+
+| Component | Version | Role |
+|-----------|---------|------|
+| Node.js | ≥ 18 (built/verified on 24.18.0) | Runtime |
+| markdown-it | 14.1.0 | Markdown → HTML |
+| markdown-it-anchor | 9.2.0 | Stable heading IDs for the TOC |
+| puppeteer | 23.11.1 (bundles Chromium 131.0.6778.204) | HTML → PDF |
+| html-to-docx | 1.8.0 | HTML → DOCX |
+| pdf-lib | 1.17.1 | PDF metadata normalization + page count |
+| fflate | 0.8.2 | DOCX (zip) timestamp normalization |
+
+Exact transitive versions are locked in `package-lock.json`; use `npm ci` for a
+reproducible install.
+
+### Current output (as built)
+
+- **`Dissertation_Full.pdf`** — 243 pages, A4
+- **`Dissertation_Full.docx`** — matching content, Georgia 11pt
+- 16 source sections (Abstract + Chapters 1–8 + Appendices B–G, A8), 157 TOC entries
+
+### Changing what's included
+
+Edit `build/manifest.json` — add, remove, or reorder entries in `sections`, or
+change the title/author/date in `metadata`. No other file needs to change.
+
+---
+
 ## Research Tools
 
 ### Available Scripts
