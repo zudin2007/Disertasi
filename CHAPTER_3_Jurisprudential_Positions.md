@@ -811,6 +811,19 @@ Historical Islamic jurisprudence adapted to new technologies (paper money, banki
 *Legal Basis:*
 Classical Islamic jurisprudence permits complex financial structures for sophisticated participants while protecting vulnerable populations.
 
+**Disagreement Area 4: The Categorical-Prohibition Thesis Itself**
+
+The three preceding disagreements assume that cryptocurrency admits of degrees of compliance. The most fundamental *ikhtilaf*, however, is whether that assumption is itself permissible—whether pure cryptocurrency is *categorically* void (*batil*) rather than merely deficient. Because this dissertation's five-dimensional framework (Chapter 5) presupposes gradation, the strongest form of the categorical objection must be stated here before it is engaged.
+
+*Position 1 (Dar al-Ifta 2017; MUI 2021 on pure crypto; the strict camp, including the 2017 Diyanet ruling in Turkey):*
+Pure cryptocurrency is *haram* as such, on textually proximate grounds rather than inferential *maslaha*. The argument is a syllogism: (i) legitimate *mal* requires intrinsic value, productive backing, or recognised authority (§3.2.3); (ii) pure cryptocurrency has none; (iii) its dominant realised function is speculation—*maisir* under severe *gharar*, falling under the explicit prohibition of Qur'an 5:90 and the authenticated *hadith* against sale of an indeterminate object. On this reading a *compliance gradient is incoherent*: one cannot be partially engaged in a void contract. This position claims the firmest footing in explicit prohibitory texts (*nusus*) and the fewest inferential steps.
+
+*Position 2 (AAOIFI 2023; Taqi Usmani 2024; the graded-assessment camp adopted by this dissertation):*
+The prohibition of speculative *use* is conceded, but the inference from *some* prohibited uses to a *universal* prohibition of the asset class is rejected. *Mal*-status rests on customary, storable benefit—as it did for fiat and *fulus*, which lack intrinsic value yet are valid *thaman*—so premise (i) proves too much. *Gharar* and *maisir* attach to the transaction, not the token (*tahqiq al-manat*), so the operative cause must be verified case by case rather than presumed for the whole class. Decisively, the strict authorities themselves carve out exceptions (blockchain applications, commodity classification, structured stablecoins), which refutes true categoricality and relocates the dispute to *where the line falls*.
+
+*Methodological root:*
+This is a divergence in *usul al-fiqh*, not merely in conclusion: Position 1 reasons from *sadd al-dhara'i* and a presumption of invalidity until a novel instrument is affirmatively validated; Position 2 reasons from *al-asl fi al-muamalat al-ibaha* disciplined by *tahqiq al-manat*. The full steelman-and-rebuttal of the categorical thesis—showing how the framework bounds rather than dismisses it—is developed in §5.5.5.
+
 ---
 
 ## 3.6 Evolution of Jurisprudential Thought
@@ -1207,6 +1220,9 @@ Regulatory convergence is feasible in consensus areas (60-70% of framework dimen
 - Al-Qaradawi, Yusuf. (2013). *The Lawful and the Prohibited in Islam (Halal and Haram in Islam)*. American Trust Publications.
 - Auda, Jasser. (2008). *Maqasid al-Shariah: A Beginner's Guide*. The International Institute of Islamic Thought.
 - Khan, Muhammad Akram. (1992). *Islamic Economics and Finance*. Oxford University Press.
+- Kamali, Mohammad Hashim. (2003). *Principles of Islamic Jurisprudence* (3rd rev. ed.). Cambridge: The Islamic Texts Society. [Usul basis for the *sadd al-dhara'i* vs. *al-asl al-ibaha* divergence discussed in §3.5.3.]
+- Diyanet İşleri Başkanlığı (Presidency of Religious Affairs, Turkey). (2017). *Ruling on the use of cryptocurrencies*. [Strict-camp position that cryptocurrency trading is not compatible with Islam; cited in §3.5.3 Disagreement Area 4.]
+- Al-Kasani, Ala al-Din. (n.d.). *Bada'i al-Sana'i fi Tartib al-Shara'i* [Hanafi functional definition of *mal* and the validity of *fulus*; basis for the rebuttal of the intrinsic-value premise].
 
 ### Empirical Adoption and Islamic Fintech Studies
 
