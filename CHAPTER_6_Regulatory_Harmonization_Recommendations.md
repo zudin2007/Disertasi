@@ -481,6 +481,103 @@ The mechanisms above presuppose good-faith participation. They do not answer the
 - Flexible dimensional framework accommodates new characteristics
 - Annual methodology review ensures continued relevance
 
+## 6.6 Working Example: OJK Regulatory Sandbox as Harmonization Model (2025)
+
+While the IIFRC institutional framework remains aspirational, Indonesia's Financial Services Authority (OJK) has operationalized key harmonization principles through its regulatory sandbox program as of 2025. This section documents OJK's approach as a working model for the harmonization recommendations proposed above.
+
+### 6.6.1 OJK Sandbox Framework as IIFRC Prototype
+
+**Parallel Alignment with Proposed Harmonization Principles:**
+
+| Harmonization Principle | Proposed IIFRC Mechanism | OJK Operational Implementation |
+|---|---|---|
+| Unified assessment methodology | Classification framework with five dimensions | Sandbox model evaluation using explicit criteria (asset backing, stability, utility, governance) |
+| Institutional coordination | IIFRC Shariah Advisory Council | OJK coordination with DSN-MUI and industry associations (AFTECH, AFSI, ABI) |
+| Minimum standards for category recognition | Category A/B/C minimum requirements | Seven sandbox models with explicit compliance pathways |
+| Mutual recognition framework | Qualified Cryptocurrency Registry | PAKD/ITSK/AKD institutional recognition with cross-border implications |
+| Supervisory cooperation | Cooperation framework among regulators | IAKD ecosystem coordination with Bank Indonesia, Islamic banking supervisors, ZISWAF institutions |
+
+**Key Finding:** OJK's sandbox operationalization demonstrates that the harmonization framework proposed in Sections 6.2-6.5 is neither utopian nor implementation-theoretical. Rather, it represents systematic codification of practices already emerging in leading Islamic jurisdictions.
+
+### 6.6.2 Seven Sandbox Models as Dimensional Classification in Practice
+
+OJK's seven regulatory sandbox models (Chapter 4.1.8) exemplify the five-dimensional classification framework (Chapter 5):
+
+**Model Mapping to Framework Dimensions:**
+
+| Sandbox Model | Dimension 1: Asset Backing | Dimension 2: Stability | Dimension 3: Utility | Dimension 4: Governance | Category |
+|---|---|---|---|---|---|
+| Bond Tokenization | 5/5 (RWA) | 4/5 (bond-tied) | 4/5 (institutional) | 3/5 (issuer) | A+ |
+| Property Tokenization | 5/5 (real estate) | 3/5 (market-dependent) | 3/5 (fractional) | 2/5 (developer) | B+ |
+| Digital Identity | 3/5 (identity value) | 4/5 (non-traded) | 4/5 (KYC/CDD) | 4/5 (multi-party) | A- |
+| Crypto Index | 1/5 (speculative) | 1/5 (volatile) | 2/5 (speculation) | 2/5 (provider) | C |
+| Stablecoin | 5/5 (cash reserves) | 5/5 (1:1 peg) | 4/5 (medium of exchange) | 2/5 (issuer) | A |
+| Blockchain Custody | 4/5 (asset services) | 4/5 (stable value) | 4/5 (settlement) | 3/5 (regulated) | A- |
+
+**Practical Implication:** Each sandbox model demonstrates operationally how dimensional scoring produces actionable regulatory categorization. A regulator reviewing a new cryptocurrency asset can apply OJK's proven methodology rather than developing original assessment from first principles.
+
+### 6.6.3 GIDR (Gold Indonesia Republic) Token: Pathway A Implementation in Real Time
+
+GIDR token, approved through OJK's sandbox in August 2025, demonstrates concrete operationalization of Pathway A (Asset-Backing Enhancement, Chapter 5.4):
+
+**GIDR Harmonization Features:**
+
+1. **Transparent Dimensional Assessment**
+   - Public disclosure of each dimension score
+   - Verifiable underlying asset (physical gold in regulated custody)
+   - Reproducible methodology enabling cross-jurisdiction assessment
+
+2. **Shariah Compliance Pathway**
+   - Satisfies Fatwa MUI November 2021 butir 3 exception (asset-backed requirement)
+   - Approved through coordination with DSN-MUI and AFSI (Islamic Fintech Association)
+   - Model replicable in other Islamic jurisdictions with local underlying assets
+
+3. **Mutual Recognition Foundation**
+   - OJK institutional recognition enables institutional investor participation
+   - Clear redemption mechanism (1:1 physical gold) provides cross-jurisdictional confidence
+   - Non-custodial blockchain mechanism facilitates regional transfer without custody concentration
+
+4. **Regulatory Data Generation**
+   - GIDR pilot provides empirical evidence on:
+     * Asset-backed tokenization demand among Islamic investors
+     * Shariah compliance impact on adoption patterns
+     * Cross-border settlement efficiency improvements
+   - This data informs future IIFRC standard-setting
+
+### 6.6.4 Implications for Inter-Islamic Regulatory Coordination
+
+OJK's sandbox operationalization demonstrates three critical insights for IIFRC design:
+
+**Insight 1: Dimensional Framework Reduces Assessment Burden**
+
+Rather than each regulator independently scoring GIDR against Islamic jurisprudence, the dimensional framework enables:
+- OJK scores GIDR on five explicit dimensions
+- Malaysia's BNM can quickly apply same dimensions to its market context
+- Saudi SAMA can determine whether Saudi policy permits Category A digital assets
+- Result: Assessment work done once (OJK), applied across jurisdictions with policy-appropriate implementation
+
+**Insight 2: Institutional Coordination Functions Better as Ecosystem Cooperation Than Formal Authority**
+
+OJK's IAKD ecosystem (three industry associations + DSN-MUI + Bank Indonesia coordination) achieves regulatory harmonization through:
+- Shared assessment methodology (dimensional framework)
+- Industry self-regulation (association membership standards)
+- Institutional incentive alignment (regulatory sandbox rewards compliance)
+- Information sharing (PAKD/ITSK statistics, market data)
+
+Rather than formal IIFRC with binding authority, initial harmonization can operate through voluntary coordination among leading regulators, gradually building toward formal institutional structure as practices converge.
+
+**Insight 3: Sandbox Models Enable Low-Risk Regulatory Experimentation**
+
+GIDR's sandbox testing (August 2025) permits OJK to:
+- Gather data on market demand and operational risks
+- Test Shariah compliance mechanisms before full market launch
+- Refine regulatory requirements based on pilot experience
+- Share learnings with other jurisdictions without systemic risk
+
+This experimentation model should be central to IIFRC approach: rather than freezing standards top-down, establish flexible framework permitting controlled innovation and iterative improvement.
+
+---
+
 ## 6.10 Conclusion
 
 The regulatory harmonization recommendations proposed in this chapter address the fragmentation documented in Chapter 4 while respecting legitimate jurisdictional variation. The Inter-Islamic Finance Regulatory Council (IIFRC) provides institutional framework for coordination, while minimum standards and mutual recognition mechanisms enable practical convergence.
