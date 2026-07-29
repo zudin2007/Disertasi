@@ -485,6 +485,37 @@ MUI fatwa decisions influence:
 - Public understanding of Islamic law
 - Regional Islamic jurisprudence across Southeast Asia
 
+### 3.4.1.1 MUI Technical Authorities on Fintech and Cryptocurrency
+
+**KH. Izzuddin Edi Siswanto - Leading MUI Expert on Fintech and Cryptocurrency**
+
+Among MUI's most recognized specialists on Islamic fintech and cryptocurrency is KH. Izzuddin Edi Siswanto, who serves as member of the Dewan Pengawas Syariah (Shariah Supervisory Board) at Dompet Dhuafa and as Pembina Kripto Syariah (Islamic Cryptocurrency Advisor). In presentations at MUI Jakarta Timur Muzakaroh (2025-2026), Siswanto articulated MUI's sophisticated framework for evaluating financial technology innovation (Inovasi Aset Keuangan Digital - IAKD) through Islamic jurisprudence.
+
+**Siswanto's Framework - 12 Kesyariahan Issues in Fintech:**
+
+Siswanto identifies twelve critical shariah issues that arise in fintech implementation:
+
+1. **Validity of Transactions** - Harus halal dan toyyib (must be lawful and good)
+2. **Akad (Contracts) Used** - Akad yang digunakan dalam transaksi (contracts employed in transactions)
+3. **Shariah Compliance** - Terhindar dari larangan syariah (gharar, riba, maisir) - Free from shariah prohibitions
+4. **Digital Transaction Validity** - Majlis akad transaksi online (digital transaction legitimacy)
+5. **Electronic Signature** - Ijab-qabul melalui media elektronik (audio, visual, content)
+6. **Time of Acceptance** - Saat keabsahan akad (contract acceptance timing)
+7. **Third-Party Designation** - Penguasaan obyek akad (third-party rights in contracts)
+8. **Electronic Signature Rights** - Tanda tangan elektronik (Al Tawaqi' al-Elektroniyah)
+9. **Compensation/Benefit Agreements** - Perjanjian (akad baku/uqud id'an) (standard form contracts)
+10. **Ownership Rights** - Hak khiyar (untuk melanjutkan atau tidak melanjutkan) (option rights)
+11. **Transaction Reversal** - Hak membatalkan transaksi (faskh al-aqdi) (transaction cancellation rights)
+12. **Consumer Protection** - Perlindungan konsumen (himayatul mustahlikin) (consumer protection)
+
+**Application to Cryptocurrency:**
+
+Siswanto's framework treats cryptocurrency within the broader fintech ecosystem, requiring evaluation against all twelve shariah issues. Most critically, pure cryptocurrencies fail assessment on multiple criteria:
+
+- **Issue 1-3**: Cryptocurrency transactions are not halal wa tayyib; they involve significant gharar, maisir, and riba-adjacent structures
+- **Issue 4**: Digital nature does not overcome fundamental shariah issues; blockchain transactions remain speculative
+- **Issues 5-12**: While digital transactions themselves may be valid, the underlying asset (cryptocurrency) lacks shariah legitimacy
+
 ### 3.4.2 MUI Position on Cryptocurrency (2021-2026)
 
 **Original Official Fatwa (September 2021):**

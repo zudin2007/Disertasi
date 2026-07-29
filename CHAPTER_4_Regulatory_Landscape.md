@@ -153,6 +153,79 @@ As of September 2025, OJK and DSN-MUI established a Joint Working Group to devel
 - Expected outcome (Q2-Q3 2026): Unified framework for assessing cryptocurrency Shariah compliance
 - Implication: Potential for conditional Islamic finance institution participation in regulated cryptocurrency activities
 
+**DSN-MUI Framework for Financial Technology Innovation - Fatwa No. 117/DSN-MUI/II/2018:**
+
+Prior to cryptocurrency-specific guidance, MUI developed comprehensive framework for evaluating financial technology-based financing services. Fatwa No. 117/DSN-MUI/II/2018 established **6 Model Skema Layanan Pembiayaan Berbasis Teknologi Informasi** (Six Model Schemes for Information Technology-Based Financing Services) based on Islamic shariah principles.
+
+**The 6 DSN-MUI Approved Fintech Financing Models:**
+
+**Model 1 - Pembiayaan Anjak Piutang (Factoring)**
+- Structure: Lender purchases invoices/receivables from business owners at discount
+- Shariah Basis: Musharaka (profit-sharing) or Murabaha (cost-plus) contracts
+- Key Requirements: Clear akad wakalah bil ujrah (agent agreements), transparent profit/loss distributions
+- Application: Invoice financing, working capital solutions
+- Islamic Compliance: Fully compliant when structured correctly
+
+**Model 2 - Pembiayaan Pengadaan Barang Pesanan (Purchase Order Financing)**
+- Structure: Lender finances goods purchase for third-party buyer
+- Shariah Basis: Jual-beli (sales), musyarakah (partnership), mudharabah (profit-sharing)
+- Key Requirements: Clear purchase contracts, delivery obligations, third-party agreements
+- Application: Supplier financing, government procurement support
+- Islamic Compliance: Compliant with proper contract management
+
+**Model 3 - Pembiayaan Pengadaan Barang untuk Pelaku Usaha Online (Online Seller Financing)**
+- Structure: E-commerce platform financing for online merchants
+- Shariah Basis: Jual-beli through digital marketplace, musyarakah agreements
+- Key Requirements: Platform data-sharing agreements, clear seller obligations
+- Application: Support for online small businesses and traders
+- Islamic Compliance: Compliant with transparent platform governance
+
+**Model 4 - Pembiayaan Pengadaan Barang dengan Payment Gateway (Payment Gateway Merchant Financing)**
+- Structure: Financing for businesses using third-party payment processors
+- Shariah Basis: Kerjasama pembayaran (payment cooperation agreements)
+- Key Requirements: Akad wakalah bil ujrah with payment processor, transparent fee structures
+- Application: Support for retail businesses using e-payment systems
+- Islamic Compliance: Compliant with clear agency and compensation agreements
+
+**Model 5 - Pembiayaan untuk Pegawai (Employee Financing)**
+- Structure: Financing for employees based on salary installments
+- Shariah Basis: Ijarah (service-based leasing), akad jual-beli (sales contracts)
+- Key Requirements: Employer participation through salary management, clear repayment terms
+- Application: Personal financing linked to employment
+- Islamic Compliance: Compliant with auto-debit mechanisms
+
+**Model 6 - Pembiayaan Berbasis Komunitas (Community-Based Financing)**
+- Structure: Financing coordinated through community structures and networks
+- Shariah Basis: Muamalah principles with community oversight
+- Key Requirements: Coordinator designation, structured payment schemes
+- Application: Community financing with coordinated repayment management
+- Islamic Compliance: Compliant with community governance structures
+
+**Application Framework:**
+Each model requires satisfaction of 12 critical shariah compliance issues (as identified by DSN-MUI expert KH. Izzuddin Edi Siswanto):
+1. Validity of transactions (halal wa tayyib)
+2. Appropriate contracts (akad yang sesuai)
+3. Avoidance of shariah prohibitions (gharar, riba, maisir)
+4. Digital transaction validity
+5. Electronic contract acceptance
+6. Proper timing of acceptance
+7. Object ownership clarity
+8. Digital signature legitimacy
+9. Compensation/benefit agreements
+10. Ownership rights protection
+11. Transaction reversal rights
+12. Consumer protection mechanisms
+
+**Significance for Cryptocurrency Evaluation:**
+
+The DSN-MUI 6-model framework provides a template for evaluating whether cryptocurrencies and blockchain-based financial services can achieve Islamic compliance. Cryptocurrencies and fintech solutions must satisfy the same 12-point checklist as traditional fintech services. Most pure cryptocurrencies fail this framework because:
+- They do not constitute valid akads (contracts) in Islamic law
+- They lack defined shariah-compliant economic purposes
+- They involve speculative elements inconsistent with Islamic financing principles
+- They fail consumer protection and transaction reversal requirements
+
+However, properly-structured digital assets—including tokenized financing instruments aligned with the 6-model framework—could potentially achieve compliance through this established DSN-MUI system.
+
 **Historical Fatwa Context:**
 OJK's regulatory framework acknowledged MUI's 2021 Fatwa No. 4/DSN-MUI/IX/2021:
 - Previously treated cryptocurrency as high-risk speculative commodity

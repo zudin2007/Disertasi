@@ -16,6 +16,34 @@ The Maqasid framework consists of five fundamental objectives (al-dharuriyyat al
 
 This chapter systematically evaluates cryptocurrency against each of these five maqasid principles, providing a comprehensive assessment of its shariah compliance status.
 
+### 2.0.1 Islamic Legal Foundations: The Nature of Money in Islamic Jurisprudence
+
+Before evaluating cryptocurrency through the Maqasid Shariah lens, it is essential to examine classical Islamic jurisprudential perspectives on the nature of money and currency. Islamic scholars have historically grappled with defining what constitutes "mal" (wealth/money) and what conditions must be satisfied for an asset to function as a medium of exchange.
+
+**Three Classical Islamic Positions on Money:**
+
+**Position A - Imam Malik's Intrinsic Value Doctrine:**
+Imam Malik defined money as an alat pembayaran (payment instrument) that possesses intrinsic value independent of social convention. According to this perspective, money must derive its standing from kulit hewan terbuat atau aset yang memiliki nilai terdapat dalam dirinya sendiri (inherent utility value). This means that for an asset to qualify as money, it must possess utility beyond its function as a medium of exchange—such as gold's use in jewelry or other applications. Under this framework, an asset must satisfy al-darura (necessity) through tangible utility to qualify as wealth.
+
+**Position B - Imam Ibn Taimiyyah's Convention-Based Approach:**
+Imam Ibn Taimiyyah challenged the intrinsic value requirement, arguing that uang tidak dapat dibatasi (money cannot be restricted) to assets with inherent utility. Rather, he emphasized that money's value derives from 'urf (social convention) and masyarakat kesepakatan (collective social agreement). When people reach consensus that an asset will serve as a medium of exchange, that consensus itself confers monetary status. This position privileges social acceptance over material properties.
+
+**Position C - Hai'ah Kibar al-Ulama's Synthesis:**
+The Hai'ah Kibar al-Ulama (Assembly of Grand Scholars) articulated a middle position, stating that uang adalah alat tukar yang diterima publik dalam 'urf mereka (money is a medium of exchange accepted by the public in their customary practice). This synthesis acknowledges both Ibn Taimiyyah's emphasis on social convention and the need for sufficient public acceptance to confer monetary status.
+
+**Application to Cryptocurrency:**
+
+These classical positions create a framework for evaluating whether cryptocurrency can qualify as money under Islamic law:
+
+- **Intrinsic Value Test (Malik)**: Cryptocurrency fails this test. Bitcoin and other pure cryptocurrencies possess no intrinsic utility independent of their function as a medium of exchange. A Bitcoin cannot be used to make jewelry, provide shelter, or satisfy any need beyond monetary transaction.
+
+- **Social Convention Test (Ibn Taimiyyah)**: Cryptocurrency presents a borderline case. While some communities have adopted cryptocurrency as a medium of exchange, the requisite level of universal acceptance—characteristic of established currencies—remains absent. Cryptocurrency's use is largely speculative and concentrated among tech-savvy populations rather than representing society-wide consensus.
+
+- **Public Acceptance Test (Hai'ah Kibar)**: Cryptocurrency fails widespread public acceptance. Most Islamic societies have not incorporated cryptocurrency into routine commerce. The lack of universal adoption and the dominance of speculative trading over utility-based transactions suggest insufficient social endorsement to confer monetary status.
+
+**Conclusion on Money Status:**
+Under classical Islamic jurisprudential perspectives, pure cryptocurrency does not qualify as valid Islamic money. While some scholars debate borderline cases, the absence of intrinsic utility, limited social acceptance, and speculative dominance all point toward cryptocurrency remaining outside the scope of Islamic-recognized monetary instruments—placing it more appropriately within the category of speculative digital assets.
+
 ---
 
 ## 2.1 Al-Darura (Necessity): Financial Stability and Wealth Preservation
