@@ -687,7 +687,7 @@ Indonesia presents the most complex case in Southeast Asia because of direct ins
 
 **Central tension:** MUI fatwa declares cryptocurrency haram; OJK regulation is permitting Shariah-screened cryptocurrency trading. Both authorities are institutional powers in their respective domains. Users face direct conflicting guidance on the same question.
 
-### 5.2 MUI Fatwa 4/DSN-MUI/IX/2021: The Prohibition
+### 5.2 MUI Keputusan Ijtima` Ulama VII (November 2021): The Prohibition
 
 **Official text (full Indonesian + English translation):**
 

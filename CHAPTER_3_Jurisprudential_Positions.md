@@ -811,6 +811,19 @@ Historical Islamic jurisprudence adapted to new technologies (paper money, banki
 *Legal Basis:*
 Classical Islamic jurisprudence permits complex financial structures for sophisticated participants while protecting vulnerable populations.
 
+**Disagreement Area 4: The Categorical-Prohibition Thesis Itself**
+
+The three preceding disagreements assume that cryptocurrency admits of degrees of compliance. The most fundamental *ikhtilaf*, however, is whether that assumption is itself permissible—whether pure cryptocurrency is *categorically* void (*batil*) rather than merely deficient. Because this dissertation's five-dimensional framework (Chapter 5) presupposes gradation, the strongest form of the categorical objection must be stated here before it is engaged.
+
+*Position 1 (Dar al-Ifta 2017; MUI 2021 on pure crypto; the strict camp, including the 2017 Diyanet ruling in Turkey):*
+Pure cryptocurrency is *haram* as such, on textually proximate grounds rather than inferential *maslaha*. The argument is a syllogism: (i) legitimate *mal* requires intrinsic value, productive backing, or recognised authority (§3.2.3); (ii) pure cryptocurrency has none; (iii) its dominant realised function is speculation—*maisir* under severe *gharar*, falling under the explicit prohibition of Qur'an 5:90 and the authenticated *hadith* against sale of an indeterminate object. On this reading a *compliance gradient is incoherent*: one cannot be partially engaged in a void contract. This position claims the firmest footing in explicit prohibitory texts (*nusus*) and the fewest inferential steps.
+
+*Position 2 (AAOIFI 2023; Taqi Usmani 2024; the graded-assessment camp adopted by this dissertation):*
+The prohibition of speculative *use* is conceded, but the inference from *some* prohibited uses to a *universal* prohibition of the asset class is rejected. *Mal*-status rests on customary, storable benefit—as it did for fiat and *fulus*, which lack intrinsic value yet are valid *thaman*—so premise (i) proves too much. *Gharar* and *maisir* attach to the transaction, not the token (*tahqiq al-manat*), so the operative cause must be verified case by case rather than presumed for the whole class. Decisively, the strict authorities themselves carve out exceptions (blockchain applications, commodity classification, structured stablecoins), which refutes true categoricality and relocates the dispute to *where the line falls*.
+
+*Methodological root:*
+This is a divergence in *usul al-fiqh*, not merely in conclusion: Position 1 reasons from *sadd al-dhara'i* and a presumption of invalidity until a novel instrument is affirmatively validated; Position 2 reasons from *al-asl fi al-muamalat al-ibaha* disciplined by *tahqiq al-manat*. The full steelman-and-rebuttal of the categorical thesis—showing how the framework bounds rather than dismisses it—is developed in §5.5.5.
+
 ---
 
 ## 3.6 Evolution of Jurisprudential Thought
@@ -1036,43 +1049,7 @@ Earlier positions (2017-2019) reflecting purely speculative markets appropriatel
 
 ---
 
-## 3.9 Chapter Conclusion
-
-### Summary of Jurisprudential Landscape
-
-This chapter has documented the positions of four major Islamic authorities on cryptocurrency, revealing:
-
-**Consensus Elements:**
-- Pure cryptocurrency not shariah-compliant ✓
-- Asset-backed alternatives potentially permissible ✓
-- Stablecoins potentially more compliant ✓
-- Blockchain technology itself not prohibited ✓
-
-**Divergence Elements:**
-- Degree of restrictiveness differs
-- Treatment of emerging alternatives varies
-- DeFi and smart contracts differently analyzed
-- Risk tolerance and investor protection emphasis varies
-
-**Overall Assessment:**
-Islamic jurisprudence demonstrates both sufficient consensus to guide practice and sufficient flexibility to accommodate legitimate innovation. Rather than categorical prohibition, emerging approach emphasizes systematic assessment according to Islamic financial principles.
-
-### Evolution and Future Trajectory
-
-Islamic scholarly positions on cryptocurrency demonstrate:
-- Evolution as markets and technology mature
-- Movement from categorical prohibition toward nuanced assessment
-- Recognition of asset-backed and stablecoin alternatives
-- Development of systematic evaluation frameworks
-
-**Future Directions:**
-As cryptocurrency markets continue evolving and Islamic finance increasingly integrates blockchain technology, jurisprudential development will likely:
-- Clarify stablecoin and asset-backed cryptocurrency status
-- Develop sophisticated DeFi and smart contract assessment frameworks
-- Integrate blockchain more fully into Islamic financial innovation
-- Maintain strict standards for speculation while enabling legitimate innovation
-
-## 3.6 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
+## 3.9 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
 
 The preceding analysis establishes that Islamic jurisprudential positions on cryptocurrency demonstrate both areas of convergence and areas of legitimate disagreement. However, identifying *where* disagreement exists is insufficient for practical implementation. Regulators, institutions, and cryptocurrency projects require understanding of *why* disagreement exists—specifically, whether disagreements are:
 
@@ -1086,7 +1063,7 @@ This distinction is critical because each category demands different solutions:
 - **Empirical disagreements** can be resolved through research and evidence; framework can identify testable claims
 - **Methodological disagreements** can be resolved through regulatory and institutional innovation; different frameworks can coexist
 
-### 3.6.1 Disagreement Mapping Matrix
+### 3.9.1 Disagreement Mapping Matrix
 
 | Issue | Stated Positions | Type | Root Cause | Resolvable? | Evidence Needed |
 |-------|-----------------|------|-----------|------------|-----------------|
@@ -1098,7 +1075,7 @@ This distinction is critical because each category demands different solutions:
 | **Speculation vs. investment** | Consensus that pure speculation prohibited (maysir); disagreement on what constitutes "productive" vs. "speculative" use | Primarily empirical (65%) | Scholars agree on principle; disagree on classification of specific cryptocurrency uses as productive or speculative | Yes—market analysis can demonstrate actual use patterns | Usage data: what percentage of transactions constitute productive economic activity vs. speculative trading? |
 | **Cross-border recognition** | OJK (Indonesia): domestic assessment only; Malaysia: regional coordination beneficial; Saudi Arabia: unilateral prohibition | Primarily methodological (70%) | Disagreement on whether regulatory recognition should vary by jurisdiction or converge globally | Partial—institutional coordination mechanism (IIFRC) can bridge methodological differences | Empirical research: do coordination mechanisms reduce regulatory arbitrage costs without sacrificing Islamic compliance? |
 
-### 3.6.2 Implications for Framework Development
+### 3.9.2 Implications for Framework Development
 
 **Empirical Disagreements (75% of total):**
 These disagreements can be addressed through evidence collection and empirical research. The five-dimensional framework enables systematic identification of:
@@ -1118,7 +1095,7 @@ These reflect different frameworks for applying Islamic law to digital assets. T
 - Multi-jurisdiction coordination mechanisms (IIFRC) enabling different approaches to coexist
 - Regulatory frameworks permitting multiple pathways to Islamic compliance
 
-### 3.6.3 Research Agenda Implications
+### 3.9.3 Research Agenda Implications
 
 The disagreement mapping directly informs the empirical research agenda outlined in Chapter 8:
 
@@ -1130,7 +1107,7 @@ The disagreement mapping directly informs the empirical research agenda outlined
 
 The result is a framework for transforming disagreement about cryptocurrency from unresolvable jurisprudential debate to resolvable empirical research questions.
 
-## 3.7 Policy Implications for Regulators
+## 3.10 Policy Implications for Regulators
 
 The jurisprudential analysis demonstrates that implicit consensus exists on core principles (asset-backing importance, stability requirements, governance transparency) while legitimate disagreement persists on specific thresholds and application methods. Regulatory frameworks should leverage consensus areas while accommodating legitimate disagreement.
 
@@ -1179,6 +1156,44 @@ Regulatory convergence is feasible in consensus areas (60-70% of framework dimen
 
 ---
 
+## 3.11 Chapter Conclusion
+
+### Summary of Jurisprudential Landscape
+
+This chapter has documented the positions of four major Islamic authorities on cryptocurrency, revealing:
+
+**Consensus Elements:**
+- Pure cryptocurrency not shariah-compliant ✓
+- Asset-backed alternatives potentially permissible ✓
+- Stablecoins potentially more compliant ✓
+- Blockchain technology itself not prohibited ✓
+
+**Divergence Elements:**
+- Degree of restrictiveness differs
+- Treatment of emerging alternatives varies
+- DeFi and smart contracts differently analyzed
+- Risk tolerance and investor protection emphasis varies
+
+**Overall Assessment:**
+Islamic jurisprudence demonstrates both sufficient consensus to guide practice and sufficient flexibility to accommodate legitimate innovation. Rather than categorical prohibition, emerging approach emphasizes systematic assessment according to Islamic financial principles.
+
+### Evolution and Future Trajectory
+
+Islamic scholarly positions on cryptocurrency demonstrate:
+- Evolution as markets and technology mature
+- Movement from categorical prohibition toward nuanced assessment
+- Recognition of asset-backed and stablecoin alternatives
+- Development of systematic evaluation frameworks
+
+**Future Directions:**
+As cryptocurrency markets continue evolving and Islamic finance increasingly integrates blockchain technology, jurisprudential development will likely:
+- Clarify stablecoin and asset-backed cryptocurrency status
+- Develop sophisticated DeFi and smart contract assessment frameworks
+- Integrate blockchain more fully into Islamic financial innovation
+- Maintain strict standards for speculation while enabling legitimate innovation
+
+---
+
 ## References for Chapter 3
 
 ### AAOIFI Publications
@@ -1207,6 +1222,9 @@ Regulatory convergence is feasible in consensus areas (60-70% of framework dimen
 - Al-Qaradawi, Yusuf. (2013). *The Lawful and the Prohibited in Islam (Halal and Haram in Islam)*. American Trust Publications.
 - Auda, Jasser. (2008). *Maqasid al-Shariah: A Beginner's Guide*. The International Institute of Islamic Thought.
 - Khan, Muhammad Akram. (1992). *Islamic Economics and Finance*. Oxford University Press.
+- Kamali, Mohammad Hashim. (2003). *Principles of Islamic Jurisprudence* (3rd rev. ed.). Cambridge: The Islamic Texts Society. [Usul basis for the *sadd al-dhara'i* vs. *al-asl al-ibaha* divergence discussed in §3.5.3.]
+- Diyanet İşleri Başkanlığı (Presidency of Religious Affairs, Turkey). (2017). *Ruling on the use of cryptocurrencies*. [Strict-camp position that cryptocurrency trading is not compatible with Islam; cited in §3.5.3 Disagreement Area 4.]
+- Al-Kasani, Ala al-Din. (n.d.). *Bada'i al-Sana'i fi Tartib al-Shara'i* [Hanafi functional definition of *mal* and the validity of *fulus*; basis for the rebuttal of the intrinsic-value premise].
 
 ### Empirical Adoption and Islamic Fintech Studies
 
