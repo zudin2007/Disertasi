@@ -1,531 +1,364 @@
 # TABLE OF CONTENTS
 
-## CRYPTOCURRENCY CLASSIFICATION IN ISLAMIC FINANCE: A MAQASID SHARIAH FRAMEWORK AND REGULATORY HARMONIZATION APPROACH
+<!-- GENERATED FILE — do not hand-edit.
+     Produced by `npm run toc` (build/gen-toc.js) from build/manifest.json and the
+     chapter/appendix Markdown. To change this TOC, edit a source heading or reorder
+     build/manifest.json, then rerun `npm run toc`. Page numbers live only in the
+     compiled PDF/DOCX, which carry their own paginated table of contents. -->
+
+**Cryptocurrency Classification Under Islamic Law**  
+*Jurisprudential Analysis, Methodological Divergence, and a Proposed Framework*
 
 ---
 
-## ABSTRACT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [Page 1]
-
----
-
-## CHAPTER 1: INTRODUCTION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [Page 1]
-
-1.1 Research Context and Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [2]
-
-1.2 Three-Fold Problem: Jurisprudential Fragmentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . [3]
-
-1.3 Three-Fold Problem: Regulatory Fragmentation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [4]
-
-1.4 Three-Fold Problem: Methodological Absence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [5]
-
-1.5 Research Objectives and Questions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [6]
-
-1.6 Literature Gaps Addressed . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [8]
-
-1.7 Dissertation Significance and Contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [10]
-
-1.8 Scope and Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [12]
-
-1.9 Dissertation Structure and Outline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [13]
-
-1.10 Key Definitions and Terminology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [15]
-
-1.11 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [17]
-
----
-
-## CHAPTER 2: ISLAMIC LEGAL FRAMEWORK FOR CRYPTOCURRENCY ASSESSMENT . . [Page 18]
-
-2.1 Maqasid Shariah: Foundation for Islamic Jurisprudential Analysis . . . . . . . . . . . . . . . [19]
-
-2.2 Al-Darura (Necessity/Preservation of Life and Wealth) . . . . . . . . . . . . . . . . . . . . . . . . [21]
-   2.2.1 Islamic Jurisprudential Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [21]
-   2.2.2 Application to Cryptocurrency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [22]
-   2.2.3 Assessment Score and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [24]
-
-2.3 Al-Tahaqquq (Certainty/Clarity and Transparency) . . . . . . . . . . . . . . . . . . . . . . . . . . [25]
-   2.3.1 Islamic Jurisprudential Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [25]
-   2.3.2 Application to Cryptocurrency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [26]
-   2.3.3 Assessment Score and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [28]
-
-2.4 Al-Maslaha (Public Interest/Benefit to Community) . . . . . . . . . . . . . . . . . . . . . . . . . [29]
-   2.4.1 Islamic Jurisprudential Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [29]
-   2.4.2 Application to Cryptocurrency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [30]
-   2.4.3 Assessment Score and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [32]
-
-2.5 Al-Adl (Justice/Fairness and Equal Treatment) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [33]
-   2.5.1 Islamic Jurisprudential Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [33]
-   2.5.2 Application to Cryptocurrency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [34]
-   2.5.3 Assessment Score and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [36]
-
-2.6 Al-Karamah (Dignity/Economic Participation and Inclusion) . . . . . . . . . . . . . . . . . . [37]
-   2.6.1 Islamic Jurisprudential Basis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [37]
-   2.6.2 Application to Cryptocurrency . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [38]
-   2.6.3 Assessment Score and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [40]
-
-2.7 Comprehensive Maqasid Assessment and Overall Score . . . . . . . . . . . . . . . . . . . . . . [41]
-
-2.8 Asset-Backed Alternatives and Enhanced Compliance . . . . . . . . . . . . . . . . . . . . . . . . [43]
-
-2.9 Limitations and Methodological Considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [45]
-
-2.10 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [47]
-
----
-
-## CHAPTER 3: JURISPRUDENTIAL POSITIONS AND COMPARATIVE ANALYSIS . . . [Page 48]
-
-3.1 Comparative Jurisprudential Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [49]
-
-3.2 AAOIFI (Accounting and Auditing Organization for Islamic Financial Institutions) . . [50]
-   3.2.1 Institutional Authority and Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [50]
-   3.2.2 Cryptocurrency Position and Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . [51]
-   3.2.3 Pure Cryptocurrencies Score . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [53]
-   3.2.4 Asset-Backed Cryptocurrencies Score . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [54]
-
-3.3 Dar al-Ifta (Egyptian Islamic Authority) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [55]
-   3.3.1 Institutional Authority and Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [55]
-   3.3.2 Cryptocurrency Position and Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . [56]
-   3.3.3 Categorical Prohibition Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [57]
-   3.3.4 Governance and Influence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [59]
-
-3.4 Mufti Muhammad Taqi Usmani . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [60]
-   3.4.1 Institutional Authority and Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [60]
-   3.4.2 Cryptocurrency Position and Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . [61]
-   3.4.3 Nuanced Approach and Evolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [62]
-   3.4.4 Pure vs. Stablecoin vs. Asset-Backed Scoring . . . . . . . . . . . . . . . . . . . . . . . . [64]
-
-3.5 MUI (Majelis Ulama Indonesia) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [65]
-   3.5.1 Institutional Authority and Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [65]
-   3.5.2 Cryptocurrency Position and Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . [66]
-   3.5.3 Prohibition Basis and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [67]
-   3.5.4 Regional Influence and Application . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [68]
-
-3.6 Comparative Analysis: Convergence and Divergence . . . . . . . . . . . . . . . . . . . . . . . . . [69]
-   3.6.1 Consensus Points Among Authorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [69]
-   3.6.2 Points of Divergence and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [71]
-   3.6.3 Temporal Evolution (2017-2024) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [73]
-
-3.7 Synthesis: Toward Implicit Consensus . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [75]
-
-3.8 Implications for Regulatory Policy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [77]
-
-3.9 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [79]
-
----
-
-## CHAPTER 4: REGULATORY LANDSCAPE ACROSS ISLAMIC JURISDICTIONS . . . [Page 80]
-
-4.1 Introduction: Comparative Regulatory Analysis Framework . . . . . . . . . . . . . . . . . . . . [81]
-
-4.2 Indonesia (OJK - Financial Services Authority) . . . . . . . . . . . . . . . . . . . . . . . . . . . . [82]
-   4.2.1 Regulatory Approach and Classification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [82]
-   4.2.2 Commodity Classification Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [83]
-   4.2.3 Consumer Protection and Risk Management . . . . . . . . . . . . . . . . . . . . . . . . . . [85]
-   4.2.4 Licensing and Operational Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . [86]
-   4.2.5 Institutional Participation and Limitations . . . . . . . . . . . . . . . . . . . . . . . . . . [87]
-
-4.3 Malaysia (BNM - Bank Negara Malaysia) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [88]
-   4.3.1 Regulatory Approach and Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [88]
-   4.3.2 Digital Asset Recognition and Classification . . . . . . . . . . . . . . . . . . . . . . . . [89]
-   4.3.3 Innovation Sandbox and Testing Framework . . . . . . . . . . . . . . . . . . . . . . . . . . [91]
-   4.3.4 Shariah-Compliant Digital Asset Support . . . . . . . . . . . . . . . . . . . . . . . . . . . [92]
-   4.3.5 Competitive Positioning and Leadership . . . . . . . . . . . . . . . . . . . . . . . . . . . . [94]
-
-4.4 Saudi Arabia (SAMA - Saudi Central Bank) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [95]
-   4.4.1 Regulatory Approach and Philosophy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [95]
-   4.4.2 Categorical Prohibition and Rationale . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [96]
-   4.4.3 Monetary Policy and Financial Stability Concerns . . . . . . . . . . . . . . . . . . . . . [97]
-   4.4.4 CBDC Alternative and Strategic Direction . . . . . . . . . . . . . . . . . . . . . . . . . . [99]
-   4.4.5 Regional Influence Within GCC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [100]
-
-4.5 United Arab Emirates (VARA - Virtual Assets Regulatory Authority) . . . . . . . . . [101]
-   4.5.1 Regulatory Approach and Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [101]
-   4.5.2 Progressive Licensing Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [102]
-   4.5.3 Islamic Digital Asset Initiative . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [104]
-   4.5.4 Financial Center Competitive Positioning . . . . . . . . . . . . . . . . . . . . . . . . . . [105]
-   4.5.5 Innovation and Institutional Participation . . . . . . . . . . . . . . . . . . . . . . . . . [106]
-
-4.6 Bahrain (CBB - Central Bank of Bahrain) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [107]
-   4.6.1 Regulatory Approach and Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [107]
-   4.6.2 Prudential Regulation and Risk Management . . . . . . . . . . . . . . . . . . . . . . . . [108]
-   4.6.3 Institutional Participation and Oversight . . . . . . . . . . . . . . . . . . . . . . . . . . [110]
-   4.6.4 Financial Stability and Systemic Risk Management . . . . . . . . . . . . . . . . . . . [111]
-
-4.7 Comparative Regulatory Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [112]
-   4.7.1 Policy Objective Differences . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [112]
-   4.7.2 Institutional Capacity and Development Level . . . . . . . . . . . . . . . . . . . . . . [113]
-   4.7.3 Islamic Finance Context and Shariah Considerations . . . . . . . . . . . . . . . . . [114]
-
-4.8 Regulatory Harmonization Gaps and Opportunities . . . . . . . . . . . . . . . . . . . . . . . . . [115]
-
-4.9 Best Practices and Lessons Learned . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [117]
-
-4.10 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [118]
-
----
-
-## CHAPTER 5: UNIFIED CRYPTOCURRENCY CLASSIFICATION FRAMEWORK . . . . [Page 119]
-
-5.1 Framework Architecture and Synthesis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [120]
-
-5.2 Dimensional Analysis: Five Classification Variables . . . . . . . . . . . . . . . . . . . . . . . . . [122]
-
-5.2.1 Asset Backing Dimension (Dimension 1) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [122]
-   - Scoring Scale (0-5)
-   - Islamic Jurisprudential Basis
-   - Regulatory Recognition
-   - Example Scores
-
-5.2.2 Value Stability Dimension (Dimension 2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [125]
-   - Scoring Scale (0-5)
-   - Islamic Jurisprudential Basis
-   - Regulatory Recognition
-   - Example Scores
-
-5.2.3 Productive Utility Dimension (Dimension 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . [128]
-   - Scoring Scale (0-5)
-   - Islamic Jurisprudential Basis
-   - Regulatory Recognition
-   - Example Scores
-
-5.2.4 Governance and Decentralization Dimension (Dimension 4) . . . . . . . . . . . . . . . [131]
-   - Scoring Scale (0-5)
-   - Islamic Jurisprudential Basis
-   - Regulatory Recognition
-   - Example Scores
-
-5.2.5 Regulatory Recognition Dimension (Dimension 5) . . . . . . . . . . . . . . . . . . . . . . [134]
-   - Scoring Scale (0-5)
-   - Islamic Jurisprudential Basis
-   - Regulatory Recognition
-
-5.3 Composite Classification Categories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [137]
-
-5.3.1 Category A: Islamic-Compliant Digital Assets (20-25 points) . . . . . . . . . . . . . [137]
-
-5.3.2 Category B: Conditional-Compliance Digital Assets (15-19 points) . . . . . . . . [139]
-
-5.3.3 Category C: Problematic-Status Cryptocurrencies (10-14 points) . . . . . . . . . [141]
-
-5.3.4 Category D: Speculative/Non-Compliant Cryptocurrencies (5-9 points) . . . . [143]
-
-5.3.5 Category E: Central Bank Digital Currencies - CBDC (15-25 points) . . . . . . . [145]
-
-5.4 Implementation Pathways: From Current State to Islamic Compliance . . . . . . . . . . [147]
-
-5.4.1 Pathway A: Asset-Backing Enhancement (Primary Priority) . . . . . . . . . . . . . . [148]
-
-5.4.2 Pathway B: Stability Enhancement (Secondary Priority) . . . . . . . . . . . . . . . . [150]
-
-5.4.3 Pathway C: Utility Development (Supportive Priority) . . . . . . . . . . . . . . . . . [151]
-
-5.4.4 Pathway D: Governance Decentralization (Supportive Priority) . . . . . . . . . . [152]
-
-5.5 Case Study Analysis: Cryptocurrency Projects Through Classification Framework . [153]
-
-5.5.1 Case 1: Bitcoin - Pure Cryptocurrency Architecture . . . . . . . . . . . . . . . . . . . [153]
-
-5.5.2 Case 2: Ethereum - Smart Contract Platform . . . . . . . . . . . . . . . . . . . . . . . . [156]
-
-5.5.3 Case 3: USD Coin (USDC) - Stablecoin Architecture . . . . . . . . . . . . . . . . . . [158]
-
-5.5.4 Case 4: Islamic Digital Asset Proposal - Hypothetical Design . . . . . . . . . . . [161]
-
-5.6 Regulatory Harmonization Through Classification Framework . . . . . . . . . . . . . . . . [163]
-
-5.6.1 Phase 1: Short-term (2025-2026) - Category Recognition . . . . . . . . . . . . . . [163]
-
-5.6.2 Phase 2: Medium-term (2026-2028) - Framework Harmonization . . . . . . . . . [164]
-
-5.6.3 Phase 3: Long-term (2028-2030) - CBDC Integration . . . . . . . . . . . . . . . . . [165]
-
-5.7 Limitations and Methodological Considerations . . . . . . . . . . . . . . . . . . . . . . . . . . . . [167]
-
-5.7.1 Dimension Independence and Correlation . . . . . . . . . . . . . . . . . . . . . . . . . . . [167]
-
-5.7.2 Temporal Sensitivity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [168]
-
-5.7.3 Dimension Weighting . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [169]
-
-5.7.4 Regulatory Recognition Dimension Circularity . . . . . . . . . . . . . . . . . . . . . . . [170]
-
-5.8 Framework Application Workflow . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [171]
-
-5.8.1 For Islamic Financial Institutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [171]
-
-5.8.2 For Cryptocurrency Projects Seeking Islamic Compliance . . . . . . . . . . . . . . . [172]
-
-5.8.3 For Regulators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [173]
-
-5.9 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [174]
-
----
-
-## CHAPTER 6: REGULATORY HARMONIZATION RECOMMENDATIONS . . . . . . . [Page 175]
-
-6.1 The Harmonization Problem and Opportunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [176]
-
-6.2 Institutional Framework for Islamic Cryptocurrency Regulation . . . . . . . . . . . . . . . . [177]
-
-6.2.1 Establishment of Inter-Islamic Finance Regulatory Council (IIFRC) . . . . . . . [177]
-   - Proposed Structure
-   - Governance
-   - Core Functions
-
-6.2.2 Shariah Advisory Council on Digital Assets . . . . . . . . . . . . . . . . . . . . . . . . [182]
-   - Proposed Structure
-   - Core Functions
-
-6.3 Minimum Standards for Category Recognition . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [185]
-
-6.3.1 Category A: Islamic-Compliant Digital Assets - Minimum Standards . . . . . . [185]
-
-6.3.2 Category B: Conditional-Compliance Digital Assets - Minimum Standards . . [187]
-
-6.3.3 Categories C and D: Restricted/Prohibited - Unified Standard . . . . . . . . . . [189]
-
-6.4 Jurisdictional Differentiation Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [191]
-
-6.4.1 Category A Implementation Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [191]
-   - Model 1: Full Integration
-   - Model 2: Conditional Acceptance
-   - Model 3: Conservative Approach
-
-6.4.2 Category B Implementation Models . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [195]
-   - Model 1: Innovation Sandbox
-   - Model 2: Consumer Protection Model
-   - Model 3: Institutional-Only Model
-
-6.5 Mutual Recognition and Regulatory Cooperation Mechanisms . . . . . . . . . . . . . . . . . [198]
-
-6.5.1 Qualified Cryptocurrency Registry . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [198]
-
-6.5.2 Mutual Recognition Agreement (MRA) Framework . . . . . . . . . . . . . . . . . . . [200]
-
-6.5.3 Supervisory Cooperation Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [203]
-
-6.6 Implementation Roadmap and Timeline . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [205]
-
-6.6.1 Phase 1: Foundation (2025-2026) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [205]
-
-6.6.2 Phase 2: Operationalization (2026-2027) . . . . . . . . . . . . . . . . . . . . . . . . . . [207]
-
-6.6.3 Phase 3: Integration (2028-2030) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [208]
-
-6.7 Addressing Harmonization Challenges . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [210]
-
-6.7.1 Sovereignty Preservation Concerns . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [210]
-
-6.7.2 Conflicting Social Priorities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [211]
-
-6.7.3 Regulatory Capture Risks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [212]
-
-6.7.4 Capacity Constraints in Lower-Capacity Jurisdictions . . . . . . . . . . . . . . . . [213]
-
-6.8 Expected Benefits and Impacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [214]
-
-6.8.1 Benefits for Regulatory Bodies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [214]
-
-6.8.2 Benefits for Cryptocurrency Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [215]
-
-6.8.3 Benefits for Islamic Financial Institutions . . . . . . . . . . . . . . . . . . . . . . . . [216]
-
-6.8.4 Benefits for Islamic Finance Ecosystem . . . . . . . . . . . . . . . . . . . . . . . . . . . [217]
-
-6.9 Potential Risks and Mitigation Strategies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [218]
-
-6.9.1 Regulatory Fragmentation Persistence . . . . . . . . . . . . . . . . . . . . . . . . . . . . [218]
-
-6.9.2 Cryptocurrency Market Volatility Disruptions . . . . . . . . . . . . . . . . . . . . . . [219]
-
-6.9.3 Emerging Technology Disruption . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [220]
-
-6.10 Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [221]
-
----
-
-## CHAPTER 7: CONCLUSION AND FUTURE RESEARCH . . . . . . . . . . . . . . . . . . [Page 222]
-
-7.1 Synthesis of Dissertation Findings . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [223]
-
-7.1.1 Islamic Legal Framework Resolution (Chapter 2) . . . . . . . . . . . . . . . . . . . . . [223]
-
-7.1.2 Jurisprudential Convergence (Chapter 3) . . . . . . . . . . . . . . . . . . . . . . . . . . . [224]
-
-7.1.3 Regulatory Landscape Mapping (Chapter 4) . . . . . . . . . . . . . . . . . . . . . . . . . [225]
-
-7.1.4 Unified Classification Framework (Chapter 5) . . . . . . . . . . . . . . . . . . . . . . . [226]
-
-7.1.5 Regulatory Harmonization Mechanism (Chapter 6) . . . . . . . . . . . . . . . . . . . . [227]
-
-7.2 Methodological Contributions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [228]
-
-7.2.1 Maqasid Shariah as Analytical Framework . . . . . . . . . . . . . . . . . . . . . . . . . [228]
-
-7.2.2 Comparative Jurisprudential Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [229]
-
-7.2.3 Regulatory Comparative Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [230]
-
-7.3 Contributions to Islamic Finance Scholarship . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [231]
-
-7.3.1 Principled Assessment Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [231]
-
-7.3.2 Jurisprudential Innovation Support . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [232]
-
-7.3.3 Regulatory Coordination Opportunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [233]
-
-7.4 Policy Implementation Pathways . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [234]
-
-7.4.1 For Central Banks and Regulators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [234]
-
-7.4.2 For Islamic Financial Institutions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [236]
-
-7.4.3 For Cryptocurrency Projects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [237]
-
-7.4.4 For Islamic Finance Scholars . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [238]
-
-7.5 Future Research Directions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [239]
-
-7.5.1 Emerging Digital Asset Technologies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [239]
-
-7.5.2 Maqasid Shariah Application Refinement . . . . . . . . . . . . . . . . . . . . . . . . . . [240]
-
-7.5.3 Empirical Validation Studies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [241]
-
-7.5.4 Comparative Religious Finance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [242]
-
-7.5.5 Technical Standards Development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [243]
-
-7.6 Broader Implications for Financial Regulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [244]
-
-7.6.1 Religious Considerations in Finance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [244]
-
-7.6.2 Stakeholder Coordination . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [245]
-
-7.6.3 Technology-Neutral Regulation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [246]
-
-7.7 Final Reflections: Cryptocurrency and Islamic Law . . . . . . . . . . . . . . . . . . . . . . . . . [247]
-
-7.7.1 Islamic Law as Innovation Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [247]
-
-7.7.2 Convergence Between Islamic Jurisprudence and Regulatory Best Practice . . [248]
-
-7.7.3 Role of Cryptocurrency in Islamic Finance Future . . . . . . . . . . . . . . . . . . . [249]
-
-7.7.4 Regulatory Leadership Opportunity . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [250]
-
-7.8 Concluding Remarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [251]
-
----
-
-## APPENDIX A: RESEARCH METHODOLOGY AND DATA SOURCES . . . . . . . . . . [Page 253]
-
-A.1 Research Design and Approach . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [253]
-
-A.2 Data Collection Methodology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [254]
-
-A.3 Jurisprudential Sources and Islamic Authority Documents . . . . . . . . . . . . . . . . . . . . [255]
-
-A.4 Regulatory Documents and Policy Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [256]
-
-A.5 Limitations and Caveats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [257]
-
----
-
-## APPENDIX B: DETAILED CRYPTOCURRENCY SCORING MATRICES . . . . . . . . [Page 258]
-
-B.1 Maqasid Shariah Assessment Matrix (Chapter 2) . . . . . . . . . . . . . . . . . . . . . . . . . . [258]
-
-B.2 Five-Dimensional Classification Scoring Template . . . . . . . . . . . . . . . . . . . . . . . . . . [259]
-
-B.3 Case Study Cryptocurrency Scores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [260]
-   - Bitcoin Dimensional Scores
-   - Ethereum Dimensional Scores
-   - USDC Dimensional Scores
-   - Islamic Digital Asset Hypothetical Scores
-
-B.4 Composite Score Calculation Examples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [261]
-
----
-
-## APPENDIX C: REGULATORY FRAMEWORK COMPARISON TABLES . . . . . . . . . [Page 262]
-
-C.1 Jurisdictional Regulatory Approaches Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . [262]
-
-C.2 Policy Objective Matrix Across Five Jurisdictions . . . . . . . . . . . . . . . . . . . . . . . . . [263]
-
-C.3 Implementation Requirements by Regulatory Model . . . . . . . . . . . . . . . . . . . . . . . . . [264]
-
-C.4 Mutual Recognition Matrix . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [265]
-
----
-
-## APPENDIX D: IIFRC INSTITUTIONAL DESIGN DOCUMENTS . . . . . . . . . . . . . [Page 266]
-
-D.1 IIFRC Governance Charter (Draft) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [266]
-
-D.2 Shariah Advisory Council Terms of Reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . [267]
-
-D.3 Mutual Recognition Agreement Template . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [268]
-
-D.4 IIFRC Implementation Timeline (Detailed) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [269]
-
----
-
-## APPENDIX E: GLOSSARY OF TERMS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [Page 270]
-
-Islamic Legal Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [270]
-- Al-Darura (Necessity)
-- Al-Tahaqquq (Certainty)
-- Al-Maslaha (Public Interest)
-- Al-Adl (Justice)
-- Al-Karamah (Dignity)
-- Gharar (Excessive Uncertainty)
-- Maysir (Gambling/Speculation)
-- Riba (Usury/Interest)
-- Shariah (Islamic Law)
-- Mufti (Islamic Law Scholar)
-- Fatwa (Islamic Legal Opinion)
-
-Cryptocurrency and Digital Asset Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [272]
-- Blockchain
-- Cryptocurrency
-- Stablecoin
-- CBDC (Central Bank Digital Currency)
-- DeFi (Decentralized Finance)
-- Smart Contract
-- Tokenization
-- Asset-Backed Cryptocurrency
-
-Regulatory and Institutional Terms . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [273]
-- AAOIFI
-- IFSB
-- BNM
-- OJK
-- SAMA
-- VARA
-- CBB
-- MUI
-
----
-
-## APPENDIX F: REFERENCE BIBLIOGRAPHY . . . . . . . . . . . . . . . . . . . . . . . . . . . . [Page 275]
-
-Islamic Jurisprudential Sources . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [275]
-
-Academic Literature on Islamic Finance . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [276]
-
-Cryptocurrency and Blockchain Literature . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [277]
-
-Regulatory Documents and Policy Papers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [278]
-
-International Standards and Best Practices . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [280]
-
----
-
-**Total Word Count: ~32,900 words**  
-**Total Pages: ~280 pages (estimated)**  
-**Chapters: 7**  
-**Appendices: 6**
-
+## ABSTRACT
+
+
+## Chapter 1: Introduction and Research Problem
+
+- 1.1 Background and Context
+  - 1.1.1 The Emergence of Cryptocurrency
+  - 1.1.2 Cryptocurrency in Muslim-Majority and Islamic Finance Contexts
+  - 1.1.3 The Classification Challenge
+- 1.2 Statement of the Research Problem
+  - 1.2.1 The Core Problem
+  - 1.2.2 Challenge 1: Jurisprudential Fragmentation
+  - 1.2.3 Challenge 2: Regulatory Fragmentation and Lack of Harmonization
+  - 1.2.4 Challenge 3: Lack of Principled Classification Framework
+- 1.3 Research Questions and Objectives
+  - 1.3.1 Primary Research Question
+  - 1.3.2 Secondary Research Questions
+  - 1.3.3 Research Objectives
+- 1.4 Literature Review and Research Gap
+  - 1.4.1 Existing Scholarship on Islamic Finance and Cryptocurrency
+  - 1.4.2 Identified Research Gaps
+  - 1.4.3 How This Dissertation Addresses Research Gaps
+- 1.5 Dissertation Significance and Contributions
+  - 1.5.1 Scholarly Contributions
+  - 1.5.2 Practical and Policy Contributions
+  - 1.5.3 Significance for Islamic Finance
+- 1.6 Dissertation Structure and Methodology
+  - 1.6.1 Dissertation Structure
+  - 1.6.2 Research Methodology
+  - 1.6.3 Data Sources
+- 1.7 Scope and Limitations
+  - 1.7.1 Scope Definition
+  - 1.7.2 Limitations
+- 1.8 Significance of Timing
+  - 1.8.1 Why Now?
+- 1.9 Organization and Reading Guide
+- 1.10 Key Terms and Definitions
+- 1.11 Chapter Conclusion
+- References for Chapter 1
+
+## Chapter 2: Islamic Legal Framework - Maqasid Shariah Analysis
+
+- Introduction
+- 2.1 Al-Darura (Necessity): Financial Stability and Wealth Preservation
+  - 2.1.1 Principle Definition
+  - 2.1.2 Islamic Financial Principles
+  - 2.1.3 Cryptocurrency Evaluation Against Al-Darura
+  - 2.1.4 Assessment Score: 1/5
+- 2.2 Al-Tahaqquq (Certainty): Transparency and Clear Valuation
+  - 2.2.1 Principle Definition
+  - 2.2.2 Islamic Requirements for Certainty
+  - 2.2.3 Cryptocurrency Evaluation Against Al-Tahaqquq
+  - 2.2.4 Legal Certainty Issues
+  - 2.2.5 Assessment Score: 3/5
+- 2.3 Al-Maslaha (Public Interest): Community Benefit and Economic Utility
+  - 2.3.1 Principle Definition
+  - 2.3.2 Islamic Finance Applications
+  - 2.3.3 Cryptocurrency Evaluation Against Al-Maslaha
+  - 2.3.4 Negative Externalities
+  - 2.3.5 Assessment Score: 2/5
+- 2.4 Al-Adl (Justice): Fairness and Equitable Treatment
+  - 2.4.1 Principle Definition
+  - 2.4.2 Islamic Justice Requirements
+  - 2.4.3 Cryptocurrency Evaluation Against Al-Adl
+  - 2.4.4 Contrast with Islamic Financial Principles
+  - 2.4.5 Assessment Score: 2/5
+- 2.5 Al-Karamah (Dignity): Economic Participation and Inclusion
+  - 2.5.1 Principle Definition
+  - 2.5.2 Islamic Dignity Requirements
+  - 2.5.3 Cryptocurrency Evaluation Against Al-Karamah
+  - 2.5.4 Assessment Score: 4/5
+- 2.6 Comprehensive Maqasid Assessment: Synthesis and Conclusions
+  - 2.6.1 Summary Evaluation
+  - 2.6.2 Critical Deficiencies
+  - 2.6.3 Mitigating Factors
+  - 2.6.4 Asset-Backed Cryptocurrencies: Higher Compliance
+  - 2.6.5 Jurisprudential Implications
+- 2.7 Counterarguments: The Case for Conditional Permissibility
+  - 2.7.1 The Permissibility Thesis (Steelman)
+  - 2.7.2 Response: Why the Conclusion Is Conditional, Not Categorical
+- 2.8 Chapter Conclusion
+- 2.9 Policy Implications for Regulators
+- References for Chapter 2
+
+## Chapter 3: Jurisprudential Positions and Islamic Authority Perspectives
+
+- Introduction
+- 3.1 AAOIFI (Accounting & Auditing Organization for Islamic Financial Institutions)
+  - 3.1.1 Institutional Background
+  - 3.1.2 AAOIFI Position on Cryptocurrency (2023)
+  - 3.1.3 AAOIFI's Jurisprudential Reasoning
+  - 3.1.4 AAOIFI's Nuanced Assessment
+  - 3.1.5 Implementation Guidance from AAOIFI
+- 3.2 Dar al-Ifta al-Misriyyah (Egypt's Grand Mufti Office)
+  - 3.2.1 Institutional Background
+  - 3.2.2 Dar al-Ifta Position on Cryptocurrency (2017)
+  - 3.2.3 Dar al-Ifta's Jurisprudential Reasoning
+  - 3.2.4 Dar al-Ifta's Narrow Exception
+  - 3.2.5 Implications of Dar al-Ifta Position
+- 3.3 Mufti Muhammad Taqi Usmani
+  - 3.3.1 Biographical Background
+  - 3.3.2 Taqi Usmani's Position on Cryptocurrency (2024)
+  - 3.3.3 Taqi Usmani's Detailed Framework
+  - 3.3.4 Taqi Usmani's Jurisprudential Methodology
+  - 3.3.5 Evolution of Taqi Usmani's Position
+- 3.4 Majelis Ulama Indonesia (MUI) - Indonesian Islamic Scholars Council
+  - 3.4.1 Institutional Background
+  - 3.4.2 MUI Position on Cryptocurrency (2021-2026)
+  - 3.4.3 MUI's Jurisprudential Reasoning
+  - 3.4.4 MUI's Distinction: Commodity Classification
+  - 3.4.5 MUI's Risk Assessment
+- 3.5 Synthesis: Points of Consensus and Divergence
+  - 3.5.1 Major Points of Consensus
+  - 3.5.2 Points of Divergence
+  - 3.5.3 Scholarly Disagreement: Areas of Legitimate Dispute
+- 3.6 Evolution of Jurisprudential Thought
+  - 3.6.1 Timeline of Islamic Positions (2017-2026)
+  - 3.6.2 Factors Driving Evolution (2017-2026)
+  - 3.6.3 Direction of Jurisprudential Development (2017-2026)
+- 3.7 Comparative Jurisprudential Framework
+  - 3.7.1 Position Comparison Table
+  - 3.7.2 Authority Profiles
+- 3.8 Implications for Understanding Cryptocurrency Classification
+  - 3.8.1 Key Implications
+- 3.9 Chapter Conclusion
+- 3.6 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
+  - 3.6.1 Disagreement Mapping Matrix
+  - 3.6.2 Implications for Framework Development
+  - 3.6.3 Research Agenda Implications
+- 3.7 Policy Implications for Regulators
+- References for Chapter 3
+
+## Chapter 4: Comparative Regulatory Analysis Across Islamic Jurisdictions
+
+- Introduction
+- 4.1 Indonesia: OJK Commodity-Focused Approach
+  - 4.1.1 Indonesian Financial Context
+  - 4.1.2 Regulatory Framework: POJK No. 27/2024 (amended POJK No. 23/2025)
+  - 4.1.3 Key Regulatory Provisions
+  - 4.1.4 OJK's Jurisprudential Coordination
+  - 4.1.5 Assessment: Strengths and Weaknesses
+  - 4.1.6 Compliance Burden and Market Impact
+- 4.2 Malaysia: BNM Recognition with Regulatory Framework
+  - 4.2.1 Malaysian Financial Context
+  - 4.2.2 Regulatory Framework: BNM Digital Assets Guidelines (2024)
+  - 4.2.3 Key Regulatory Provisions
+  - 4.2.4 Regulatory Sandbox and Innovation
+  - 4.2.5 Assessment: Strengths and Weaknesses
+  - 4.2.6 Market Impact and Development
+- 4.3 Saudi Arabia: SAMA Restrictive Regulatory Approach
+  - 4.3.1 Saudi Arabian Financial Context
+  - 4.3.2 Regulatory Framework: SAMA Digital Assets Policy (2023)
+  - 4.3.3 SAMA's Explicit Positions
+  - 4.3.4 Rationale for Restrictive Approach
+  - 4.3.5 CBDC Alternative Approach
+  - 4.3.6 Assessment: Strengths and Weaknesses
+  - 4.3.7 Regional Influence and Implications
+- 4.4 UAE: VARA Progressive Innovation-Friendly Framework
+  - 4.4.1 UAE Financial and Political Context
+  - 4.4.2 Regulatory Framework: VARA Virtual Assets Rulebook (2023)
+  - 4.4.3 Key Regulatory Provisions
+  - 4.4.4 Innovation and Regulatory Sandbox
+  - 4.4.5 Distinctive Features: Islamic Digital Asset Support
+  - 4.4.6 Assessment: Strengths and Weaknesses
+  - 4.4.7 Market Impact and Regional Leadership
+- 4.5 Bahrain: CBB Prudential Regulation Framework
+  - 4.5.1 Bahrain Financial Context
+  - 4.5.2 Regulatory Framework: CBB Digital Assets Rulebook (2024)
+  - 4.5.3 Key Regulatory Provisions
+  - 4.5.4 Assessment: Strengths and Weaknesses
+- 4.6 Comparative Regulatory Analysis
+  - 4.6.1 Regulatory Approaches Comparison
+  - 4.6.2 Regulatory Innovation-Restriction Spectrum
+  - 4.6.3 Sharia Compliance Integration
+  - 4.6.4 Consumer Protection Framework
+  - 4.6.5 Market Development Outcomes
+- 4.7 Harmonization Gaps and Challenges
+  - 4.7.1 Regulatory Fragmentation
+  - 4.7.2 Specific Coordination Challenges
+  - 4.7.3 Identified Harmonization Gaps
+- 4.8 Best Practices and Regulatory Learning
+  - 4.8.1 Regulatory Best Practices
+  - 4.8.2 Regulatory Integration Recommendations
+- 4.9 Chapter Conclusion
+- 4.10 Policy Implications for Regulators
+- References for Chapter 4
+
+## CHAPTER 5: UNIFIED CRYPTOCURRENCY CLASSIFICATION FRAMEWORK
+
+- 5.1 Framework Architecture and Synthesis
+- 5.2 Dimensional Analysis: Five Classification Variables
+  - 5.2.1 Asset Backing Dimension (Dimension 1)
+  - 5.2.2 Value Stability Dimension (Dimension 2)
+  - 5.2.3 Productive Utility Dimension (Dimension 3)
+  - 5.2.4 Governance and Decentralization Dimension (Dimension 4)
+  - 5.2.5 Regulatory Recognition Dimension (Dimension 5)
+- 5.3 Composite Classification Categories
+- 5.4 Implementation Pathways: From Current State to Islamic Compliance
+- 5.5 Case Study Analysis: Cryptocurrency Projects Through Classification Framework
+  - 5.5.5 Confronting the Categorical Objection: A Steelman of Blanket Prohibition and Its Rebuttal
+- 5.6 Regulatory Harmonization Through Classification Framework
+- 5.7 Limitations and Methodological Considerations
+  - 5.7.1 Dimension Independence and Correlation
+  - 5.7.2 Temporal Sensitivity
+  - 5.7.3 Dimension Weighting
+  - 5.7.4 Regulatory Recognition Dimension Circularity
+- 5.8 Framework Application Workflow
+- 5.9 Conclusion
+
+## CHAPTER 6: REGULATORY HARMONIZATION RECOMMENDATIONS
+
+- 6.1 The Harmonization Problem and Opportunity
+- 6.2 Institutional Framework for Islamic Cryptocurrency Regulation
+  - 6.2.1 Establishment of Inter-Islamic Finance Regulatory Council (IIFRC)
+  - 6.2.2 Shariah Advisory Council on Digital Assets
+- 6.3 Minimum Standards for Category Recognition
+  - 6.3.1 Category A: Islamic-Compliant Digital Assets - Minimum Standards
+  - 6.3.2 Category B: Conditional-Compliance Digital Assets - Minimum Standards
+  - 6.3.3 Categories C and D: Restricted/Prohibited - Unified Standard
+- 6.4 Jurisdictional Differentiation Framework
+  - 6.4.1 Category A Implementation Models
+  - 6.4.2 Category B Implementation Models
+- 6.5 Mutual Recognition and Regulatory Cooperation Mechanisms
+  - 6.5.1 Qualified Cryptocurrency Registry
+  - 6.5.2 Mutual Recognition Agreement (MRA) Framework
+  - 6.5.3 Supervisory Cooperation Framework
+  - 6.5.4 Non-Compliance and the Graduated Enforcement Ladder
+- 6.6 Implementation Roadmap and Timeline
+- 6.7 Addressing Harmonization Challenges
+  - 6.7.1 Sovereignty Preservation Concerns
+  - 6.7.2 Conflicting Social Priorities
+  - 6.7.3 Regulatory Capture Risks
+  - 6.7.4 Capacity Constraints in Lower-Capacity Jurisdictions
+- 6.8 Expected Benefits and Impacts
+  - 6.8.1 Benefits for Regulatory Bodies
+  - 6.8.2 Benefits for Cryptocurrency Projects
+  - 6.8.3 Benefits for Islamic Financial Institutions
+  - 6.8.4 Benefits for Islamic Finance Ecosystem
+- 6.9 Potential Risks and Mitigation Strategies
+  - 6.9.1 Regulatory Fragmentation Persistence
+  - 6.9.2 Cryptocurrency Market Volatility Disruptions
+  - 6.9.3 Emerging Technology Disruption
+- 6.10 Conclusion
+
+## CHAPTER 7: CONCLUSION AND FUTURE RESEARCH
+
+- 7.1 Synthesis of Dissertation Findings
+  - 7.1.1 Islamic Legal Framework Resolution (Chapter 2)
+  - 7.1.2 Jurisprudential Convergence (Chapter 3)
+  - 7.1.3 Regulatory Landscape Mapping (Chapter 4)
+  - 7.1.4 Unified Classification Framework (Chapter 5)
+  - 7.1.5 Regulatory Harmonization Mechanism (Chapter 6)
+- 7.2 Methodological Contributions
+  - 7.2.1 Maqasid Shariah as Analytical Framework
+  - 7.2.2 Comparative Jurisprudential Analysis
+  - 7.2.3 Regulatory Comparative Analysis
+- 7.3 Contributions to Islamic Finance Scholarship
+  - 7.3.1 Principled Assessment Framework
+  - 7.3.2 Jurisprudential Innovation Support
+  - 7.3.3 Regulatory Coordination Opportunity
+- 7.4 Policy Implementation Pathways
+  - 7.4.1 For Central Banks and Regulators
+  - 7.4.2 For Islamic Financial Institutions
+  - 7.4.3 For Cryptocurrency Projects
+  - 7.4.4 For Islamic Finance Scholars
+- 7.5 Future Research Directions
+  - 7.5.1 Emerging Digital Asset Technologies
+  - 7.5.2 Maqasid Shariah Application Refinement
+  - 7.5.3 Empirical Validation Studies
+  - 7.5.4 Comparative Religious Finance
+  - 7.5.5 Technical Standards Development
+- 7.6 Broader Implications for Financial Regulation
+  - 7.6.1 Religious Considerations in Finance
+  - 7.6.2 Stakeholder Coordination
+  - 7.6.3 Technology-Neutral Regulation
+- 7.7 Final Reflections: Cryptocurrency and Islamic Law
+  - 7.7.1 Islamic Law as Innovation Framework
+  - 7.7.2 Convergence Between Islamic Jurisprudence and Regulatory Best Practice
+  - 7.7.3 Role of Cryptocurrency in Islamic Finance Future
+  - 7.7.4 Regulatory Leadership Opportunity
+- 7.8 Concluding Remarks
+
+## CHAPTER 8: EMPIRICAL RESEARCH AGENDA & IMPLEMENTATION ROADMAP
+
+- 8.1 Bridging Theory to Evidence
+- 8.2 Phase 1: Jurisprudential Validation Study (6-9 months)
+- 8.3 Phase 2: Market Participant Perception Study (8-12 months)
+- 8.4 Phase 3: Regulatory Implementation Case Studies (9-12 months)
+- 8.5 Validation Framework & Measurement Specifications
+- 8.6 Implications for Dissertation Enhancement & Future Research
+- 8.7 Conclusion
+
+## APPENDIX B: INTERVIEW PROTOCOL BLUEPRINT FOR PHASE 1 JURISPRUDENTIAL RESEARCH
+
+- Interview Guide and Detailed Protocol
+- Interview Logistics and Administration
+- Data Analysis Framework
+
+## APPENDIX C: SURVEY INSTRUMENT BLUEPRINT FOR PHASE 2 MARKET RESEARCH
+
+- Survey Structure and Questionnaire
+- Survey Questionnaire: Complete Instrument
+- Qualitative Interview Subsample (30-40 interviews)
+- Data Analysis Framework
+
+## APPENDIX D: REGULATORY EXECUTIVE SUMMARIES FOR KEY STAKEHOLDERS
+
+- EXECUTIVE SUMMARY 1: FOR OJK (OTORITAS JASA KEUANGAN) - INDONESIA
+- EXECUTIVE SUMMARY 2: FOR BNM (BANK NEGARA MALAYSIA) - MALAYSIA
+- EXECUTIVE SUMMARY 3: FOR AAOIFI (ACCOUNTING AND AUDITING ORGANIZATION FOR ISLAMIC FINANCIAL INSTITUTIONS)
+
+## APPENDIX E: LITERATURE REVIEW SUMMARY
+
+- E.1 Cryptocurrency Regulation Literature
+- E.2 Islamic Finance Literature
+- E.3 Maqasid Shariah Literature
+- E.4 Regulatory Harmonization Literature
+- E.5 Key Literature Gaps Addressed by Dissertation
+- E.6 Methodological Positioning
+- E.7 Key Academic Sources
+
+## APPENDIX F: DETAILED MEASUREMENT EXAMPLES
+
+- F.1 Bitcoin: Pure Cryptocurrency Assessment
+- F.2 USDC: Institutional Stablecoin Assessment
+- F.3 Hypothetical Islamic Stablecoin Assessment
+- F.4 Framework Application Principles
+
+## APPENDIX G: PHASE 3 CASE STUDY PROTOCOL FOR REGULATORY IMPLEMENTATION RESEARCH
+
+- G.1 Case Study Research Design
+- G.2 Case Study Site Protocols
+- G.3 Data Analysis Framework
+- G.4 Data Collection Timeline
+- G.5 Qualitative Data Analysis Procedures
+- G.6 Validity & Trustworthiness Procedures
+- G.7 Research Ethics Procedures
+- G.8 Expected Research Outputs
+- G.9 Timeline & Resource Requirements
+
+## APPENDIX A.8: PRELIMINARY STAKEHOLDER CONSULTATION SUMMARY
+
+- Overview
+- Stakeholder Category 1: Islamic Financial Institutions (4 interviews)
+- Stakeholder Category 2: Cryptocurrency Exchanges and Projects (5 interviews)
+- Stakeholder Category 3: Islamic Regulators (4 interviews)
+- Stakeholder Category 4: Islamic Scholars and Shariah Advisors (3 interviews)
+- Cross-Cutting Themes Across All Stakeholder Groups
+- Implications for Framework Refinement
+- Overall Assessment
+- Conclusion

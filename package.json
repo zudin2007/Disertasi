@@ -8,6 +8,8 @@
     "build": "node build/build.js",
     "build:pdf": "node build/build.js --only=pdf",
     "build:docx": "node build/build.js --only=docx",
+    "toc": "node build/gen-toc.js",
+    "toc:check": "node build/gen-toc.js --check",
     "research:screener": "node research-halalscreener.js",
     "research:analysis": "node research-analysis.js"
   },
