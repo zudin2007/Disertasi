@@ -135,12 +135,12 @@
   - 3.7.2 Authority Profiles
 - 3.8 Implications for Understanding Cryptocurrency Classification
   - 3.8.1 Key Implications
-- 3.9 Chapter Conclusion
-- 3.6 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
-  - 3.6.1 Disagreement Mapping Matrix
-  - 3.6.2 Implications for Framework Development
-  - 3.6.3 Research Agenda Implications
-- 3.7 Policy Implications for Regulators
+- 3.9 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
+  - 3.9.1 Disagreement Mapping Matrix
+  - 3.9.2 Implications for Framework Development
+  - 3.9.3 Research Agenda Implications
+- 3.10 Policy Implications for Regulators
+- 3.11 Chapter Conclusion
 - References for Chapter 3
 
 ## Chapter 4: Comparative Regulatory Analysis Across Islamic Jurisdictions
