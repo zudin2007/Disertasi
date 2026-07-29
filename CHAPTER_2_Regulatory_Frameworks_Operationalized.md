@@ -1167,6 +1167,12 @@ This question bridges regulatory analysis with forward-looking assessment of com
 
 - Peraturan Anggota Dewan Komisioner OJK Nomor 3 Tahun 2026 tentang reformulasi pelaporan aset kripto dan penguatan pengawasan derivatif digital (PADK 3/2026). Jakarta: OJK. (2026). Retrieved from: https://www.ojk.go.id
 
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2024). *Peraturan Otoritas Jasa Keuangan No. 3/POJK.07/2024 tentang Penyelenggaraan Inovasi Teknologi Sektor Keuangan.* Jakarta: OJK. [Updated sandbox framework replacing 13/2018; formal pathway for testing Shariah-compliant financial technology]
+
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2024). *Surat Edaran Otoritas Jasa Keuangan No. 20/SEOJK.07/2024 tentang Penyelenggaraan Perdagangan Aset Keuangan Digital Termasuk Aset Kripto.* Jakarta: OJK. [Technical implementation guidance for POJK 27/2024]
+
+- Otoritas Jasa Keuangan (OJK), Indonesia. (2025). *Surat Edaran Otoritas Jasa Keuangan No. 16/SEOJK.07/2025 tentang Kewajiban Anti-Pencucian Uang, Pencegahan Pendanaan Terorisme, dan Pencegahan Pembiayaan Proliferasi Senjata Pemusnah Massal bagi Pedagang Aset Keuangan Digital.* Jakarta: OJK. [AML-CFT compliance requirements for crypto exchanges; governance dimension of compliance]
+
 - Yulfa Aulia. (2025). "Analisis Pengaturan Aset Kripto Dalam Peraturan Otoritas Jasa Keuangan Nomor 27 Tahun 2024." Skripsi, UIN Sultan Syarif Kasim Riau.
 
 - Liputan6. (12 February 2026). "OJK: Kajian Status Syariah Aset Kripto Bersama DSN-MUI Masih Berlangsung." Jakarta: Liputan6 News. Retrieved from: https://www.liputan6.com

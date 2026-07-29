@@ -829,6 +829,16 @@ The dissertation's empirical research (Phases 1-3) is designed to evaluate these
 
 - Otoritas Jasa Keuangan (OJK), Indonesia. (2025). "Peraturan Otoritas Jasa Keuangan No. 27/2024 on Digital Asset Trading Platform Services (as amended by POJK No. 23/2025)." Jakarta: OJK. Effective Date: January 10, 2025; Amendment effective: December 2025. Retrieved from: https://www.ojk.go.id (In Indonesian; English summaries available through OJK International Relations).
 
+### Primary Sources — Indonesia Regulatory & Institutional Framework
+
+- Otoritas Jasa Keuangan. (2018). *Peraturan Otoritas Jasa Keuangan No. 13/POJK.02/2018 tentang Inovasi Keuangan Digital di Sektor Jasa Keuangan.* Lembaran Negara RI Tahun 2018 No. 135. [Historical context: Original digital innovation sandbox framework (Pasal 7-13); already acknowledged blockchain applications and Islamic digital financing, e-waqf, e-zakat (Penjelasan Pasal 3, huruf g-h); maximum 1-year sandbox + 6-month extension; foundation for later POJK 27/2024 framework]
+
+- Dewan Syariah Nasional-MUI. (2018). *Fatwa DSN-MUI No. 117/DSN-MUI/II/2018 tentang Layanan Pembiayaan Berbasis Teknologi Informasi Berdasarkan Prinsip Syariah.* Jakarta: DSN-MUI, 22 February 2018. [Foundational fintech Shariah framework; establishes authoritative definitions of gharar, maysir, dharar, tadlis (Ketentuan Umum 18-22); six permissible business models via specific akad structures (wakalah bi al-ujrah + bai'/ijarah/mudharabah/musyarakah/qardh); **methodological precedent**: institutional pathway (industry petition → DSN-MUI fatwa → regulatory framework) applicable to cryptocurrency classification]
+
+- Nugroho, S. (2025, 26 September). *Inovasi Teknologi Sektor Keuangan, Aset Keuangan Digital dan Aset Kripto, dan Tinjauan dari Lensa Syariah* [Presentasi]. Rapat Ijtima' Sanawi (Annual Meeting) DPS XXI Tahun 2025, OJK. [Official OJK data: 15.85 million consumers (June 2025), Rp32.31T monthly transaction volume, 1,342 digital assets approved, 24 PAKD (crypto exchanges), 3 formal associations; **critical finding**: Tokenisasi Emas GIDR passed sandbox August 8, 2025, assessed as complying with MUI 2021 Fatwa Point 3; DSN-MUI has not yet issued new cryptocurrency Shariah classification fatwa (as of September 2025)]
+
+- Erismen, R. (2025, 23 Januari). *Dinamika Fatwa tentang Investasi Kripto & Saham Syariah* [Presentasi]. Webinar PMB STEI SEBI. [Islamic jurisprudence foundations: Islamic scholars (Malik, Ibn Taymiyyah, Hai'ah Kibar) establish that money's legitimacy derives from 'urf/agreement, not material substance; map of early prohibition positions: Turkey (Diyanet), Egypt (Shawqi Allam), Saudi Arabia (Al-Muthalliq), Palestine, Doha Conference IV; alternative positions: Abu Ghudah (prohibition as *al-man'u* policy not *tahrim* ruling); **empirical data**: Jan-Nov 2024 transaction volume Rp556.53T (+356% YoY), 20.9 million investors (August 2024); documents full text of MUI Ijtima' Sanawi VII 2021 Recommendation on cryptocurrency]
+
 ### Academic and Scholarly Sources
 
 - Abduh, Muhammad. (1966). *The Theology of Unity* (Risalat al-Tawhid). Translated by Ishaq Musa'ad and Kenneth Cragg. London: Allen & Unwin. [Classical reference on Islamic jurisprudential methodology applicable to cryptocurrency classification]
