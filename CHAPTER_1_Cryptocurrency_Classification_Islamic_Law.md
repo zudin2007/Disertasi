@@ -583,28 +583,19 @@ The convergence hypothesis and testable indicators are theoretical. This section
 
 **Data from Luno Malaysia (March–July 2024):** Institutional traders (>MYR 2M net worth) comprise 23% of platform users but 67% of trading volume. These users can access higher leverage (currently 1:2) and are less constrained by position limits. This creates a bifurcated user base: retail users (constrained, compliant) and institutional users (higher-leverage, less compliant).
 
-#### 6.3.2 Case Study 2: Indonesia's OJK Transition (Position B to A Shift in Progress)
+#### 6.3.2 Case Study 2: Indonesia (Live Transition Experiment)
 
-**Context:** Indonesia presents the clearest example of jurisprudential positions in conflict. The MUI (2021) issued Fatwa 4/DSN-MUI/IX/2021 prohibiting cryptocurrency as haram. Simultaneously, the OJK (2024) issued Regulation 8/2024 permitting cryptocurrency trading under conditions. This creates a lived compliance dilemma.
+**Context:** Indonesia presents the clearest example of jurisprudential positions in live negotiation. The 2021 Ijtima' Ulama ruling (Position B with a point-3 exception) coexists with a religiously neutral licensing regime under POJK No. 27/2024 (amended POJK No. 23/2025, December 2025). The connective tissue between the two — a DSN-MUI fatwa that the statutory Shariah pathway (P2SK Law Art. 214) is designed to absorb — does not yet exist; an OJK–DSN-MUI classification study remained unresolved as of February 2026.
 
-**User Profile Example:** Siti, an Indonesian Islamic finance professional, age 41, works at an Islamic bank.
-- **Pre-2024:** Siti abstained from cryptocurrency entirely, citing MUI fatwa to colleagues
-- **January 2024:** OJK regulation becomes effective; her Islamic bank begins studying cryptocurrency offerings
-- **Decision point:** Should the bank offer Shariah-compliant cryptocurrency trading products to customers?
-- **Internal debate at bank:** The bank's own Shariah board convenes. Some board members cite MUI fatwa (Position B); others note OJK approval (Position A)
-- **Resolution process:** Bank conducts its own Shariah screening, concludes Bitcoin satisfies Maqasid requirements under strict conditions, issues internal ruling permitting cryptocurrency offerings
-- **Actual outcome (June 2024):** Bank launches "Islamic Cryptocurrency Investment Fund" backed by Bitcoin (spot holdings only, no leverage). Minimum investment: IDR 50 million (~$3,200)
+**Regulatory Development (2025–2026):** In the interim, Shariah compliance is being operationalized case by case through the regulatory sandbox: Gold tokenization (the GIDR token, one token = one gram of physical gold) passed the sandbox on August 8, 2025. The token was assessed by the regulator as satisfying the Ijtima' ruling's point-3 exception (clear underlying, definite value, deliverability; free of gharar, dharar, qimar).
 
-**Jurisprudential methodology at work:** The bank did not blindly follow either MUI or OJK. Instead, it:
-1. Examined the MUI fatwa's specific reasoning (gharar, maysir, riba)
-2. Evaluated whether OJK's regulatory framework actually addresses those concerns
-3. Conducted independent Shariah analysis
-4. Found that OJK's position limits and leverage restrictions resolved maysir and gharar concerns identified by MUI
-5. Issued internal ruling that cryptocurrency is permissible "conditional on OJK regulatory safeguards"
+**Jurisprudential Implication:** In the terms of this chapter's classification framework, Indonesia has thus validated a **Category 1/3-type asset** (asset-backed digital asset meeting Islamic requirements) while the status of **Category 2 and Category 4 assets** (non-collateralized cryptocurrencies on regulated venues) remains formally unresolved.
 
-**Impact on users and scholars:** This case study demonstrates how institutional Shariah boards can facilitate convergence between positions without explicit consensus. Users of the bank's cryptocurrency fund now have an institution asserting Shariah compliance, which reduces the psychological burden of the MUI/OJK contradiction.
+**Why This Matters:** The Indonesian case does not map onto a single Position. Instead, it is a **live experiment in whether Position B's own exception clause can carry a jurisdiction toward Position C, one asset class at a time.** The Ijtima' ruling's point-3 exception—cryptocurrency "that meets the *sil'ah* requirements, possesses an underlying, and has clear benefit is valid for trade"—provides the jurisprudential pathway. Regulators and Shariah boards are now testing whether real assets (physical gold) can satisfy that pathway.
 
-**Convergence mechanism identified:** When regulatory frameworks prove robust enough, Shariah boards can validate them—effectively shifting local jurisprudence from Position B toward Position A. By 2025, multiple Indonesian Islamic banks may issue similar products, creating institutional precedent that gradually delegitimizes the strict MUI prohibition among practicing Muslims.
+**Implementation framework:** The OJK-DSN-MUI Joint Working Group (established September 2025) is tasked with developing unified Shariah screening standards for additional asset classes. The expected outcome (Q2-Q3 2026) is a formal classification fatwa that would operationalize conditional permissibility for categories beyond pure commodity cryptocurrencies.
+
+**Convergence mechanism identified:** Indonesia's pathway demonstrates how an exception clause built into a restrictive ruling (Position B) can enable progressive asset classification without requiring explicit position shift. The mechanism is institutional: sandbox validation → Shariah board approval → formal classification study. This is potentially replicable in other jurisdictions with similar jurisprudential starting points. Full analysis: Chapter 2, Section 5.
 
 #### 6.3.3 Case Study 3: Saudi Arabia's Regulatory Gap (Position B Enforcement)
 
