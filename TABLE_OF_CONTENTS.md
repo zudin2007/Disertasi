@@ -16,39 +16,36 @@
 
 ## Chapter 1: Cryptocurrency Classification Under Islamic Law
 
-- TABLE OF CONTENTS
-- 1. INTRODUCTION: THE CLASSIFICATION CRISIS
-  - 1.1 Problem Statement
-  - 1.2 Research Question
-  - 1.3 Chapter Structure and Contribution
+- Jurisprudential Analysis, Methodological Divergence, and Proposed Framework
+- 1. INTRODUCTION: THE CLASSIFICATION CRISIS AND RESEARCH IMPERATIVE
+  - 1.1 Problem Statement: Fragmentation in Islamic Finance's Response to Cryptocurrency
+  - 1.2 Research Question and Theoretical Framing
+  - 1.3 Chapter Structure, Scope, and Contribution to Islamic Finance Literature
 - 2. HISTORICAL CONTEXT: EMERGENCE OF DIGITAL ASSETS IN ISLAMIC FINANCE DISCOURSE
-  - 2.1 Pre-Cryptocurrency Islamic Finance Framework
-  - 2.2 The Fintech Transition (2008–2017)
-  - 2.3 The Cryptocurrency Pivot (2017–Present)
-  - 2.4 Three Parallel Jurisprudential Responses (2017–2026)
-- 3. THE THREE JURISPRUDENTIAL POSITIONS
+  - 2.1 Pre-Cryptocurrency Jurisprudential Frameworks: Classical Categories of Wealth and Exchange
+  - 2.2 The Fintech Transition (2008–2017): Digital Representation and Islamic Compliance
+  - 2.3 The Cryptocurrency Pivot (2017–Present): Decentralization, Speculation, and Programmed Scarcity
+  - 2.4 Three Parallel Jurisprudential Responses (2017–2026): The Crystallization of Positions
+- 3. THE THREE JURISPRUDENTIAL POSITIONS: DETAILED ANALYSIS
   - 3.1 POSITION A: CRYPTOCURRENCY AS DIGITAL PROPERTY (CONDITIONALLY PERMISSIBLE)
-  - 3.2 POSITION B: CRYPTOCURRENCY AS MEDIUM OF EXCHANGE (LIKELY PROHIBITED)
-  - 3.3 POSITION C: CRYPTOCURRENCY AS EVOLVING ASSET (DEFERRED JUDGMENT)
-- 4. COMPARATIVE JURISPRUDENTIAL METHODOLOGY
-  - 4.1 Methodological Framework Comparison
-  - 4.2 Points of Agreement
-  - 4.3 Points of Disagreement
-- 5. MAQASID SHARIAH FRAMEWORK: FIVE-DIMENSIONAL COMPLIANCE ANALYSIS
-  - 5.1 Application of Islamic Jurisprudential Objectives
-  - 5.2 Five-Dimensional Cryptocurrency Compliance Framework
-  - 5.3 Compliance Scoring Methodology
-- 6. SYNTHESIS: TOWARD A UNIFIED CLASSIFICATION FRAMEWORK
+  - 3.2 POSITION B: CRYPTOCURRENCY AS PROBLEMATIC MONEY (PROHIBITED OR CONDITIONALLY PERMITTED)
+  - 3.3 POSITION C: CRYPTOCURRENCY AS EVOLVING ASSET (EMPIRICAL PRAGMATISM AND DEFERRED JUDGMENT)
+- 4. COMPARATIVE JURISPRUDENTIAL METHODOLOGY: WHERE POSITIONS AGREE AND DIVERGE
+  - 4.1 The Underlying Factual Consensus
+  - 4.2 The Methodological Divergence: Different Jurisprudential Frameworks
+  - 4.3 Convergence Points: Potential Future Movement
+- 5. THE MAQASID SHARIAH FRAMEWORK: OPERATIONALIZING ISLAMIC LAW'S OBJECTIVES
+  - 5.1 Five Operational Dimensions for Cryptocurrency Assessment
+  - 5.2 Integrated Assessment Framework
+- 6. SYNTHESIS AND CONVERGENCE HYPOTHESIS: TOWARD INSTITUTIONAL ACCOMMODATION
   - 6.1 The Convergence Hypothesis
-  - 6.2 Testable Convergence Indicators
-  - 6.3 Implementation Case Studies: How the Unified Framework Operates in Practice
-  - 6.4 Integrated Classification Proposal
-- 7. CHAPTER CONCLUSION AND TRANSITION TO EMPIRICAL STUDY
-  - 7.1 Jurisprudential Consensus and Disagreement
-  - 7.2 Research Validation Agenda
-  - 7.3 Bridge to Regulatory Analysis
-  - 7.4 Contribution to Islamic Finance Literature
-  - 7.5 Conclusion
+  - 6.2 Six Case Studies: Jurisprudential Positions in Practice
+  - 6.3 Convergence Pathways: Specific Empirical Conditions
+- 7. CONCLUSION: TOWARD EMPIRICALLY-GROUNDED JURISPRUDENTIAL REASSESSMENT
+  - 7.1 Chapter Synthesis
+  - 7.2 Bridge to Empirical Study
+  - 7.3 Contribution to Islamic Finance Scholarship
+  - 7.4 Final Thoughts: The Research Agenda Ahead
 - REFERENCES
 
 ## Chapter 2: Islamic Legal Framework - Maqasid Shariah Analysis
@@ -98,49 +95,43 @@
 ## Chapter 3: Jurisprudential Positions and Islamic Authority Perspectives
 
 - Introduction
-- 3.1 AAOIFI (Accounting & Auditing Organization for Islamic Financial Institutions)
-  - 3.1.1 Institutional Background
-  - 3.1.2 AAOIFI Position on Cryptocurrency (2023)
+- 3.1 AAOIFI: International Institutional Standards for Islamic Finance
+  - 3.1.1 Institutional Background and Authority
+  - 3.1.2 AAOIFI's Position on Cryptocurrency: The 2023 Shariah Standards
   - 3.1.3 AAOIFI's Jurisprudential Reasoning
-  - 3.1.4 AAOIFI's Nuanced Assessment
-  - 3.1.5 Implementation Guidance from AAOIFI
-- 3.2 Dar al-Ifta al-Misriyyah (Egypt's Grand Mufti Office)
-  - 3.2.1 Institutional Background
-  - 3.2.2 Dar al-Ifta Position on Cryptocurrency (2017)
+  - 3.1.4 AAOIFI's Nuanced Assessment Matrix
+  - 3.1.5 Implementation Guidance and Institutional Implications
+- 3.2 Dar al-Ifta al-Misriyyah: The Protective Jurisprudential Position
+  - 3.2.1 Institutional Authority and Historical Context
+  - 3.2.2 Dar al-Ifta's Cryptocurrency Fatwa (2017)
   - 3.2.3 Dar al-Ifta's Jurisprudential Reasoning
   - 3.2.4 Dar al-Ifta's Narrow Exception
-  - 3.2.5 Implications of Dar al-Ifta Position
-- 3.3 Mufti Muhammad Taqi Usmani
-  - 3.3.1 Biographical Background
-  - 3.3.2 Taqi Usmani's Position on Cryptocurrency (2024)
-  - 3.3.3 Taqi Usmani's Detailed Framework
+  - 3.2.5 Implications and Scope of Dar al-Ifta's Prohibition
+- 3.3 Mufti Muhammad Taqi Usmani: The Adaptive Jurisprudential Position
+  - 3.3.1 Biographical Background and Scholarly Authority
+  - 3.3.2 Taqi Usmani's Position on Cryptocurrency: The Nuanced Assessment (2024)
+  - 3.3.3 Taqi Usmani's Detailed Assessment Framework
   - 3.3.4 Taqi Usmani's Jurisprudential Methodology
   - 3.3.5 Evolution of Taqi Usmani's Position
-- 3.4 Majelis Ulama Indonesia (MUI) - Indonesian Islamic Scholars Council
-  - 3.4.1 Institutional Background
-  - 3.4.2 MUI Position on Cryptocurrency (2021-2026)
-  - 3.4.3 MUI's Jurisprudential Reasoning
+- 3.4 Majelis Ulama Indonesia (MUI): Regulatory Authority and Institutional Pragmatism
+  - 3.4.1 Institutional Background and Authority
+  - 3.4.2 MUI's Position on Cryptocurrency: Historical Position and Evolving Framework
+  - 3.4.3 MUI's Jurisprudential Reasoning (2021 Position)
   - 3.4.4 MUI's Distinction: Commodity Classification
-  - 3.4.5 MUI's Risk Assessment
-- 3.5 Synthesis: Points of Consensus and Divergence
-  - 3.5.1 Major Points of Consensus
-  - 3.5.2 Points of Divergence
-  - 3.5.3 Scholarly Disagreement: Areas of Legitimate Dispute
-- 3.6 Evolution of Jurisprudential Thought
-  - 3.6.1 Timeline of Islamic Positions (2017-2026)
-  - 3.6.2 Factors Driving Evolution (2017-2026)
-  - 3.6.3 Direction of Jurisprudential Development (2017-2026)
-- 3.7 Comparative Jurisprudential Framework
-  - 3.7.1 Position Comparison Table
-  - 3.7.2 Authority Profiles
-- 3.8 Implications for Understanding Cryptocurrency Classification
-  - 3.8.1 Key Implications
-- 3.9 Mapping Disagreement Sources: Jurisprudential vs. Empirical vs. Methodological
-  - 3.9.1 Disagreement Mapping Matrix
-  - 3.9.2 Implications for Framework Development
-  - 3.9.3 Research Agenda Implications
-- 3.10 Policy Implications for Regulators
-- 3.11 Chapter Conclusion
+  - 3.4.5 MUI's Risk Assessment and Consumer Protection Emphasis
+- 3.5 Synthesis: Points of Consensus and Legitimate Disagreement
+  - 3.5.1 Major Points of Scholarly Consensus
+  - 3.5.2 Points of Meaningful Disagreement
+  - 3.5.3 Scholarly Disagreement as Legitimate Jurisprudential Diversity
+- 3.6 Evolution of Jurisprudential Thought (2017-2026)
+  - 3.6.1 Historical Timeline of Islamic Institutional Positions
+  - 3.6.2 Factors Driving Jurisprudential Evolution
+  - 3.6.3 Direction of Jurisprudential Development
+- 3.7 Implications for Understanding Cryptocurrency Classification
+  - 3.7.1 Implications for Islamic Communities and Policymakers
+- 3.8 Mapping Disagreement Sources: Identifying What Requires Resolution
+  - 3.8.1 Key Disagreement Mappings
+- 3.9 Chapter Conclusion
 - References for Chapter 3
 
 ## Chapter 4: Comparative Regulatory Analysis Across Islamic Jurisdictions
@@ -153,6 +144,10 @@
   - 4.1.4 OJK's Jurisprudential Coordination
   - 4.1.5 Assessment: Strengths and Weaknesses
   - 4.1.6 Compliance Burden and Market Impact
+  - 4.1.7 OJK Institutional Ecosystem: IAKD and Regulatory Sandbox Implementation
+  - 4.1.8 OJK Regulatory Sandbox: Seven Models of Compliant Innovation Pathway
+  - 4.1.9 Case Study: GIDR (Gold Indonesia Republic) Token — Operationalizing Fatwa MUI Butir 3
+  - 4.1.10 Strategic Development Pillars: OJK's Institutional Approach
 - 4.2 Malaysia: BNM Recognition with Regulatory Framework
   - 4.2.1 Malaysian Financial Context
   - 4.2.2 Regulatory Framework: BNM Digital Assets Guidelines (2024)
