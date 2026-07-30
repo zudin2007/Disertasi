@@ -97,5 +97,60 @@ Lima tujuan Maqasid (dalam Abstrak): necessity → **keniscayaan**; certainty �
 
 Indonesia, Malaysia, Arab Saudi (Saudi Arabia), Uni Emirat Arab / UEA (UAE), Bahrain, Mesir (Egypt), Pakistan.
 
+## Tambahan istilah — Bab 2 (Maqasid Syariah)
+
+### Lima maqasid (judul bab) & kaidah usul
+
+| Inggris/Arab (sumber) | Indonesia (ilmiah) | Catatan |
+|---|---|---|
+| Al-Darura (necessity) | **Al-Darura** (keniscayaan) | Kategori tertinggi maqasid. |
+| Al-Tahaqquq (certainty) | **Al-Tahaqquq** (kepastian) | Lawan *gharar*. |
+| Al-Maslaha (public interest) | **Al-Maslaha** (kemaslahatan umum) | |
+| Al-Adl (justice) | **Al-Adl** (keadilan) | |
+| Al-Karamah (dignity) | **Al-Karamah** (martabat) | |
+| al-dharuriyyat al-khams | **al-dharuriyyat al-khams** (lima keniscayaan) | Cetak miring. |
+| al-asl fi al-muamalat al-ibaha | *al-asl fi al-muamalat al-ibaha* (hukum asal muamalah = kebolehan) | Kaidah usul; salin verbatim + gloss. |
+| ibaha | **ibaha** (kebolehan) | |
+| nass qat'i | *nass qat'i* (nas yang definitif/qath'i) | |
+| sadd al-dhara'i | *sadd al-dhara'i* (menutup jalan menuju kerugian) | |
+| tahqiq al-manat | *tahqiq al-manat* (verifikasi sebab operatif dalam kasus konkret) | |
+| ghalib al-zann | *ghalib al-zann* (dugaan kuat/preponderan) | |
+| 'urf / 'urf sahih | *'urf* (kebiasaan mapan) / *'urf sahih* (kebiasaan yang sahih) | |
+| hifz al-mal | *hifz al-mal* (pemeliharaan harta) | |
+| thaman | *thaman* (alat pembayaran/harga) | |
+| fulus | *fulus* (uang logam/token tembaga) | |
+| rebuttable (presumption) | dapat dibantah (*rebuttable*) | |
+| steelman | steelman (rekonstruksi argumen lawan dalam bentuk terkuat) | Istilah dipertahankan. |
+
+### Instrumen keuangan Islam (ejaan Indonesia)
+
+| Inggris (sumber) | Indonesia (ilmiah) | Catatan |
+|---|---|---|
+| Murabaha | **Murabahah** (pembiayaan cost-plus) | |
+| Sukuk | **Sukuk** (obligasi syariah) | |
+| Musharaka | **Musyarakah** (kemitraan) | |
+
+### Istilah pasar/teknis tambahan
+
+| Inggris | Indonesia | Catatan |
+|---|---|---|
+| ledger | buku besar (*ledger*) | |
+| immutable | tak-terubah | |
+| smart contract | kontrak pintar (*smart contract*) | |
+| decentralized finance | keuangan terdesentralisasi (*decentralized finance*) | |
+| pump-and-dump | skema *pump-and-dump* | Istilah dipertahankan. |
+| whale traders | *whale traders* | |
+| spoofing / wash trading | *spoofing* / *wash trading* | Istilah dipertahankan. |
+| day trader | pedagang harian (*day trader*) | |
+| remittance | pengiriman uang (*remittance*) | |
+| unbanked | (populasi) tanpa akses perbankan (*unbanked*) | |
+| regulatory capture | penguasaan regulasi (*regulatory capture*) | |
+| Proof-of-Work | *Proof-of-Work* | |
+| mining | penambangan (*mining*) | |
+| Gini coefficient | koefisien Gini | Nilai koefisien: gunakan koma desimal (0,88). |
+| first-mover advantage | keunggulan pihak yang bergerak pertama (*first-mover*) | |
+
+*Catatan format Bab 2:* verdikt/emoji (❌ ⚠️ ✅ ✓) dan blok kode ASCII (bagan skor, distribusi Gini) dipetakan 1:1; label di dalamnya diterjemahkan, angka & bar dipertahankan, desimal dilokalkan (mis. `2,4/5`, `3,5–4,0/5`). Harga dolar dilokalkan pemisah ribuan (`$29.000`).
+
 ---
 *Sumber terjemahan: repo `zudin2007/Disertasi`, cabang `claude/halalscreener-mcp-setup-0imrfp`, commit `7e2daeb` (kanonik per DISAA-21). Perbarui glosarium ini bila muncul istilah baru saat menerjemahkan bab berikutnya.*
