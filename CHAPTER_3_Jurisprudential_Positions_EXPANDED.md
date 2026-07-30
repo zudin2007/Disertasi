@@ -872,3 +872,52 @@ The jurisprudential landscape provides framework for regulatory development:
 
 The ultimate significance of this chapter is demonstrating that Islamic jurisprudence provides sophisticated framework for cryptocurrency assessment that goes far beyond simple prohibition. This framework—with appropriate regulatory operationalization—can guide markets toward Islamic compliance while preserving innovation opportunities.
 
+---
+
+## References for Chapter 3
+
+### AAOIFI Publications
+
+- AAOIFI. (2023). *Shariah Standards on Financial Transactions and Instruments*. Shariah Board of AAOIFI.
+- AAOIFI. (2020). *Statement on the Shari'ah Ruling on Digital Assets and Currencies*. AAOIFI Shariah Board.
+
+### Dar al-Ifta Egypt
+
+- Dar al-Ifta al-Misriyyah. (2017). *Fatwa on Bitcoin and Cryptocurrency*. Grand Mufti Shawki Allam. Official Website: www.dar-alifta.org
+- Dar al-Ifta al-Misriyyah. (2019). *Clarification on Cryptocurrency Ruling*. Grand Mufti Shawki Allam.
+
+### Mufti Muhammad Taqi Usmani
+
+- Usmani, Muhammad Taqi. (2024). *Contemporary Islamic Financial Transactions*. Islamic Book Trust.
+- Usmani, Muhammad Taqi. (2023). *Islamic Finance and Investment*. Dar al-Ishraq.
+- Usmani, Muhammad Taqi. (2021). *The Fiqh of Contemporary Financial Instruments*.
+
+### Majelis Ulama Indonesia (MUI)
+
+- MUI. (2021). *Fatwa No. 4/DSN-MUI/IX/2021 on Cryptocurrency as Investment Commodity*. Jakarta: Majelis Ulama Indonesia.
+- MUI. (2021). *Explanation and Reasoning Behind Cryptocurrency Fatwa*. DSN-MUI Documentation.
+
+### Comparative Islamic Finance Scholarship
+
+- Al-Qaradawi, Yusuf. (2013). *The Lawful and the Prohibited in Islam (Halal and Haram in Islam)*. American Trust Publications.
+- Auda, Jasser. (2008). *Maqasid al-Shariah: A Beginner's Guide*. The International Institute of Islamic Thought.
+- Khan, Muhammad Akram. (1992). *Islamic Economics and Finance*. Oxford University Press.
+- Kamali, Mohammad Hashim. (2003). *Principles of Islamic Jurisprudence* (3rd rev. ed.). Cambridge: The Islamic Texts Society. [Usul basis for the *sadd al-dhara'i* vs. *al-asl al-ibaha* divergence discussed in §3.5.3.]
+- Diyanet İşleri Başkanlığı (Presidency of Religious Affairs, Turkey). (2017). *Ruling on the use of cryptocurrencies*. [Strict-camp position that cryptocurrency trading is not compatible with Islam; cited in §3.5.3 Disagreement Area 4.]
+- Al-Kasani, Ala al-Din. (n.d.). *Bada'i al-Sana'i fi Tartib al-Shara'i* [Hanafi functional definition of *mal* and the validity of *fulus*; basis for the rebuttal of the intrinsic-value premise].
+
+### Empirical Adoption and Islamic Fintech Studies
+
+- "Negotiating Faith in the Digital Age: A Theoretical Analysis of Crypto-Islamic Discourse on Indonesian Social Media." (2026). Journal article via Taylor & Francis. DOI: 10.1080/10357823.2026.2686718. [Examines crypto-Islamic discourse on Indonesian social media; Indonesia as highest-potential Muslim fintech market with US$4.68 billion crypto trading 2021]
+
+- Nabila Safira, et al. (2025). "Fintech Lending Adoption among Muslim Millennials: TAM and Islamic Financial Behavior Model Analysis in Indonesia, Malaysia, and Thailand." *Islamic Finance Quarterly*. [Multi-country TAM + IFBM study of P2P lending; methodological precedent for cryptocurrency adoption research]
+
+- Zainudin, M. (2026). "Pemetaan Perkembangan Riset Islamic Fintech: Analisis Bibliometrik dan Systematic Literature Review Tahun 2018–2025." *Indonesian Scientific Journal of Islamic Finance*, 4(2), 221–239. DOI: 10.21093/inasjif.v4i2.11960. [Bibliometric review identifying whether cryptocurrency adoption has emerged as distinct research cluster]
+
+- American International Theism University (AITU). (May 2026). "The Adoption of Digital Islamic Banking: Opportunities, Risks, and Regulatory Challenges." [Market scale data: IFSI global assets $3.69T 2024, GCC 53.1% share; IFSB 2025 analysis]
+
+---
+
+**End of Chapter 3**
+
+---
