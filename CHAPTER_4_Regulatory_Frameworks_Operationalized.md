@@ -862,6 +862,8 @@ The Saudi Arabian Monetary Authority (SAMA) has issued no binding permission for
 - Saudis who wish to trade crypto must use offshore exchanges
 - No Shariah board oversight of Saudi crypto trading
 
+Saudi Arabia thus presents the second of the chapter's two "failed equilibria," and it is instructive to state precisely why an outcome that looks like the most cautious—and therefore, on a surface reading, the most Shariah-protective—may in fact be among the least effective at securing the objectives it invokes. SAMA's posture secures the appearance of prohibition without any of the institutional machinery that would make prohibition operative: there is no licensed venue, no screening body, and no supervisory perimeter, so the stance functions as discouragement rather than enforced ban. From a maqasid standpoint the difficulty is that discouragement without a compliant alternative does not remove the object of concern; it merely relocates it beyond oversight. The Saudi believer who wishes to hold crypto-assets is left with only non-compliant, unscreened, offshore options, so that the practical effect of the most restrictive official stance is to help guarantee that whatever trading does occur occurs in its least compliant possible form. Subsection 4.6.3 documents that such trading is far from negligible.
+
 ### 4.6.2 CBDC Development Parallel to Cryptocurrency Discouragement
 
 **Paradoxically**, while discouraging cryptocurrency, Saudi Arabia is aggressively developing a Central Bank Digital Currency (CBDC):
@@ -935,6 +937,8 @@ Saudi Arabia's approach demonstrates a regulatory paradox: Prohibition without r
 
 Saudi Arabia's strict discouragement while neighboring UAE permits regulated crypto has created "regulatory arbitrage" where crypto professionals and fintech companies increasingly base operations in Dubai rather than Riyadh. This represents competitive disadvantage for Saudi Arabia relative to other Gulf states.
 
+The jurisprudential lesson of this pattern reaches beyond Saudi Arabia specifically. A prohibition is not self-executing; its capacity to protect the maqasid depends on an enforcement architecture that mere discouragement lacks. Where a sizeable population retains both the desire and the technical means to transact, a prohibition unaccompanied by a compliant channel can produce a *mafsadah* (harm) larger than the one it was meant to avert: users bear the full *gharar* and *maysir* of unscreened venues, receive no consumer protection, generate no transparent record for taxation or *zakat*, and place their assets beyond the reach of any Shariah supervision whatsoever. This is the inverse of the Malaysian and Bahraini wager. Those jurisdictions accepted a controlled, screened exposure to digital assets on the reasoning that a supervised lesser risk is preferable to an unsupervised greater one; Saudi Arabia's stance, by declining to build any channel, forgoes that mitigation entirely. Whether this is the correct trade-off depends on an empirical question the chapter cannot resolve here—how much unregulated activity the prohibition actually deters versus merely displaces—but the Saudi data (a 300,000–500,000-user offshore market despite the official posture) suggest displacement dominates deterrence.
+
 ### 4.6.4 Why Saudi Arabia Differs Fundamentally from Malaysia and Bahrain
 
 **Three structural factors explain Saudi's more conservative approach:**
@@ -947,9 +951,13 @@ Saudi Arabia's strict discouragement while neighboring UAE permits regulated cry
 
 **Regulatory outcome:** Saudi Arabia maintains informal prohibition stance while preparing sovereign CBDC alternative—a fundamentally different regulatory path than Malaysia's "regulated volatile crypto" or Bahrain's "Shariah-compliant stablecoins only" approach.
 
+Read against the other four cases, the Saudi configuration is not simply "more conservative" but qualitatively distinct in the object it seeks to protect. Malaysia, Bahrain, and the UAE protect the individual investor from non-compliant instruments by building compliant ones; Indonesia is caught between two authorities each protecting a different interest; Saudi Arabia protects the *monetary sovereignty of the state* and treats decentralized private currency as incompatible with that objective, channelling its digital-finance ambitions into a sovereign, fully reserve-backed, Shariah-designed CBDC (Project Aber) instead. This reframes the apparent paradox—aggressive CBDC development alongside crypto discouragement—as a single coherent policy: the same maqasid concerns others address through screening (avoidance of *riba*, elimination of *gharar*, full asset-backing, robust governance) Saudi Arabia proposes to satisfy through a state-issued instrument over which it retains complete control. The CBDC is thus best understood not as a substitute product competing with Bitcoin but as an alternative operationalization of the same Islamic-finance objectives, one that privileges *hifz al-mal* at the systemic level—monetary stability and sovereign control—over the individual investor's freedom to access decentralized assets. Whether that ordering of priorities is vindicated is, once more, a question the comparative and gap sections take up rather than one the Saudi framework itself settles.
+
 ---
 
 ## 4.7 COMPARATIVE ANALYSIS: WHAT WORKS, WHAT DOESN'T, WHERE GAPS REMAIN
+
+Having reconstructed each jurisdiction on its own terms, this section draws them into direct comparison—not to rank them on a single scale, which the preceding analysis has shown would be misleading, but to isolate the structural variables that explain their divergence and to identify which design features travel across contexts. The comparison proceeds along three axes: the overall framework matrix (4.7.1), the screening mechanism specifically (4.7.2), and the investor-protection model (4.7.3). A methodological caution frames all three. Several of the quantitative cells below—regulated market share, user-awareness percentages—derive from surveys of modest and uneven sample size and from estimates of the unregulated segment that are, by the very nature of unregulated activity, imprecise. They are reported here because the order of magnitude and the cross-jurisdictional direction they indicate are analytically robust and important, but they should be read as indicative rather than exact, and the research-gap discussion in Section 4.8 returns to the need for more rigorous measurement.
 
 ### 4.7.1 Comparative Framework Matrix
 
@@ -965,6 +973,8 @@ Saudi Arabia's strict discouragement while neighboring UAE permits regulated cry
 | **Regulatory Timeline** | 6 months to launch | 8 months to launch | 14–16 weeks per asset | 6 months to implementation | N/A (no pathway) |
 | **Key Strength** | Operationally mature | Reserve-backed certainty | Transparent methodology | Pragmatic transition | CBDC innovation |
 | **Key Weakness** | Limited asset coverage | Conservative scope | Enforcement gaps | Jurisprudential conflict | No regulatory pathway |
+
+Three patterns emerge from the matrix that no single-country reading could surface. First, jurisprudential position and regulatory outcome are only loosely coupled: Malaysia, Bahrain, and the UAE all occupy Position A (conditional permissibility) yet operationalize it through three quite different primary mechanisms—board screening, reserve-backing, and tiered classification respectively—demonstrating that agreement on the permissibility question underdetermines the design of the framework that follows. Second, the retail-protection row is strikingly uniform: every jurisdiction that permits trading at all converges on a 1:1 (no-leverage) rule for retail investors, which suggests that the anti-*maysir* prohibition on leverage is the single point of near-consensus in an otherwise divergent field, and thus the most promising candidate for cross-jurisdictional harmonization. Third, and most soberingly, the regulated-market-share row is low everywhere it can be measured—16 percent in Malaysia, 14 percent in Bahrain, an estimated 20 percent in the UAE, 3 percent in Indonesia—indicating that the gap between building a compliant framework and capturing the market it targets is not a national idiosyncrasy but a structural feature of the entire field. The remainder of the chapter treats this last pattern as its central empirical puzzle: sophisticated frameworks exist, yet the majority of religiously motivated users remain outside them.
 
 ### 4.7.2 Shariah Screening Mechanisms Compared
 
@@ -1027,9 +1037,13 @@ Saudi Arabia's strict discouragement while neighboring UAE permits regulated cry
 
 **Assessment:** Malaysia, VARA, and Indonesia provide strong protections. Bahrain's stablecoins reduce need for volatility protections. Saudi Arabia leaves users unprotected.
 
+Taken together, the three comparisons yield a composite judgment that resists the simple question "which jurisdiction is best?" On screening sophistication, Malaysia and the UAE lead; on structural certainty of compliance, Bahrain leads; on pragmatic accommodation of an already-existing market, Indonesia leads; and on systemic monetary integrity, Saudi Arabia's CBDC path is the most ambitious. Each excels on the dimension its own regulatory philosophy prioritizes, and each is correspondingly weakest where that philosophy deprioritizes. This is why the policy discussion of Section 4.10 frames harmonization not as convergence on a single model but as the identification of a defensible minimum—most plausibly the no-leverage retail rule and independent, transparent Shariah oversight, the two features that recur across the strongest frameworks—around which jurisdictions retaining distinct philosophies could nonetheless align. The comparative evidence thus points toward a layered rather than a uniform harmonization: a shared floor of investor protection and governance, above which legitimate differentiation may persist.
+
 ---
 
 ## 4.8 RESEARCH GAPS IDENTIFIED
+
+The comparative analysis has repeatedly deferred questions to this section, and the deferral is itself a finding: at nearly every point where one wishes to know whether a framework *achieves* its Shariah objective rather than merely *declares* it, the evidence base thins to survey fragments and estimates. The four gaps catalogued below are therefore not incidental lacunae but a structured research agenda, and they are ordered by their bearing on the chapter's central argument. The first concerns whether the frameworks work at all (empirical compliance outcomes); the second, whether users know the frameworks exist (awareness); the third, why users remain outside them even when aware (arbitrage); and the fourth, whether the frameworks can endure (sustainability). Together they define the empirical Phase 2 to which this predominantly documentary and institutional chapter hands off—the point at which the study must move from analyzing what regulators have written to measuring what their rules actually produce.
 
 ### 4.8.1 Empirical Compliance Data
 
@@ -1117,8 +1131,8 @@ This question bridges regulatory analysis with forward-looking assessment of com
 
 ---
 
-**Word Count:** ~15,800  
-**Estimated Pages:** 48–52 pages (12pt font, single-spaced)
+**Word Count:** ~16,000 (expanded scholarly narrative edition)  
+**Estimated Pages:** 50–56 pages (12pt font, single-spaced)
 
 ---
 
@@ -1168,6 +1182,8 @@ Regulatory variation reflects legitimate policy priorities (consumer protection 
 **Phase 2 (Months 4-6):** Design standards aligned with philosophy; establish thresholds
 **Phase 3 (Months 7-12):** Join IIFRC; identify aligned jurisdictions for cooperation
 **Phase 4 (Months 13-24):** Participate in coordination and mutual learning; adjust standards as evidence accumulates
+
+A final caveat governs these recommendations. The implementation pathway sketched above, and the harmonization architecture it presupposes, are normative proposals derived from the comparative evidence, not descriptions of an existing consensus; standard-setting bodies such as AAOIFI and the IFSB have advanced digital-asset guidance, but as of the period surveyed no binding transnational standard governs the Shariah classification of cryptocurrency, and the coordinating mechanism invoked here should be read as a design aspiration the later chapters develop rather than as an operative institution. What the comparative record does establish, and what grounds the recommendations, is narrower but firmer: that the strongest frameworks share a small set of features—independent and transparent Shariah oversight, precise technical specification, and structural suppression of leverage-driven *maysir*—and that these features, rather than any single national model, are what a harmonization effort should seek to generalize. The policy value of the five-country comparison, in other words, lies less in identifying a winner to be copied than in isolating the transferable components of success from the local particulars that cannot travel. It is on that distinction that the argument of the following chapters is built.
 
 ---
 
