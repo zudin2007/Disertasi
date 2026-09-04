@@ -54,6 +54,7 @@
 ## Chapter 2: Islamic Legal Framework - Maqasid Shariah Analysis
 
 - Introduction
+  - 2.0.1 Islamic Legal Foundations: The Nature of Money in Islamic Jurisprudence
 - 2.1 Al-Darura (Necessity): Financial Stability and Wealth Preservation
   - 2.1.1 Principle Definition
   - 2.1.2 Islamic Financial Principles
@@ -118,6 +119,7 @@
   - 3.3.5 Evolution of Taqi Usmani's Position
 - 3.4 Majelis Ulama Indonesia (MUI) - Indonesian Islamic Scholars Council
   - 3.4.1 Institutional Background
+  - 3.4.1.1 MUI Technical Authorities on Fintech and Cryptocurrency
   - 3.4.2 MUI Position on Cryptocurrency (2021-2026)
   - 3.4.3 MUI's Jurisprudential Reasoning
   - 3.4.4 MUI's Distinction: Commodity Classification
@@ -153,6 +155,10 @@
   - 4.1.4 OJK's Jurisprudential Coordination
   - 4.1.5 Assessment: Strengths and Weaknesses
   - 4.1.6 Compliance Burden and Market Impact
+  - 4.1.7 OJK Institutional Ecosystem: IAKD and Regulatory Sandbox Implementation
+  - 4.1.8 OJK Regulatory Sandbox: Seven Models of Compliant Innovation Pathway
+  - 4.1.9 Case Study: GIDR (Gold Indonesia Republic) Token — Operationalizing Fatwa MUI Butir 3
+  - 4.1.10 Strategic Development Pillars: OJK's Institutional Approach
 - 4.2 Malaysia: BNM Recognition with Regulatory Framework
   - 4.2.1 Malaysian Financial Context
   - 4.2.2 Regulatory Framework: BNM Digital Assets Guidelines (2024)
@@ -201,6 +207,7 @@
 ## CHAPTER 5: UNIFIED CRYPTOCURRENCY CLASSIFICATION FRAMEWORK
 
 - 5.1 Framework Architecture and Synthesis
+- 5.1.1 Core Islamic Arguments Against Pure Cryptocurrency - Synthesis from Major Authorities
 - 5.2 Dimensional Analysis: Five Classification Variables
   - 5.2.1 Asset Backing Dimension (Dimension 1)
   - 5.2.2 Value Stability Dimension (Dimension 2)
@@ -253,6 +260,11 @@
   - 6.9.1 Regulatory Fragmentation Persistence
   - 6.9.2 Cryptocurrency Market Volatility Disruptions
   - 6.9.3 Emerging Technology Disruption
+- 6.6 Working Example: OJK Regulatory Sandbox as Harmonization Model (2025)
+  - 6.6.1 OJK Sandbox Framework as IIFRC Prototype
+  - 6.6.2 Seven Sandbox Models as Dimensional Classification in Practice
+  - 6.6.3 GIDR (Gold Indonesia Republic) Token: Pathway A Implementation in Real Time
+  - 6.6.4 Implications for Inter-Islamic Regulatory Coordination
 - 6.10 Conclusion
 
 ## CHAPTER 7: CONCLUSION AND FUTURE RESEARCH
@@ -291,17 +303,13 @@
   - 7.7.2 Convergence Between Islamic Jurisprudence and Regulatory Best Practice
   - 7.7.3 Role of Cryptocurrency in Islamic Finance Future
   - 7.7.4 Regulatory Leadership Opportunity
+- 7.7 Validation Through Implementation: OJK's 2025 Regulatory Sandbox Operationalization
+  - 7.7.1 OJK Sandbox as Dissertation Framework Validation
+  - 7.7.2 Pathway A Implementation: GIDR as Asset-Backing Enhancement Model
+  - 7.7.3 Institutional Coordination Evolution: IAKD as IIFRC Prototype
+  - 7.7.4 Regulatory Sandbox as Continuous Innovation Pathway
+  - 7.7.5 Emerging Research Questions From OJK Operationalization
 - 7.8 Concluding Remarks
-
-## CHAPTER 8: EMPIRICAL RESEARCH AGENDA & IMPLEMENTATION ROADMAP
-
-- 8.1 Bridging Theory to Evidence
-- 8.2 Phase 1: Jurisprudential Validation Study (6-9 months)
-- 8.3 Phase 2: Market Participant Perception Study (8-12 months)
-- 8.4 Phase 3: Regulatory Implementation Case Studies (9-12 months)
-- 8.5 Validation Framework & Measurement Specifications
-- 8.6 Implications for Dissertation Enhancement & Future Research
-- 8.7 Conclusion
 
 ## APPENDIX B: INTERVIEW PROTOCOL BLUEPRINT FOR PHASE 1 JURISPRUDENTIAL RESEARCH
 

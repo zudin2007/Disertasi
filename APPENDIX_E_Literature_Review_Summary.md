@@ -185,7 +185,3 @@ This dissertation bridges three academic domains:
 - Houben, R., & Snyers, C. (2020). Cryptocurrencies and Blockchain: Legal Context and Implications for Financial Crime, Money Laundering and Tax Evasion. European Parliament Research Service.
 - Barker, A., et al. (2021). Global Cryptocurrency Regulatory Landscape. MIT Media Lab.
 
----
-
-**Appendix E - Word Count: ~1,200 words**
-

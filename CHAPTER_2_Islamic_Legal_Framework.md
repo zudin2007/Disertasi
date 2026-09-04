@@ -680,9 +680,3 @@ Maqasid Shariah provides principled assessment framework applicable across juris
 ---
 
 **End of Chapter 2**
-
----
-
-## Chapter 2 - Word Count: ~4,500 words
-## Total Dissertation Progress: 1 of 7 chapters completed
-## Recommended Writing Timeline: 1 week per chapter = 7 weeks to completion

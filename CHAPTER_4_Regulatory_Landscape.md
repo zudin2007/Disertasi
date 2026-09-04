@@ -1862,7 +1862,3 @@ Regulatory variation reflects legitimate policy priorities (consumer protection 
 ---
 
 **End of Chapter 4**
-
----
-
-## Chapter 4 - Word Count: ~10,500 words (narrative expansion completed 2026-08-02: added analytical framing to the Introduction, interpretive scholarly prose to all five comparative subsections in §4.6, and a doctoral-register opening to each of the five jurisdiction sections; all regulatory facts and citations preserved unchanged)

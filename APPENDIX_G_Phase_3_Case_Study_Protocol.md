@@ -372,7 +372,3 @@
 - Institutional research agreements/coordination: ~$10,000-$15,000
 - **Total budget: ~$220,000-$305,000**
 
----
-
-**Appendix G - Word Count: ~2,500 words**
-
