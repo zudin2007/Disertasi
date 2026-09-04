@@ -37,7 +37,6 @@ This dissertation addresses the fragmentation in cryptocurrency classification a
 5. **[CHAPTER_5_Unified_Classification_Framework.md](CHAPTER_5_Unified_Classification_Framework.md)** — Five-dimensional classification system (~8,750 words, ✅ thorough)
 6. **[CHAPTER_6_Regulatory_Harmonization_Recommendations.md](CHAPTER_6_Regulatory_Harmonization_Recommendations.md)** — IIFRC institutional proposal (~8,750 words, 🟡 needs enforcement mechanics)
 7. **[CHAPTER_7_Conclusion_and_Future_Research.md](CHAPTER_7_Conclusion_and_Future_Research.md)** — Synthesis, contributions, future research (~8,750 words, 🟡 needs limitations section)
-8. **[CHAPTER_8_Empirical_Research_Agenda.md](CHAPTER_8_Empirical_Research_Agenda.md)** — Proposed validation research design (~6,750 words, 🔴 prospectus, not executed)
 
 > **Note on duplicate files:** `CHAPTER_1_Cryptocurrency_Classification_Islamic_Law.md` and `CHAPTER_2_Regulatory_Frameworks_Operationalized.md` are earlier draft versions. The canonical chapters are the files numbered above.
 
@@ -319,7 +318,6 @@ Disertasi/
 ├── CHAPTER_5_Unified_Classification_Framework.md  # ✅ Thorough ~8,750w
 ├── CHAPTER_6_Regulatory_Harmonization_Recommendations.md  # 🟡 Needs enforcement detail ~8,750w
 ├── CHAPTER_7_Conclusion_and_Future_Research.md    # 🟡 Needs limitations section ~8,750w
-├── CHAPTER_8_Empirical_Research_Agenda.md         # 🔴 Prospectus/future work ~6,750w
 │
 ├── # EARLIER DRAFT VERSIONS (do not use as canonical)
 ├── CHAPTER_1_Cryptocurrency_Classification_Islamic_Law.md
@@ -499,6 +497,8 @@ IIFRC proposal demonstrating coordination mechanism for Islamic finance regulati
 
 ### Empirical Validation
 
+> The full empirical programme design is preserved in the appendices: Phase 1 → [APPENDIX_B_Interview_Protocol_Blueprint.md](APPENDIX_B_Interview_Protocol_Blueprint.md), Phase 2 → [APPENDIX_C_Survey_Instrument_Design.md](APPENDIX_C_Survey_Instrument_Design.md), Phase 3 → [APPENDIX_G_Phase_3_Case_Study_Protocol.md](APPENDIX_G_Phase_3_Case_Study_Protocol.md).
+
 - Regulatory effectiveness analysis across jurisdictions
 - Institutional adoption patterns for different cryptocurrency types
 - Stability performance during market crises
@@ -587,7 +587,6 @@ For questions about dissertation content, research methodology, or extensions:
 
 **Version 1.1.0 - 2026-07-21**
 - Enhanced dissertation with additional references in Chapter 2
-- Added Chapter 8 empirical research agenda
 - Added all 7 appendices (A–G)
 - Total word count grew from ~32,900 to ~70,000+ words
 
